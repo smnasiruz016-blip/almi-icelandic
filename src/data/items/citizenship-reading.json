@@ -1,0 +1,259 @@
+[
+  {
+    "track": "CITIZENSHIP",
+    "exam": "RIKISBORGARAPROF_A2",
+    "skill": "READING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "FOUNDATION",
+    "title": "Bréf frá sveitarfélaginu",
+    "prompt": "Read the notice from the municipality and choose the correct answer.",
+    "payload": {
+      "passage": "Ágæti íbúi. Sorphirða í hverfinu þínu breytist frá og með 1. mars. Gráa tunnan verður tæmd á þriðjudögum og græna tunnan aðra hverja viku á fimmtudögum. Vinsamlegast settu tunnurnar út fyrir klukkan 7 að morgni. Kveðja, Sveitarfélagið.",
+      "question": "Hvenær er gráa tunnan tæmd?",
+      "options": ["Á þriðjudögum", "Á fimmtudögum", "Á mánudögum"]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 0 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CITIZENSHIP",
+    "exam": "RIKISBORGARAPROF_A2",
+    "skill": "READING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "CORE",
+    "title": "Tilkynning frá heilsugæslunni",
+    "prompt": "Read the notice from the health clinic and choose the correct answer.",
+    "payload": {
+      "passage": "Tilkynning frá heilsugæslunni. Bólusetning barna fer fram miðvikudaginn 10. apríl milli klukkan 9 og 12. Foreldrar eru beðnir um að panta tíma í síma eða á netinu. Munið að taka með ykkur bólusetningarkort barnsins.",
+      "question": "Hvað eiga foreldrar að taka með sér?",
+      "options": ["Bólusetningarkort barnsins", "Vegabréf", "Peninga"]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 0 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CITIZENSHIP",
+    "exam": "RIKISBORGARAPROF_A2",
+    "skill": "READING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "FOUNDATION",
+    "title": "Skilti í búðinni",
+    "prompt": "Read the supermarket sign and choose the correct answer.",
+    "payload": {
+      "passage": "TILBOÐ! Íslenskt lambakjöt á 20% afslætti út vikuna. Ferskt grænmeti í grænmetisdeildinni. Opið alla daga frá 10 til 20, nema sunnudaga frá 11 til 18.",
+      "question": "Hvenær opnar búðin á sunnudögum?",
+      "options": ["Klukkan 10", "Klukkan 11", "Klukkan 18"]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 1 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CITIZENSHIP",
+    "exam": "RIKISBORGARAPROF_A2",
+    "skill": "READING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "CORE",
+    "title": "Breyting á strætóleið",
+    "prompt": "Read the note about the bus route and choose the correct answer.",
+    "payload": {
+      "passage": "Athugið: Leið 6 ekur ekki um Hverfisgötu vegna framkvæmda. Á meðan stöðvar vagninn á Laugavegi. Breytingin gildir frá mánudegi til föstudags. Um helgar ekur leið 6 eftir venjulegri leið.",
+      "question": "Af hverju ekur leið 6 ekki um Hverfisgötu?",
+      "options": ["Vegna framkvæmda", "Vegna veðurs", "Vegna verkfalls"]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 0 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CITIZENSHIP",
+    "exam": "RIKISBORGARAPROF_A2",
+    "skill": "READING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "CORE",
+    "title": "Skilaboð á vinnustað",
+    "prompt": "Read the message from the workplace and choose the correct answer.",
+    "payload": {
+      "passage": "Sæl öll. Munið starfsmannafundinn á föstudaginn klukkan 14 í matsalnum. Við ræðum sumarfríin og nýja vaktaplanið. Ef þú kemst ekki, sendu mér tölvupóst fyrir fimmtudag. Kveðja, Anna verkstjóri.",
+      "question": "Hvað á að gera ef maður kemst ekki á fundinn?",
+      "options": ["Senda Önnu tölvupóst", "Hringja í lögregluna", "Mæta á laugardaginn"]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 0 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CITIZENSHIP",
+    "exam": "RIKISBORGARAPROF_A2",
+    "skill": "READING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "FOUNDATION",
+    "title": "Fréttabréf leikskólans",
+    "prompt": "Read the children's-school newsletter and choose the correct answer.",
+    "payload": {
+      "passage": "Fréttabréf leikskólans Sólar. Næstkomandi föstudag verður vettvangsferð í Fjölskyldugarðinn. Börnin þurfa að vera í hlýjum fötum og með nesti. Rútan leggur af stað klukkan 9, svo mikilvægt er að mæta tímanlega.",
+      "question": "Hvað þurfa börnin að hafa með sér?",
+      "options": ["Nesti", "Sundföt", "Bækur"]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 0 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CITIZENSHIP",
+    "exam": "RIKISBORGARAPROF_A2",
+    "skill": "READING",
+    "taskType": "TRUE_FALSE",
+    "difficulty": "CORE",
+    "title": "Þvottahúsið í kjallaranum",
+    "prompt": "Read the notice for tenants and decide if the statement is true (Rétt) or false (Rangt).",
+    "payload": {
+      "passage": "Til leigjenda í fjölbýlishúsinu. Sameiginlegt þvottahús er í kjallara. Vinsamlegast bókið tíma á töflunni við dyrnar. Þvottahúsið er lokað eftir klukkan 22 vegna hávaða.",
+      "question": "Þvottahúsið er opið allan sólarhringinn.",
+      "options": ["Rétt", "Rangt"]
+    },
+    "answer": { "type": "TRUE_FALSE", "correctIndex": 1 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CITIZENSHIP",
+    "exam": "RIKISBORGARAPROF_A2",
+    "skill": "READING",
+    "taskType": "TRUE_FALSE",
+    "difficulty": "FOUNDATION",
+    "title": "Á bókasafninu",
+    "prompt": "Read the library notice and decide if the statement is true (Rétt) or false (Rangt).",
+    "payload": {
+      "passage": "Bókasafnið er opið mánudaga til föstudaga frá 10 til 18 og laugardaga frá 11 til 15. Þú getur fengið bókasafnskort ókeypis með því að sýna skilríki. Hægt er að fá bækur lánaðar í fjórar vikur.",
+      "question": "Bókasafnskortið kostar ekkert.",
+      "options": ["Rétt", "Rangt"]
+    },
+    "answer": { "type": "TRUE_FALSE", "correctIndex": 0 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CITIZENSHIP",
+    "exam": "RIKISBORGARAPROF_A2",
+    "skill": "READING",
+    "taskType": "TRUE_FALSE",
+    "difficulty": "CORE",
+    "title": "Reglur í sundlauginni",
+    "prompt": "Read the swimming pool rules and decide if the statement is true (Rétt) or false (Rangt).",
+    "payload": {
+      "passage": "Reglur í sundlauginni. Allir verða að fara í sturtu án sundfata áður en farið er í laugina. Börn yngri en 10 ára mega ekki vera ein í lauginni. Síðasti gestur má koma inn hálftíma fyrir lokun.",
+      "question": "Börn yngri en 10 ára mega vera ein í lauginni.",
+      "options": ["Rétt", "Rangt"]
+    },
+    "answer": { "type": "TRUE_FALSE", "correctIndex": 1 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CITIZENSHIP",
+    "exam": "RIKISBORGARAPROF_A2",
+    "skill": "READING",
+    "taskType": "TRUE_FALSE",
+    "difficulty": "CORE",
+    "title": "Opnunartími apóteksins",
+    "prompt": "Read the pharmacy notice and decide if the statement is true (Rétt) or false (Rangt).",
+    "payload": {
+      "passage": "Apótekið við Torgið er opið til klukkan 18 á virkum dögum. Um helgar er opið frá 12 til 16. Til að sækja lyfseðilsskyld lyf þarftu að framvísa skilríkjum. Næturþjónusta er í apótekinu í Kringlunni.",
+      "question": "Þú þarft skilríki til að sækja lyfseðilsskyld lyf.",
+      "options": ["Rétt", "Rangt"]
+    },
+    "answer": { "type": "TRUE_FALSE", "correctIndex": 0 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CITIZENSHIP",
+    "exam": "RIKISBORGARAPROF_A2",
+    "skill": "READING",
+    "taskType": "CLOZE",
+    "difficulty": "FOUNDATION",
+    "title": "Að panta tíma hjá lækni",
+    "prompt": "Choose the word that best fits each gap.",
+    "payload": {
+      "passage": "Góðan dag. Ég þarf að panta {{1}} hjá lækni því ég er með hita og {{2}} í hálsinum. Get ég komið á morgun?",
+      "gaps": [
+        { "id": 1, "options": ["tíma", "bíl", "mat"] },
+        { "id": 2, "options": ["verk", "gleði", "sól"] }
+      ]
+    },
+    "answer": { "type": "CLOZE", "correct": [{ "id": 1, "index": 0 }, { "id": 2, "index": 0 }] },
+    "maxPoints": 2
+  },
+  {
+    "track": "CITIZENSHIP",
+    "exam": "RIKISBORGARAPROF_A2",
+    "skill": "READING",
+    "taskType": "CLOZE",
+    "difficulty": "CORE",
+    "title": "Dagurinn minn",
+    "prompt": "Choose the word that best fits each gap.",
+    "payload": {
+      "passage": "Ég vinn á {{1}} og byrja klukkan átta á morgnana. Í hádeginu borða ég {{2}} með vinnufélögum mínum. Eftir vinnu fer ég oft í {{3}} til að kaupa mat fyrir kvöldið.",
+      "gaps": [
+        { "id": 1, "options": ["kaffihúsi", "tunglinu", "hafinu"] },
+        { "id": 2, "options": ["hádegismat", "skó", "bók"] },
+        { "id": 3, "options": ["búðina", "kirkjuna", "bókasafnið"] }
+      ]
+    },
+    "answer": { "type": "CLOZE", "correct": [{ "id": 1, "index": 0 }, { "id": 2, "index": 0 }, { "id": 3, "index": 0 }] },
+    "maxPoints": 3
+  },
+  {
+    "track": "CITIZENSHIP",
+    "exam": "RIKISBORGARAPROF_A2",
+    "skill": "READING",
+    "taskType": "CLOZE",
+    "difficulty": "CORE",
+    "title": "Að skrá barn í skóla",
+    "prompt": "Choose the word that best fits each gap.",
+    "payload": {
+      "passage": "Til að skrá barnið þitt í grunnskóla þarftu að fylla út {{1}} á heimasíðu sveitarfélagsins. Ef þú þarft {{2}}, getur þú hringt í þjónustuverið.",
+      "gaps": [
+        { "id": 1, "options": ["eyðublað", "fjall", "sund"] },
+        { "id": 2, "options": ["aðstoð", "snjó", "frí"] }
+      ]
+    },
+    "answer": { "type": "CLOZE", "correct": [{ "id": 1, "index": 0 }, { "id": 2, "index": 0 }] },
+    "maxPoints": 2
+  },
+  {
+    "track": "CITIZENSHIP",
+    "exam": "RIKISBORGARAPROF_A2",
+    "skill": "READING",
+    "taskType": "ORDERING",
+    "difficulty": "CORE",
+    "title": "Að nota þvottahúsið",
+    "prompt": "Put the steps in the correct order.",
+    "payload": {
+      "instructions": "Raðaðu skrefunum í rétta röð til að nota sameiginlega þvottahúsið.",
+      "items": [
+        "Bókaðu tíma á töflunni við dyrnar.",
+        "Komdu með óhreinu fötin í þvottahúsið.",
+        "Settu þvottinn í vélina og helltu þvottaefni í.",
+        "Veldu rétt þvottakerfi og ýttu á start.",
+        "Taktu fötin úr vélinni þegar hún er búin."
+      ]
+    },
+    "answer": { "type": "ORDERING", "order": [0, 1, 2, 3, 4] },
+    "maxPoints": 1
+  },
+  {
+    "track": "CITIZENSHIP",
+    "exam": "RIKISBORGARAPROF_A2",
+    "skill": "READING",
+    "taskType": "ORDERING",
+    "difficulty": "STRETCH",
+    "title": "Að panta tíma á netinu",
+    "prompt": "Put the steps in the correct order.",
+    "payload": {
+      "instructions": "Raðaðu skrefunum í rétta röð til að panta tíma hjá lækni á netinu.",
+      "items": [
+        "Skráðu þig inn með rafrænum skilríkjum.",
+        "Veldu heilsugæsluna þína.",
+        "Finndu lausan tíma sem hentar þér.",
+        "Staðfestu tímann.",
+        "Mættu á heilsugæsluna á réttum tíma."
+      ]
+    },
+    "answer": { "type": "ORDERING", "order": [0, 1, 2, 3, 4] },
+    "maxPoints": 1
+  }
+]

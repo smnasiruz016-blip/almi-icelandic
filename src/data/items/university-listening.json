@@ -1,0 +1,295 @@
+[
+  {
+    "track": "UNIVERSITY",
+    "exam": "HI_ENTRANCE",
+    "skill": "LISTENING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "CORE",
+    "title": "Fyrirlestur um íslenska jarðfræði",
+    "prompt": "Listen to the excerpt from a geology lecture, then answer the question.",
+    "payload": {
+      "transcript": "Góðan daginn. Í dag ætlum við að skoða hvernig Ísland varð til á flekaskilum Norður-Atlantshafshryggjarins. Ólíkt flestum eldfjöllum heims, sem myndast þar sem einn jarðskorpufleki gengur undir annan, situr Ísland ofan á svokölluðum möttulstrók. Þessi heiti strókur af bráðnu bergi teygir sig upp úr möttlinum og bræðir jarðskorpuna að neðan. Fyrir vikið gliðnar landið um það bil tvo sentimetra á ári, og einmitt þess vegna finnum við bæði virk eldfjöll og hverasvæði nánast hvar sem er á landinu.",
+      "question": "Samkvæmt fyrirlesaranum, hvers vegna er Ísland frábrugðið flestum eldfjöllum heims?",
+      "options": [
+        "Það myndast þar sem einn fleki gengur undir annan.",
+        "Það situr ofan á möttulstrók sem bræðir jarðskorpuna að neðan.",
+        "Það hefur engin virk eldfjöll lengur.",
+        "Það gliðnar um tvo metra á ári."
+      ]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 1 },
+    "maxPoints": 1
+  },
+  {
+    "track": "UNIVERSITY",
+    "exam": "HI_ENTRANCE",
+    "skill": "LISTENING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "STRETCH",
+    "title": "Útvarpsviðtal við bókmenntafræðing",
+    "prompt": "Listen to the university radio interview, then answer the question.",
+    "payload": {
+      "transcript": "Umsjónarmaður: Þú hefur rannsakað Íslendingasögurnar í meira en þrjátíu ár. Hvað heldur þú að valdi því að þær höfða enn til lesenda nútímans? Fræðingur: Ég held að styrkur þeirra liggi einmitt í því hversu fáorðar þær eru. Höfundarnir lýsa sjaldan tilfinningum persóna beinum orðum; þeir láta okkur ráða þær af athöfnum og fáeinum setningum. Þessi hófstillti frásagnarstíll skilur eftir eyður sem lesandinn fyllir sjálfur, og þess vegna upplifir hver kynslóð sögurnar upp á nýtt. Það er ekki fortíðarþráin sem heldur þeim lifandi, heldur þessi virka þátttaka lesandans.",
+      "question": "Hverju þakkar fræðingurinn helst langlífi Íslendingasagnanna?",
+      "options": [
+        "Nákvæmum lýsingum á tilfinningum persóna.",
+        "Fortíðarþrá lesenda nútímans.",
+        "Hófstilltum stíl sem lætur lesandann fylla í eyðurnar.",
+        "Löngum og ítarlegum samtölum persóna."
+      ]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 2 },
+    "maxPoints": 1
+  },
+  {
+    "track": "UNIVERSITY",
+    "exam": "HI_ENTRANCE",
+    "skill": "LISTENING",
+    "taskType": "TRUE_FALSE",
+    "difficulty": "CORE",
+    "title": "Tilkynning frá skrifstofu deildar",
+    "prompt": "Listen to the academic announcement, then decide whether the statement is true (Rétt) or false (Rangt).",
+    "payload": {
+      "transcript": "Athugið eftirfarandi breytingu á prófatöflu. Lokapróf í málvísindum, sem upphaflega var boðað fimmtudaginn tuttugasta og þriðja, hefur verið fært fram til mánudagsins tuttugasta og sjöunda vegna árekstrar við annað próf. Prófið verður áfram haldið í stofu hundrað og tvö í Árnagarði og hefst klukkan níu að morgni. Nemendur sem hafa sótt um lengri próftíma vegna sérþarfa þurfa ekki að endurnýja umsókn sína; hún flyst sjálfkrafa yfir á nýja dagsetningu.",
+      "question": "Nemendur með samþykktan lengri próftíma verða að sækja um hann að nýju fyrir nýju dagsetninguna.",
+      "options": ["Rétt", "Rangt"]
+    },
+    "answer": { "type": "TRUE_FALSE", "correctIndex": 1 },
+    "maxPoints": 1
+  },
+  {
+    "track": "UNIVERSITY",
+    "exam": "HI_ENTRANCE",
+    "skill": "LISTENING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "STRETCH",
+    "title": "Fyrirlestur um sjávarútveg",
+    "prompt": "Listen to the mini-lecture on fisheries policy, then answer the question.",
+    "payload": {
+      "transcript": "Þegar kvótakerfið var tekið upp á níunda áratugnum var markmiðið tvíþætt: annars vegar að koma í veg fyrir ofveiði og hins vegar að auka hagkvæmni í greininni. Fiskifræðilega hefur kerfið að mörgu leyti skilað árangri, því stofnar sem áður voru í hættu hafa víða náð sér á strik. Á hinn bóginn hefur það haft óvæntar félagslegar afleiðingar. Þegar veiðiheimildir söfnuðust á færri hendur misstu mörg minni sjávarþorp lífsviðurværi sitt á fáeinum árum. Þannig stöndum við frammi fyrir klassískri togstreitu milli hagkvæmni og byggðajafnvægis.",
+      "question": "Hvaða óvæntu afleiðingu kvótakerfisins leggur fyrirlesarinn áherslu á?",
+      "options": [
+        "Að fiskstofnar hafi hrunið alls staðar.",
+        "Að veiðiheimildir hafi safnast á færri hendur og veikt minni sjávarþorp.",
+        "Að hagkvæmni greinarinnar hafi minnkað verulega.",
+        "Að ofveiði hafi aukist eftir upptöku kerfisins."
+      ]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 1 },
+    "maxPoints": 1
+  },
+  {
+    "track": "UNIVERSITY",
+    "exam": "HI_ENTRANCE",
+    "skill": "LISTENING",
+    "taskType": "MATCHING",
+    "difficulty": "STRETCH",
+    "title": "Umræða nemenda um lokaverkefni",
+    "prompt": "Listen to three students describe their thesis topics, then match each student to the correct field. One field is a distractor.",
+    "payload": {
+      "transcript": "Katla: Ég er að skoða hvernig hitastig sjávar við Ísland hefur breyst síðustu hundrað árin og hvaða áhrif það hefur á göngur þorsksins. Ég vinn mikið með mælingar frá Hafrannsóknastofnun. — Baldur: Mitt verkefni snýst um beygingu sagnorða í fornu máli og hvernig hún hefur einfaldast í nútímaíslensku. Ég ber saman handrit frá þrettándu öld við nýlega texta. — Sóley: Ég rannsaka hvernig fjármálakreppan árið tvö þúsund og átta breytti trausti almennings til banka, og styðst við skoðanakannanir sem gerðar voru bæði fyrir og eftir hrunið.",
+      "instructions": "Tengdu hvern nemanda við rétt fræðasvið.",
+      "left": ["Katla", "Baldur", "Sóley"],
+      "right": ["Haffræði", "Málfræði", "Félagsvísindi", "Stjörnufræði"]
+    },
+    "answer": { "type": "MATCHING", "pairs": [[0, 0], [1, 1], [2, 2]] },
+    "maxPoints": 3
+  },
+  {
+    "track": "UNIVERSITY",
+    "exam": "HI_ENTRANCE",
+    "skill": "LISTENING",
+    "taskType": "TRUE_FALSE",
+    "difficulty": "CORE",
+    "title": "Erindi um íslenska handritamenningu",
+    "prompt": "Listen to the talk on Iceland's manuscript culture, then decide whether the statement is true (Rétt) or false (Rangt).",
+    "payload": {
+      "transcript": "Það er útbreiddur misskilningur að miðaldahandritin íslensku hafi eingöngu verið rituð í klaustrum af lærðum munkum. Vissulega áttu klaustrin sinn þátt, en stór hluti handritanna varð til á venjulegum sveitabæjum, þar sem heilu fjölskyldurnar tóku þátt í að afrita texta á vetrarkvöldum. Þessi heimilisiðja skýrir að hluta hvers vegna svo mikið af fornum texta varðveittist á Íslandi miðað við önnur Norðurlönd, þar sem ritmenningin var bundnari við kirkju og hirð.",
+      "question": "Samkvæmt fyrirlesaranum urðu íslensku miðaldahandritin eingöngu til í klaustrum.",
+      "options": ["Rétt", "Rangt"]
+    },
+    "answer": { "type": "TRUE_FALSE", "correctIndex": 1 },
+    "maxPoints": 1
+  },
+  {
+    "track": "UNIVERSITY",
+    "exam": "HI_ENTRANCE",
+    "skill": "LISTENING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "STRETCH",
+    "title": "Fyrirlestur um jökla og loftslag",
+    "prompt": "Listen to the climate science lecture, then answer the question.",
+    "payload": {
+      "transcript": "Þegar jökull hopar gerist fleira en að ísinn hverfi af yfirborðinu. Undir mörgum íslenskum jöklum leynast eldstöðvar, og þegar farg íssins minnkar léttir þrýstingi af möttlinum fyrir neðan. Rannsóknir benda til þess að þetta geti aukið bráðnun í möttlinum og þar með framleiðslu kviku til lengri tíma litið. Með öðrum orðum: rýrnun jökla vegna hlýnunar gæti, þversagnakennt, ýtt undir aukna eldvirkni á komandi öldum. Þetta er dæmi um hversu samtvinnuð náttúrukerfi landsins eru.",
+      "question": "Hvaða þversagnakenndu tengsl lýsir fyrirlesarinn?",
+      "options": [
+        "Að aukin eldvirkni valdi því að jöklar stækki.",
+        "Að rýrnun jökla geti ýtt undir aukna eldvirkni.",
+        "Að hlýnun hafi engin áhrif á íslenska jökla.",
+        "Að þrýstingur á möttulinn aukist þegar ís bráðnar."
+      ]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 1 },
+    "maxPoints": 1
+  },
+  {
+    "track": "UNIVERSITY",
+    "exam": "HI_ENTRANCE",
+    "skill": "LISTENING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "CORE",
+    "title": "Viðtal við nema í skiptinámi",
+    "prompt": "Listen to the campus radio interview with an exchange student, then answer the question.",
+    "payload": {
+      "transcript": "Umsjónarmaður: Hvað hefur komið þér mest á óvart við námið hér við Háskóla Íslands? Nemi: Satt að segja bjóst ég við að erfiðasti hlutinn yrði veðrið eða myrkrið á veturna. En það sem reyndist mér þyngst var í raun hversu sjálfstætt námið er. Í heimalandi mínu fengum við mun meiri leiðsögn frá kennurunum, en hér er ætlast til þess að maður skipuleggi lestur sinn sjálfur og mæti vel undirbúinn í umræðutíma. Þegar ég náði tökum á því fór mér hins vegar að þykja það afar gefandi.",
+      "question": "Hvað reyndist nemandanum erfiðast við námið?",
+      "options": [
+        "Veðrið og myrkrið á veturna.",
+        "Hversu sjálfstætt námið er.",
+        "Að finna húsnæði nálægt skólanum.",
+        "Tungumálið í umræðutímum."
+      ]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 1 },
+    "maxPoints": 1
+  },
+  {
+    "track": "UNIVERSITY",
+    "exam": "HI_ENTRANCE",
+    "skill": "LISTENING",
+    "taskType": "MATCHING",
+    "difficulty": "STRETCH",
+    "title": "Yfirlit um íslenska rithöfunda",
+    "prompt": "Listen to a literature seminar describing three authors, then match each author to what they are known for. One description is a distractor.",
+    "payload": {
+      "transcript": "Fyrst má nefna Halldór Laxness, sem hlaut Nóbelsverðlaunin árið nítján hundruð fimmtíu og fimm og er þekktastur fyrir stórar samfélagsádeilur í skáldsöguformi. Þá kemur Jónas Hallgrímsson, skáld nítjándu aldar, sem er iðulega talinn hafa endurnýjað íslenska ljóðagerð og lagt drjúgan skerf til náttúruvísinda um leið. Loks nefni ég Svövu Jakobsdóttur, sem varð þekkt á síðari hluta tuttugustu aldar fyrir smásögur þar sem hversdagsleikinn rennur saman við hið óraunverulega, oft með beittri ádeilu á stöðu kvenna.",
+      "instructions": "Tengdu hvern höfund við það sem hann er þekktastur fyrir.",
+      "left": ["Halldór Laxness", "Jónas Hallgrímsson", "Svava Jakobsdóttir"],
+      "right": [
+        "Nóbelsverðlaunahafi þekktur fyrir samfélagsádeilur",
+        "Skáld sem endurnýjaði ljóðagerð og fékkst við náttúruvísindi",
+        "Smásögur þar sem hversdagurinn og hið óraunverulega renna saman",
+        "Miðaldasagnaritari sem skráði konungasögur"
+      ]
+    },
+    "answer": { "type": "MATCHING", "pairs": [[0, 0], [1, 1], [2, 2]] },
+    "maxPoints": 3
+  },
+  {
+    "track": "UNIVERSITY",
+    "exam": "HI_ENTRANCE",
+    "skill": "LISTENING",
+    "taskType": "TRUE_FALSE",
+    "difficulty": "STRETCH",
+    "title": "Fyrirlestur um endurnýjanlega orku",
+    "prompt": "Listen to the excerpt on renewable energy, then decide whether the statement is true (Rétt) or false (Rangt).",
+    "payload": {
+      "transcript": "Ísland er oft nefnt sem fyrirmynd í nýtingu endurnýjanlegrar orku, enda kemur nánast öll raforka landsins frá vatnsafli og jarðvarma. En við megum ekki gleyma því að jarðvarmavirkjun er ekki með öllu án umhverfisáhrifa. Við vinnsluna losnar til dæmis brennisteinsvetni og lítilræði af koltvísýringi, og ef of mikið er sótt í jarðhitasvæði getur þrýstingur þess fallið hraðar en það nær að endurnýjast. Sjálfbær nýting krefst þess því að við göngum ekki hraðar á auðlindina en hún þolir.",
+      "question": "Samkvæmt fyrirlesaranum er jarðvarmavirkjun algjörlega laus við umhverfisáhrif.",
+      "options": ["Rétt", "Rangt"]
+    },
+    "answer": { "type": "TRUE_FALSE", "correctIndex": 1 },
+    "maxPoints": 1
+  },
+  {
+    "track": "UNIVERSITY",
+    "exam": "HI_ENTRANCE",
+    "skill": "LISTENING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "STRETCH",
+    "title": "Erindi um íslenska tungu og tæknina",
+    "prompt": "Listen to the talk on the Icelandic language and technology, then answer the question.",
+    "payload": {
+      "transcript": "Ein stærsta áskorun íslenskunnar á tuttugustu og fyrstu öld er ekki lánsorð úr ensku, eins og margir óttast, heldur svokölluð stafræn tunga. Þegar snjalltæki, raddstýring og leitarvélar skilja ekki íslensku freistast fólk, og einkum ungt fólk, til að skipta yfir í ensku þegar það notar tæknina. Þess vegna hefur verið ráðist í umfangsmikið máltækniverkefni: að byggja upp gagnasöfn og hugbúnað svo að vélar geti lesið, skilið og talað íslensku. Málið lifir ekki af á tilfinningum einum saman; það þarf að virka í tækjunum sem við notum daglega.",
+      "question": "Hvað telur fyrirlesarinn vera stærstu ógnina við íslenskuna?",
+      "options": [
+        "Lánsorð úr ensku í daglegu tali.",
+        "Að tæknin skilji ekki íslensku og fólk skipti því yfir í ensku.",
+        "Að of fáir læri að lesa forn handrit.",
+        "Að skólar kenni ekki lengur málfræði."
+      ]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 1 },
+    "maxPoints": 1
+  },
+  {
+    "track": "UNIVERSITY",
+    "exam": "HI_ENTRANCE",
+    "skill": "LISTENING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "CORE",
+    "title": "Umræða um hópverkefni",
+    "prompt": "Listen to two students discussing a group project, then answer the question.",
+    "payload": {
+      "transcript": "Andri: Heyrðu, við þurfum að ákveða hvernig við skiptum þessu verkefni á milli okkar. Það er töluvert af heimildum sem þarf að lesa. Elín: Já, ég var að hugsa það sama. Hvað ef ég tek að mér að taka saman tölfræðigögnin og bý til línuritin, en þú skrifar inngangskaflann og niðurstöðurnar? Andri: Það hljómar sanngjarnt, en þá legg ég til að við hittumst á miðvikudaginn til að lesa yfir hvort annars kafla áður en við skilum. Ég vil ekki að við endum með tvo texta sem passa illa saman. Elín: Frábært, gerum það.",
+      "question": "Hvers vegna vill Andri að þau hittist á miðvikudaginn?",
+      "options": [
+        "Til að byrja að safna heimildum.",
+        "Til að lesa yfir kafla hvors annars svo textinn myndi eina heild.",
+        "Til að ákveða hver á að halda kynninguna.",
+        "Til að skila verkefninu inn saman."
+      ]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 1 },
+    "maxPoints": 1
+  },
+  {
+    "track": "UNIVERSITY",
+    "exam": "HI_ENTRANCE",
+    "skill": "LISTENING",
+    "taskType": "MATCHING",
+    "difficulty": "STRETCH",
+    "title": "Kynning á námsleiðum",
+    "prompt": "Listen to an advisor describe three degree programmes, then match each programme to its main focus. One focus is a distractor.",
+    "payload": {
+      "transcript": "Í þjóðfræði leggjum við áherslu á að skoða siði, sagnir og hversdagsmenningu fólks, allt frá gömlum þjóðtrúm til nútímahátíða. Í umhverfis- og auðlindafræði fléttum við saman náttúruvísindi og samfélagsleg sjónarmið til að greina hvernig best sé að nýta auðlindir án þess að ganga á þær. Loks er það tölvunarfræðin, þar sem áherslan er á forritun, reiknirit og hönnun hugbúnaðar, og þar útskrifast nemendur oft beint í störf hjá tæknifyrirtækjum.",
+      "instructions": "Tengdu hverja námsleið við megináherslu hennar.",
+      "left": ["Þjóðfræði", "Umhverfis- og auðlindafræði", "Tölvunarfræði"],
+      "right": [
+        "Siðir, sagnir og hversdagsmenning",
+        "Sjálfbær nýting auðlinda á mörkum náttúru og samfélags",
+        "Forritun, reiknirit og hugbúnaðarhönnun",
+        "Meðferð sjúklinga og lýðheilsa"
+      ]
+    },
+    "answer": { "type": "MATCHING", "pairs": [[0, 0], [1, 1], [2, 2]] },
+    "maxPoints": 3
+  },
+  {
+    "track": "UNIVERSITY",
+    "exam": "HI_ENTRANCE",
+    "skill": "LISTENING",
+    "taskType": "TRUE_FALSE",
+    "difficulty": "CORE",
+    "title": "Tilkynning um bókasafnið",
+    "prompt": "Listen to the library announcement, then decide whether the statement is true (Rétt) or false (Rangt).",
+    "payload": {
+      "transcript": "Kæru nemendur, á próftímabilinu breytist opnunartími Þjóðarbókhlöðunnar. Frá og með næstu viku verður safnið opið til miðnættis alla virka daga og til klukkan sex á laugardögum. Þó viljum við minna á að lesstofurnar á þriðju hæð eru einungis ætlaðar til hljóðláts lestrar; öll hópavinna og samræður skulu fara fram í rýmunum á fyrstu hæð. Þeir sem þurfa að taka frá hópaherbergi geta gert það á heimasíðu safnsins með allt að viku fyrirvara.",
+      "question": "Hópavinna og samræður eru leyfðar á lesstofunum á þriðju hæð.",
+      "options": ["Rétt", "Rangt"]
+    },
+    "answer": { "type": "TRUE_FALSE", "correctIndex": 1 },
+    "maxPoints": 1
+  },
+  {
+    "track": "UNIVERSITY",
+    "exam": "HI_ENTRANCE",
+    "skill": "LISTENING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "STRETCH",
+    "title": "Fyrirlestur um lýðræðissögu Íslands",
+    "prompt": "Listen to the history lecture, then answer the question.",
+    "payload": {
+      "transcript": "Þegar við tölum um Alþingi sem eitt elsta þing heims er rétt að staldra við og skýra hvað í því felst. Alþingi var stofnað á Þingvöllum árið níu hundruð og þrjátíu, en það var ekki þing í nútímaskilningi, með kjörnum fulltrúum og framkvæmdavaldi. Það var fyrst og fremst samkoma goðanna, þar sem lög voru kveðin upp og deilur útkljáðar. Raunverulegt löggjafarvald í þeirri mynd sem við þekkjum í dag varð ekki til fyrr en langtum síðar. Það er því nákvæmara að tala um samfellda þinghefð en um óslitið lýðræði frá landnámsöld.",
+      "question": "Hvaða leiðréttingu leggur fyrirlesarinn áherslu á varðandi Alþingi til forna?",
+      "options": [
+        "Að það hafi verið stofnað mun síðar en talið er.",
+        "Að það hafi verið samkoma goða fremur en þing með kjörnum fulltrúum.",
+        "Að það hafi haft öflugt framkvæmdavald frá upphafi.",
+        "Að það hafi aldrei komið saman á Þingvöllum."
+      ]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 1 },
+    "maxPoints": 1
+  }
+]

@@ -1,0 +1,303 @@
+[
+  {
+    "track": "CEFR",
+    "exam": "CEFR_C1",
+    "skill": "READING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "STRETCH",
+    "title": "Togstreita í íslenskri málstefnu",
+    "prompt": "Read the academic passage about Icelandic language policy and choose the answer that best reflects the author's view.",
+    "payload": {
+      "passage": "Íslensk málstefna hefur löngum einkennst af togstreitu milli tveggja ólíkra sjónarmiða. Annars vegar er hrein varðveislustefna sem leggur áherslu á nýyrðasmíð og hafnar tökuorðum, hins vegar frjálslyndara viðhorf sem lítur á aðlögun erlends orðaforða sem eðlilegan þátt í þróun lifandi tungumáls. Þótt opinber stefna hallist fremur að hinu fyrrnefnda hefur daglegt mál almennings iðulega farið sínar eigin leiðir, óháð fyrirmælum málnefnda.",
+      "question": "Hvað einkennir, að mati höfundar, samband opinberrar málstefnu og daglegs máls?",
+      "options": [
+        "Daglegt mál fylgir ekki alltaf opinberum fyrirmælum",
+        "Almenningur hafnar undantekningarlaust öllum tökuorðum",
+        "Málnefndir ráða alfarið orðavali fólks",
+        "Varðveislustefnan hefur með öllu horfið úr opinberri stefnu"
+      ]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 0 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_C1",
+    "skill": "READING",
+    "taskType": "TRUE_FALSE",
+    "difficulty": "STRETCH",
+    "title": "Bókfestukenningin og Íslendingasögurnar",
+    "prompt": "Read the passage about saga scholarship and decide whether the statement is true (Rétt) or false (Rangt).",
+    "payload": {
+      "passage": "Lengi vel töldu fræðimenn að Íslendingasögurnar væru áreiðanlegar heimildir um atburði tíundu og elleftu aldar. Á tuttugustu öld urðu þó til efasemdir; svonefnd bókfestukenning hélt því fram að sögurnar væru fyrst og fremst listaverk þrettándu aldar, samdar af höfundum sem nýttu sér munnlega geymd en mótuðu efnið af listfengi fremur en sagnfræðilegri nákvæmni.",
+      "question": "Samkvæmt bókfestukenningunni eru Íslendingasögurnar umfram allt listaverk þrettándu aldar.",
+      "options": ["Rétt", "Rangt"]
+    },
+    "answer": { "type": "TRUE_FALSE", "correctIndex": 0 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_C1",
+    "skill": "READING",
+    "taskType": "CLOZE",
+    "difficulty": "STRETCH",
+    "title": "Efnahagsleg viðvörun",
+    "prompt": "Fill each gap with the grammatically correct form so the professional economic text reads naturally.",
+    "payload": {
+      "passage": "Þrátt fyrir {{1}} hagvöxt síðustu missera hafa stjórnvöld varað við því að verðbólga kunni að {{2}} upp á ný ef launahækkanir verða umfram framleiðniaukningu.",
+      "gaps": [
+        { "id": 1, "options": ["stöðugan", "stöðugum", "stöðugur"] },
+        { "id": 2, "options": ["blossa", "blossar", "blossað"] }
+      ]
+    },
+    "answer": { "type": "CLOZE", "correct": [ { "id": 1, "index": 0 }, { "id": 2, "index": 0 } ] },
+    "maxPoints": 2
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_C1",
+    "skill": "READING",
+    "taskType": "MATCHING",
+    "difficulty": "STRETCH",
+    "title": "Frumkvöðlar í íslenskri menningarsögu",
+    "prompt": "Read the passage about three cultural figures and match each person to their main contribution. One option is a distractor.",
+    "payload": {
+      "passage": "Í íslenskri menningarsögu koma þrír ólíkir frumkvöðlar við sögu. Halldór Laxness endurnýjaði skáldsöguformið og hlaut Nóbelsverðlaunin í bókmenntum. Jónas Hallgrímsson lagði grunn að íslenskri náttúruljóðahefð og smíðaði fjölda nýyrða á sviði vísinda. Vigdís Finnbogadóttir varð fyrst kvenna þjóðkjörinn forseti og beitti sér síðar fyrir tungumálum á alþjóðavettvangi.",
+      "instructions": "Tengdu hverja manneskju við framlag hennar.",
+      "left": ["Halldór Laxness", "Jónas Hallgrímsson", "Vigdís Finnbogadóttir"],
+      "right": [
+        "Endurnýjun skáldsögunnar og Nóbelsverðlaun",
+        "Náttúruljóð og nýyrði í vísindum",
+        "Fyrsti þjóðkjörni kvenforsetinn",
+        "Þýðing Biblíunnar á íslensku"
+      ]
+    },
+    "answer": { "type": "MATCHING", "pairs": [[0, 0], [1, 1], [2, 2]] },
+    "maxPoints": 3
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_C1",
+    "skill": "READING",
+    "taskType": "ORDERING",
+    "difficulty": "STRETCH",
+    "title": "Rökrétt uppbygging málsgreinar",
+    "prompt": "Arrange the sentences so that they form a single, coherent and logically ordered paragraph.",
+    "payload": {
+      "instructions": "Raðaðu setningunum þannig að úr verði rökrétt og samfelld málsgrein um hop jökla.",
+      "items": [
+        "Jöklar á Íslandi hafa hopað verulega undanfarna áratugi.",
+        "Þegar jöklarnir bráðna hækkar sjávarborð og landslag breytist.",
+        "Niðurstöður mælinganna eru mikilvægar fyrir spár um framtíðina.",
+        "Meginorsökin er hlýnun andrúmsloftsins af völdum manna.",
+        "Vísindamenn fylgjast því náið með rúmmáli jöklanna á hverju ári."
+      ]
+    },
+    "answer": { "type": "ORDERING", "order": [0, 3, 1, 4, 2] },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_C1",
+    "skill": "LISTENING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "STRETCH",
+    "title": "Fyrirlestur um orkuskipti",
+    "prompt": "Listen to the extract from a lecture on Iceland's energy transition and choose the best answer.",
+    "payload": {
+      "transcript": "Góðan dag og verið velkomin á þennan fyrirlestur um orkuskipti. Ísland er í þeirri sérstöðu að nær öll raforka og húshitun kemur nú þegar frá endurnýjanlegum orkugjöfum, vatnsafli og jarðvarma. Áskorunin sem eftir stendur snýr því ekki að rafmagni heldur að samgöngum og fiskiskipaflotanum, sem enn brenna innfluttu jarðefnaeldsneyti. Það er á þessu sviði sem raunveruleg orkuskipti þjóðarinnar munu eiga sér stað á næstu áratugum.",
+      "question": "Hvar liggur helsta áskorunin í orkuskiptum Íslands að mati fyrirlesarans?",
+      "options": [
+        "Í samgöngum og fiskiskipaflotanum",
+        "Í húshitun heimila",
+        "Í framleiðslu raforku fyrir almennan markað",
+        "Í rekstri jarðvarmavirkjana"
+      ]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 0 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_C1",
+    "skill": "LISTENING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "CORE",
+    "title": "Viðtal um náttúruvernd",
+    "prompt": "Listen to the interviewee and choose the option that best captures the implied position.",
+    "payload": {
+      "transcript": "Viðmælandi: Auðvitað styð ég verndun hálendisins, það gerum við öll í orði kveðnu. En við megum ekki gleyma því að sömu ósnortnu víðernin geyma þá orku sem gæti staðið undir grænni atvinnuuppbyggingu um land allt. Spurningin er ekki hvort við eigum að vernda náttúruna, heldur hversu dýru verði.",
+      "question": "Hvaða afstöðu gefur viðmælandinn helst í skyn?",
+      "options": [
+        "Að vega þurfi verndun náttúrunnar á móti efnahagslegum ávinningi",
+        "Að hálendið eigi að vernda án nokkurra undantekninga",
+        "Að náttúruvernd skipti í raun engu máli",
+        "Að öll orkuvinnsla sé í eðli sínu óæskileg"
+      ]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 0 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_C1",
+    "skill": "LISTENING",
+    "taskType": "TRUE_FALSE",
+    "difficulty": "STRETCH",
+    "title": "Frétt um fólksflutninga",
+    "prompt": "Listen to the news report and decide whether the statement is true (Rétt) or false (Rangt).",
+    "payload": {
+      "transcript": "Í nýrri skýrslu Hagstofunnar kemur fram að aðflutningur fólks til landsins hafi aldrei verið meiri en á síðasta ári. Á sama tíma bendir skýrslan á að brottflutningur íslenskra ríkisborgara hafi einnig aukist lítillega, þótt hann vegi hvergi nærri upp á móti aðflutningnum. Heildaráhrifin eru því veruleg fólksfjölgun.",
+      "question": "Samkvæmt skýrslunni vegur brottflutningur Íslendinga upp á móti aðflutningi fólks til landsins.",
+      "options": ["Rétt", "Rangt"]
+    },
+    "answer": { "type": "TRUE_FALSE", "correctIndex": 1 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_C1",
+    "skill": "LISTENING",
+    "taskType": "CLOZE",
+    "difficulty": "STRETCH",
+    "title": "Ávarp til samstarfsfólks",
+    "prompt": "Listen to the address to colleagues and fill each gap with the grammatically correct form.",
+    "payload": {
+      "transcript": "Kæru samstarfsmenn. Ég vil {{1}} ykkur öllum fyrir framúrskarandi vinnu á liðnu ári. Þrátt fyrir krefjandi aðstæður tókst okkur að ná {{2}} ársins, og það er ykkur að þakka.",
+      "gaps": [
+        { "id": 1, "options": ["þakka", "þakkar", "þakkað"] },
+        { "id": 2, "options": ["markmiðum", "markmið", "markmiða"] }
+      ]
+    },
+    "answer": { "type": "CLOZE", "correct": [ { "id": 1, "index": 0 }, { "id": 2, "index": 0 } ] },
+    "maxPoints": 2
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_C1",
+    "skill": "LISTENING",
+    "taskType": "MATCHING",
+    "difficulty": "STRETCH",
+    "title": "Pallborð sérfræðinga",
+    "prompt": "Listen to the panel discussion and match each expert to the view they express. One option is a distractor.",
+    "payload": {
+      "transcript": "Í pallborðinu tjáðu sig þrír sérfræðingar. Hagfræðingurinn taldi að lækka ætti vexti til að örva fjárfestingu. Umhverfisfræðingurinn lagði áherslu á að binda kolefni með endurheimt votlendis. Félagsfræðingurinn benti á að ójöfnuður færi vaxandi og kallaði eftir styrkari velferðarkerfum.",
+      "instructions": "Tengdu hvern sérfræðing við það sjónarmið sem hann setti fram.",
+      "left": ["Hagfræðingurinn", "Umhverfisfræðingurinn", "Félagsfræðingurinn"],
+      "right": [
+        "Lækkun vaxta til að örva fjárfestingu",
+        "Endurheimt votlendis til að binda kolefni",
+        "Styrkari velferðarkerfi gegn ójöfnuði",
+        "Aukinn útflutningur sjávarafurða"
+      ]
+    },
+    "answer": { "type": "MATCHING", "pairs": [[0, 0], [1, 1], [2, 2]] },
+    "maxPoints": 3
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_C1",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "STRETCH",
+    "title": "Ritgerð um framtíð íslenskunnar",
+    "prompt": "Write a short argumentative essay on whether the Icelandic language is under threat from English in the digital age. Take a clear position and support it with reasoning.",
+    "payload": {
+      "stimulus": "Sumir óttast að aukin notkun ensku á netinu og í tækni ógni framtíð íslenskunnar, á meðan aðrir telja tunguna standa styrkum fótum. Taktu skýra afstöðu og rökstyddu mál þitt með dæmum.",
+      "criteria": [
+        "States a clear thesis and sustains it throughout the essay",
+        "Supports the argument with at least two developed reasons or examples",
+        "Uses cohesive devices and precise, varied vocabulary appropriate to C1",
+        "Acknowledges and responds to a plausible counter-argument"
+      ],
+      "charBand": { "min": 250, "max": 450 }
+    },
+    "answer": null,
+    "maxPoints": 0
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_C1",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "STRETCH",
+    "title": "Formlegt erindi til borgaryfirvalda",
+    "prompt": "Write a formal letter to the city council objecting to a proposed construction project in your neighbourhood and proposing an alternative.",
+    "payload": {
+      "stimulus": "Fyrirhugað er að reisa stórt fjölbýlishús í rótgrónu íbúðahverfi þar sem þú býrð. Skrifaðu formlegt erindi til borgaryfirvalda þar sem þú andmælir áformunum með rökum og leggur til aðra lausn.",
+      "criteria": [
+        "Uses an appropriately formal register and conventional letter structure",
+        "Presents at least two clear, well-reasoned objections",
+        "Proposes a concrete alternative solution",
+        "Maintains a persuasive yet respectful tone throughout"
+      ],
+      "charBand": { "min": 250, "max": 450 }
+    },
+    "answer": null,
+    "maxPoints": 0
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_C1",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "CORE",
+    "title": "Gagnrýnin umfjöllun um verk",
+    "prompt": "Write a critical review of a book or film you know well, evaluating its strengths and weaknesses rather than merely summarising the plot.",
+    "payload": {
+      "stimulus": "Veldu bók eða kvikmynd sem þú þekkir vel. Skrifaðu gagnrýna umfjöllun þar sem þú metur kosti og galla verksins og kemst að rökstuddri niðurstöðu. Forðastu einbera endursögn söguþráðar.",
+      "criteria": [
+        "Goes beyond plot summary to genuine critical evaluation",
+        "Balances discussion of strengths and weaknesses",
+        "Reaches a justified overall judgement",
+        "Uses precise evaluative vocabulary and idiomatic expression"
+      ],
+      "charBand": { "min": 220, "max": 400 }
+    },
+    "answer": null,
+    "maxPoints": 0
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_C1",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "STRETCH",
+    "title": "Rökræða um fjarvinnu",
+    "prompt": "Speak for about two minutes giving a balanced argument on the advantages and disadvantages of remote work, then state your own conclusion.",
+    "payload": {
+      "stimulus": "Fjarvinna hefur aukist mjög á undanförnum árum. Ræddu kosti og galla fjarvinnu, bæði fyrir starfsfólk og vinnuveitendur, og komdu að þinni eigin niðurstöðu.",
+      "criteria": [
+        "Presents both advantages and disadvantages in a balanced way",
+        "Organises the talk with clear structure and cohesion",
+        "Uses precise vocabulary and fluent, well-controlled grammar",
+        "Reaches a personal, justified conclusion"
+      ],
+      "minSeconds": 120
+    },
+    "answer": null,
+    "maxPoints": 0
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_C1",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "STRETCH",
+    "title": "Álit á fullyrðingu um menntun",
+    "prompt": "Respond to the statement below, saying whether you agree or disagree and why, and support your view with examples.",
+    "payload": {
+      "stimulus": "„Háskólamenntun er ofmetin; hagnýt reynsla skiptir meira máli á vinnumarkaði nútímans.“ Ertu sammála eða ósammála þessari fullyrðingu? Rökstyddu afstöðu þína með dæmum.",
+      "criteria": [
+        "Takes a clear stance on the statement",
+        "Develops the argument with relevant examples",
+        "Handles abstract ideas with precision and nuance",
+        "Speaks fluently with an appropriate register"
+      ],
+      "minSeconds": 100
+    },
+    "answer": null,
+    "maxPoints": 0
+  }
+]

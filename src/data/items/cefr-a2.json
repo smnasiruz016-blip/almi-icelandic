@@ -1,0 +1,298 @@
+[
+  {
+    "track": "CEFR",
+    "exam": "CEFR_A2",
+    "skill": "READING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "FOUNDATION",
+    "title": "Anna fer í búðina",
+    "prompt": "Read the short text about a shopping trip and choose the correct answer.",
+    "payload": {
+      "passage": "Anna fór í búðina á laugardaginn. Hún keypti mjólk, brauð og epli. Búðin var opin til klukkan sex. Anna borgaði með korti og gekk svo heim.",
+      "question": "Hvað keypti Anna ekki?",
+      "options": ["Mjólk", "Brauð", "Epli", "Ost"]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 3 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_A2",
+    "skill": "READING",
+    "taskType": "TRUE_FALSE",
+    "difficulty": "FOUNDATION",
+    "title": "Jón í Reykjavík",
+    "prompt": "Read the text and decide whether the statement is true or false.",
+    "payload": {
+      "passage": "Jón býr í Reykjavík. Hann vinnur á kaffihúsi í miðbænum. Á morgnana tekur hann strætó í vinnuna því hann á ekki bíl.",
+      "question": "Jón á bíl.",
+      "options": ["Rétt", "Rangt"]
+    },
+    "answer": { "type": "TRUE_FALSE", "correctIndex": 1 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_A2",
+    "skill": "READING",
+    "taskType": "CLOZE",
+    "difficulty": "CORE",
+    "title": "Í bíó með vinum",
+    "prompt": "Fill each gap with the word that fits the past-tense context.",
+    "payload": {
+      "passage": "Í gær {{1}} ég í bíó með vinum mínum. Myndin {{2}} mjög skemmtileg og við hlógum mikið.",
+      "gaps": [
+        { "id": 1, "options": ["fór", "fer", "farið"] },
+        { "id": 2, "options": ["var", "er", "verður"] }
+      ]
+    },
+    "answer": {
+      "type": "CLOZE",
+      "correct": [
+        { "id": 1, "index": 0 },
+        { "id": 2, "index": 0 }
+      ]
+    },
+    "maxPoints": 2
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_A2",
+    "skill": "READING",
+    "taskType": "MATCHING",
+    "difficulty": "CORE",
+    "title": "Hvert ferð þú?",
+    "prompt": "Match each place with the thing you do there.",
+    "payload": {
+      "instructions": "Tengdu staðinn til vinstri við það sem þú gerir þar til hægri.",
+      "left": ["Bókasafn", "Sundlaug", "Bakarí"],
+      "right": ["Þú syndir", "Þú kaupir brauð", "Þú lest bækur", "Þú horfir á fótbolta"]
+    },
+    "answer": {
+      "type": "MATCHING",
+      "pairs": [[0, 2], [1, 0], [2, 1]]
+    },
+    "maxPoints": 3
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_A2",
+    "skill": "READING",
+    "taskType": "ORDERING",
+    "difficulty": "CORE",
+    "title": "Venjulegur dagur",
+    "prompt": "Put the sentences in the correct order to describe a normal day from morning to evening.",
+    "payload": {
+      "instructions": "Raðaðu setningunum í rétta röð, frá morgni til kvölds.",
+      "items": [
+        "Ég fer í vinnuna.",
+        "Ég vakna klukkan sjö.",
+        "Ég kem heim og elda kvöldmat.",
+        "Ég borða morgunmat."
+      ]
+    },
+    "answer": { "type": "ORDERING", "order": [1, 3, 0, 2] },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_A2",
+    "skill": "LISTENING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "FOUNDATION",
+    "title": "Tilkynning í strætó",
+    "prompt": "Listen to the bus announcement and choose the correct answer.",
+    "payload": {
+      "transcript": "Góðan daginn. Strætó númer fjórtán er tíu mínútum of seinn í dag. Næsti vagn kemur klukkan hálf níu. Við biðjumst velvirðingar á þessu.",
+      "question": "Hvenær kemur næsti vagn?",
+      "options": ["Klukkan átta", "Klukkan hálf níu", "Klukkan níu", "Klukkan tíu"]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 1 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_A2",
+    "skill": "LISTENING",
+    "taskType": "TRUE_FALSE",
+    "difficulty": "CORE",
+    "title": "Skilaboð frá Elínu",
+    "prompt": "Listen to the voice message and decide whether the statement is true or false.",
+    "payload": {
+      "transcript": "Hæ, þetta er Elín. Ég get því miður ekki komið í matarboðið á föstudaginn því ég er að fara til útlanda. Við hittumst bara í næstu viku í staðinn.",
+      "question": "Elín kemur í matarboðið á föstudaginn.",
+      "options": ["Rétt", "Rangt"]
+    },
+    "answer": { "type": "TRUE_FALSE", "correctIndex": 1 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_A2",
+    "skill": "LISTENING",
+    "taskType": "CLOZE",
+    "difficulty": "CORE",
+    "title": "Á veitingastað",
+    "prompt": "Listen and fill each gap with the word you hear.",
+    "payload": {
+      "transcript": "Í gær borðuðum við á veitingastað í miðbænum. Maturinn var mjög góður og þjónninn var vinalegur.",
+      "passage": "Í gær {{1}} við á veitingastað í miðbænum. Maturinn {{2}} mjög góður og þjónninn var vinalegur.",
+      "gaps": [
+        { "id": 1, "options": ["borðuðum", "borðum", "borða"] },
+        { "id": 2, "options": ["var", "er", "eru"] }
+      ]
+    },
+    "answer": {
+      "type": "CLOZE",
+      "correct": [
+        { "id": 1, "index": 0 },
+        { "id": 2, "index": 0 }
+      ]
+    },
+    "maxPoints": 2
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_A2",
+    "skill": "LISTENING",
+    "taskType": "MATCHING",
+    "difficulty": "CORE",
+    "title": "Hvað ætla þau að gera?",
+    "prompt": "Listen to the family's weekend plans and match each person with their activity.",
+    "payload": {
+      "transcript": "María ætlar í sund á laugardaginn. Bróðir hennar, Pétur, ætlar að spila fótbolta með vinum sínum. Mamma þeirra ætlar að baka köku heima.",
+      "instructions": "Tengdu hvern einstakling við það sem hann ætlar að gera.",
+      "left": ["María", "Pétur", "Mamma"],
+      "right": ["Spila fótbolta", "Fara í sund", "Baka köku", "Lesa bók"]
+    },
+    "answer": {
+      "type": "MATCHING",
+      "pairs": [[0, 1], [1, 0], [2, 2]]
+    },
+    "maxPoints": 3
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_A2",
+    "skill": "LISTENING",
+    "taskType": "ORDERING",
+    "difficulty": "STRETCH",
+    "title": "Leiðin á pósthúsið",
+    "prompt": "Listen to the directions and put the steps in the order you hear them.",
+    "payload": {
+      "instructions": "Raðaðu leiðbeiningunum í rétta röð eins og þú heyrir þær.",
+      "transcript": "Til að komast á pósthúsið: gakktu fyrst beint áfram eftir götunni. Beygðu svo til hægri við bankann. Pósthúsið er þá á vinstri hönd.",
+      "items": [
+        "Beygðu til hægri við bankann.",
+        "Gakktu beint áfram eftir götunni.",
+        "Pósthúsið er á vinstri hönd."
+      ]
+    },
+    "answer": { "type": "ORDERING", "order": [1, 0, 2] },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_A2",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "FOUNDATION",
+    "title": "Innkaupalisti til maka",
+    "prompt": "Write a short message to your partner telling them what to buy at the shop.",
+    "payload": {
+      "stimulus": "Þú ert í vinnunni og maki þinn ætlar í búðina. Skrifaðu stutt skilaboð og segðu hvað hann á að kaupa. Nefndu að minnsta kosti þrjá hluti.",
+      "criteria": [
+        "Lists at least three shopping items",
+        "Uses complete simple sentences or a clear list",
+        "Uses a friendly greeting or sign-off"
+      ],
+      "charBand": { "min": 40, "max": 120 }
+    },
+    "answer": null,
+    "maxPoints": 0
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_A2",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "CORE",
+    "title": "Helgin mín",
+    "prompt": "Write a few sentences about what you did last weekend.",
+    "payload": {
+      "stimulus": "Skrifaðu nokkrar setningar um það sem þú gerðir um síðustu helgi. Segðu hvað þú gerðir, hvar það var og með hverjum.",
+      "criteria": [
+        "Uses past-tense verbs correctly",
+        "Describes at least two activities",
+        "Says where or with whom",
+        "Writes in full sentences"
+      ],
+      "charBand": { "min": 40, "max": 120 }
+    },
+    "answer": null,
+    "maxPoints": 0
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_A2",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "CORE",
+    "title": "Panta tíma hjá hárgreiðslu",
+    "prompt": "Write a short message to a hair salon to book an appointment.",
+    "payload": {
+      "stimulus": "Skrifaðu stutt skilaboð til hárgreiðslustofu og pantaðu tíma. Segðu hvaða dag og klukkan hvað þú vilt koma og gefðu upp nafnið þitt.",
+      "criteria": [
+        "Requests a specific day and time",
+        "Gives own name",
+        "Uses polite phrasing",
+        "Uses correct future or time expressions"
+      ],
+      "charBand": { "min": 40, "max": 120 }
+    },
+    "answer": null,
+    "maxPoints": 0
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_A2",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "FOUNDATION",
+    "title": "Staðurinn þar sem þú býrð",
+    "prompt": "Describe the town or neighbourhood where you live.",
+    "payload": {
+      "stimulus": "Lýstu staðnum þar sem þú býrð. Hvað heitir hann? Hvað er þar að finna, til dæmis búðir, garða eða skóla? Líkar þér að búa þar?",
+      "criteria": [
+        "Names the place and says one thing you can find there",
+        "Gives at least two details about it",
+        "Says whether you like living there",
+        "Speaks in full simple sentences"
+      ],
+      "minSeconds": 40
+    },
+    "answer": null,
+    "maxPoints": 0
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_A2",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "CORE",
+    "title": "Helgin fram undan",
+    "prompt": "Talk about your plans for next weekend.",
+    "payload": {
+      "stimulus": "Segðu frá því sem þú ætlar að gera um næstu helgi. Hvað ætlar þú að gera? Hvenær og með hverjum?",
+      "criteria": [
+        "Uses future expressions such as 'ætla að'",
+        "Describes at least two planned activities",
+        "Says when or with whom",
+        "Speaks in full simple sentences"
+      ],
+      "minSeconds": 40
+    },
+    "answer": null,
+    "maxPoints": 0
+  }
+]

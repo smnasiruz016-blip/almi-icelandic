@@ -1,0 +1,310 @@
+[
+  {
+    "track": "CITIZENSHIP",
+    "exam": "RIKISBORGARAPROF_A2",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "FOUNDATION",
+    "title": "Fylltu út skráningareyðublað",
+    "prompt": "Complete a short registration form for a library card. Write full sentences with the requested information about yourself.",
+    "payload": {
+      "stimulus": "Þú ætlar að fá bókasafnskort. Skrifaðu stutt svar þar sem þú gefur upp: fullt nafn, heimilisfang, símanúmer og fæðingarár. Notaðu heilar setningar.",
+      "criteria": [
+        "Gives full name, address, phone number and year of birth",
+        "Writes in complete simple sentences, not just single words",
+        "Uses correct basic word order (subject before verb)"
+      ],
+      "charBand": { "min": 40, "max": 120 }
+    },
+    "answer": null,
+    "maxPoints": 0
+  },
+  {
+    "track": "CITIZENSHIP",
+    "exam": "RIKISBORGARAPROF_A2",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "FOUNDATION",
+    "title": "Skilaboð til kennarans",
+    "prompt": "Write a short note to your Icelandic teacher explaining why you were absent from class yesterday.",
+    "payload": {
+      "stimulus": "Þú komst ekki í íslenskutíma í gær. Skrifaðu stutt skilaboð til kennarans. Segðu af hverju þú komst ekki og biddu um efnið sem þú misstir af.",
+      "criteria": [
+        "Uses a polite greeting and closing",
+        "Gives one clear reason for the absence",
+        "Asks for the material or homework that was missed"
+      ],
+      "charBand": { "min": 40, "max": 120 }
+    },
+    "answer": null,
+    "maxPoints": 0
+  },
+  {
+    "track": "CITIZENSHIP",
+    "exam": "RIKISBORGARAPROF_A2",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "CORE",
+    "title": "Afboða tíma hjá lækni",
+    "prompt": "Write a short message to the health clinic to cancel your appointment and ask for a new time.",
+    "payload": {
+      "stimulus": "Þú ert með tíma hjá lækni á morgun klukkan 10 en þú kemst ekki. Skrifaðu stutt skilaboð til heilsugæslunnar. Afboðaðu tímann og biddu um nýjan tíma í næstu viku.",
+      "criteria": [
+        "Clearly states which appointment is being cancelled (day and time)",
+        "Politely asks for a new appointment",
+        "Uses a greeting and gives own name",
+        "Uses correct present or future time expressions"
+      ],
+      "charBand": { "min": 40, "max": 120 }
+    },
+    "answer": null,
+    "maxPoints": 0
+  },
+  {
+    "track": "CITIZENSHIP",
+    "exam": "RIKISBORGARAPROF_A2",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "FOUNDATION",
+    "title": "Miði til nágrannans",
+    "prompt": "Write a short note to your neighbour asking a small favour while you are away.",
+    "payload": {
+      "stimulus": "Þú ferð í burtu í nokkra daga. Skrifaðu stuttan miða til nágrannans og biddu hann að vökva blómin þín á meðan. Þakkaðu fyrir hjálpina.",
+      "criteria": [
+        "Makes one clear, simple request",
+        "Says roughly how long you will be away",
+        "Uses a polite greeting and a thank-you"
+      ],
+      "charBand": { "min": 40, "max": 120 }
+    },
+    "answer": null,
+    "maxPoints": 0
+  },
+  {
+    "track": "CITIZENSHIP",
+    "exam": "RIKISBORGARAPROF_A2",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "CORE",
+    "title": "Tölvupóstur til sveitarfélagsins",
+    "prompt": "Write a simple email to the municipality asking about opening hours of the service desk.",
+    "payload": {
+      "stimulus": "Þú þarft að tala við starfsmann hjá sveitarfélaginu. Skrifaðu einfaldan tölvupóst og spurðu hvenær þjónustuborðið er opið og hvort þú þurfir að panta tíma.",
+      "criteria": [
+        "Uses an appropriate email greeting and closing",
+        "Asks two clear questions (opening hours and whether a booking is needed)",
+        "Gives own name so they can reply",
+        "Keeps a polite, formal tone"
+      ],
+      "charBand": { "min": 40, "max": 120 }
+    },
+    "answer": null,
+    "maxPoints": 0
+  },
+  {
+    "track": "CITIZENSHIP",
+    "exam": "RIKISBORGARAPROF_A2",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "CORE",
+    "title": "Skilaboð til vinnufélaga",
+    "prompt": "Write a short message to a colleague to say you will be late for work and why.",
+    "payload": {
+      "stimulus": "Strætó var seinn og þú kemur seint í vinnuna í dag. Skrifaðu stutt skilaboð til vinnufélaga. Segðu hversu seint þú kemur og af hverju.",
+      "criteria": [
+        "Says roughly how late you will be (a time)",
+        "Gives one clear reason",
+        "Uses a friendly, informal but polite tone"
+      ],
+      "charBand": { "min": 40, "max": 120 }
+    },
+    "answer": null,
+    "maxPoints": 0
+  },
+  {
+    "track": "CITIZENSHIP",
+    "exam": "RIKISBORGARAPROF_A2",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "STRETCH",
+    "title": "Kvörtun til húseiganda",
+    "prompt": "Write a short message to your landlord to report a simple problem in the flat.",
+    "payload": {
+      "stimulus": "Kraninn í eldhúsinu þínu lekur. Skrifaðu stutt skilaboð til húseigandans. Lýstu vandamálinu og biddu hann að laga það sem fyrst.",
+      "criteria": [
+        "Describes the problem clearly in one or two sentences",
+        "Says where in the flat the problem is",
+        "Politely asks for it to be fixed",
+        "Uses a greeting and own name"
+      ],
+      "charBand": { "min": 40, "max": 120 }
+    },
+    "answer": null,
+    "maxPoints": 0
+  },
+  {
+    "track": "CITIZENSHIP",
+    "exam": "RIKISBORGARAPROF_A2",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "STRETCH",
+    "title": "Boð til afmælis",
+    "prompt": "Write a short invitation to a friend to come to a small birthday gathering at your home.",
+    "payload": {
+      "stimulus": "Þú heldur upp á afmælið þitt á laugardaginn. Skrifaðu stutt boð til vinar. Segðu hvar og hvenær það er og biddu hann að láta vita hvort hann komi.",
+      "criteria": [
+        "States the day, time and place of the gathering",
+        "Invites the friend clearly",
+        "Asks the friend to reply whether they can come",
+        "Uses a friendly greeting and closing"
+      ],
+      "charBand": { "min": 40, "max": 120 }
+    },
+    "answer": null,
+    "maxPoints": 0
+  },
+  {
+    "track": "CITIZENSHIP",
+    "exam": "RIKISBORGARAPROF_A2",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "FOUNDATION",
+    "title": "Kynntu þig",
+    "prompt": "Introduce yourself out loud. Speak in simple Icelandic sentences.",
+    "payload": {
+      "stimulus": "Kynntu þig. Segðu hvað þú heitir, hvaðan þú ert, hvar þú býrð núna og eitt áhugamál sem þú hefur.",
+      "criteria": [
+        "Gives name, country of origin and one detail about work or family",
+        "Says where they live now",
+        "Speaks in full simple sentences with clear pronunciation"
+      ],
+      "minSeconds": 30
+    },
+    "answer": null,
+    "maxPoints": 0
+  },
+  {
+    "track": "CITIZENSHIP",
+    "exam": "RIKISBORGARAPROF_A2",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "FOUNDATION",
+    "title": "Fjölskyldan þín",
+    "prompt": "Talk about your family. Describe who they are in simple sentences.",
+    "payload": {
+      "stimulus": "Segðu frá fjölskyldunni þinni. Hverjir eru í fjölskyldunni? Hvað heita þau og hvað gera þau?",
+      "criteria": [
+        "Names at least two family members and how they are related",
+        "Gives one detail about each (age, work or where they live)",
+        "Uses correct family and possessive vocabulary"
+      ],
+      "minSeconds": 30
+    },
+    "answer": null,
+    "maxPoints": 0
+  },
+  {
+    "track": "CITIZENSHIP",
+    "exam": "RIKISBORGARAPROF_A2",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "CORE",
+    "title": "Vinnan þín",
+    "prompt": "Talk about your work or what you do during the week.",
+    "payload": {
+      "stimulus": "Segðu frá vinnunni þinni eða því sem þú gerir á daginn. Hvar vinnur þú? Hvað gerir þú þar? Hvernig kemst þú í vinnuna?",
+      "criteria": [
+        "Says where they work or study",
+        "Describes one or two tasks they do",
+        "Says how they get there",
+        "Uses present-tense verbs correctly"
+      ],
+      "minSeconds": 40
+    },
+    "answer": null,
+    "maxPoints": 0
+  },
+  {
+    "track": "CITIZENSHIP",
+    "exam": "RIKISBORGARAPROF_A2",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "CORE",
+    "title": "Spurðu til vegar",
+    "prompt": "Ask a stranger politely for directions to a place in town.",
+    "payload": {
+      "stimulus": "Þú ert í miðbænum og veist ekki hvar sundlaugin er. Stöðvaðu einhvern kurteislega og spurðu til vegar. Þakkaðu fyrir í lokin.",
+      "criteria": [
+        "Opens with a polite phrase to get attention",
+        "Clearly asks where the place is or how to get there",
+        "Uses simple direction vocabulary (left, right, straight)",
+        "Ends with a thank-you"
+      ],
+      "minSeconds": 30
+    },
+    "answer": null,
+    "maxPoints": 0
+  },
+  {
+    "track": "CITIZENSHIP",
+    "exam": "RIKISBORGARAPROF_A2",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "CORE",
+    "title": "Dagurinn þinn",
+    "prompt": "Describe your daily routine from morning to evening.",
+    "payload": {
+      "stimulus": "Lýstu venjulegum degi hjá þér. Hvað gerir þú á morgnana, á daginn og á kvöldin? Nefndu hvenær þú gerir hlutina.",
+      "criteria": [
+        "Describes at least three activities across the day",
+        "Uses time expressions (in the morning, at noon, in the evening)",
+        "Uses present-tense verbs in a logical order"
+      ],
+      "minSeconds": 40
+    },
+    "answer": null,
+    "maxPoints": 0
+  },
+  {
+    "track": "CITIZENSHIP",
+    "exam": "RIKISBORGARAPROF_A2",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "STRETCH",
+    "title": "Vandamál á heilsugæslunni",
+    "prompt": "Explain a simple health problem to a nurse at the clinic.",
+    "payload": {
+      "stimulus": "Þú ert á heilsugæslunni. Útskýrðu fyrir hjúkrunarfræðingnum hvað er að. Segðu hvað er að þér, hversu lengi og biddu um hjálp.",
+      "criteria": [
+        "Names the symptom or problem clearly",
+        "Says how long it has lasted",
+        "Asks for help or an appointment",
+        "Uses basic body and health vocabulary"
+      ],
+      "minSeconds": 40
+    },
+    "answer": null,
+    "maxPoints": 0
+  },
+  {
+    "track": "CITIZENSHIP",
+    "exam": "RIKISBORGARAPROF_A2",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "STRETCH",
+    "title": "Verslun í búðinni",
+    "prompt": "Explain to a shop assistant that you want to return an item and why.",
+    "payload": {
+      "stimulus": "Þú keyptir peysu í búð en hún er of lítil. Talaðu við afgreiðslumanninn. Útskýrðu vandamálið og spurðu hvort þú getir skipt henni eða fengið endurgreiðslu.",
+      "criteria": [
+        "Explains what was bought and what is wrong with it",
+        "Politely asks to exchange or get a refund",
+        "Uses shopping vocabulary and correct question forms",
+        "Keeps a polite tone throughout"
+      ],
+      "minSeconds": 40
+    },
+    "answer": null,
+    "maxPoints": 0
+  }
+]

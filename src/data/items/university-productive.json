@@ -1,0 +1,332 @@
+[
+  {
+    "track": "UNIVERSITY",
+    "exam": "HI_ENTRANCE",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "CORE",
+    "title": "Rökfærsluritgerð: Skólagjöld við háskóla",
+    "prompt": "Write a short argumentative essay taking a clear position on the given statement.",
+    "payload": {
+      "stimulus": "Sumir telja að háskólanám eigi að vera gjaldfrjálst fyrir alla, en aðrir segja að hófleg skólagjöld tryggi betri gæði kennslu. Skrifaðu stutta rökfærsluritgerð þar sem þú tekur skýra afstöðu til fullyrðingarinnar: „Nám við háskóla á að vera gjaldfrjálst.“ Rökstyddu skoðun þína með að minnsta kosti tveimur röksemdum og nefndu eitt mótrök.",
+      "criteria": [
+        "States a clear thesis on the statement in the opening lines and holds that position throughout",
+        "Supports the position with at least two distinct, developed reasons",
+        "Acknowledges and responds to one counter-argument",
+        "Uses formal academic register and logical connectors (til dæmis, hins vegar, þar af leiðandi)",
+        "Shows accurate control of Icelandic case marking and verb agreement at B2/C1 level"
+      ],
+      "charBand": { "min": 150, "max": 300 }
+    },
+    "answer": null,
+    "maxPoints": 0
+  },
+  {
+    "track": "UNIVERSITY",
+    "exam": "HI_ENTRANCE",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "CORE",
+    "title": "Formlegur tölvupóstur til deildar",
+    "prompt": "Write a formal email to a university department requesting information.",
+    "payload": {
+      "stimulus": "Þú hyggst sækja um nám í félagsfræði við Háskóla Íslands en þér vantar upplýsingar. Skrifaðu formlegan tölvupóst til deildarinnar þar sem þú kynnir þig stuttlega, spyrð um umsóknarfrest, hvort krafist sé íslenskuprófs og hvort hægt sé að stunda námið í fjarnámi. Notaðu viðeigandi ávarp og kveðju.",
+      "criteria": [
+        "Opens with an appropriate formal salutation and closes with a suitable sign-off",
+        "Introduces the writer briefly and states the purpose of the email in the first sentence",
+        "Poses at least three clear, relevant questions to the department",
+        "Maintains polite, formal register throughout with correct use of þér/formal forms where appropriate",
+        "Organises the message into coherent paragraphs with accurate spelling of Icelandic special characters"
+      ],
+      "charBand": { "min": 150, "max": 300 }
+    },
+    "answer": null,
+    "maxPoints": 0
+  },
+  {
+    "track": "UNIVERSITY",
+    "exam": "HI_ENTRANCE",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "STRETCH",
+    "title": "Útdráttur úr stuttum texta",
+    "prompt": "Summarise the short text in your own words.",
+    "payload": {
+      "stimulus": "Lestu eftirfarandi texta og skrifaðu útdrátt með þínum eigin orðum: „Á síðustu árum hefur fjöldi erlendra stúdenta við íslenska háskóla aukist verulega. Þetta hefur haft jákvæð áhrif á fjölbreytni innan skólanna en jafnframt kallað á aukna þjónustu, svo sem námskeið í íslensku fyrir útlendinga og stuðning við húsnæðisleit. Sérfræðingar benda á að vel skipulögð móttaka nýnema skili sér í betri námsárangri.“ Dragðu saman meginatriðin án þess að endurtaka orðalag textans.",
+      "criteria": [
+        "Captures the main idea and the two or three key supporting points of the source text",
+        "Reformulates the content in the writer's own words rather than copying phrasing",
+        "Omits minor detail and personal opinion, keeping the summary objective",
+        "Preserves the logical relationship between cause and effect from the original",
+        "Demonstrates paraphrasing skill with accurate B2/C1 vocabulary and syntax"
+      ],
+      "charBand": { "min": 150, "max": 300 }
+    },
+    "answer": null,
+    "maxPoints": 0
+  },
+  {
+    "track": "UNIVERSITY",
+    "exam": "HI_ENTRANCE",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "CORE",
+    "title": "Áhugabréf fyrir námsleið",
+    "prompt": "Write a motivation paragraph for a study programme.",
+    "payload": {
+      "stimulus": "Skrifaðu áhugabréf (motivation) þar sem þú útskýrir hvers vegna þú vilt hefja nám í umhverfis- og auðlindafræði við Háskóla Íslands. Segðu frá bakgrunni þínum, hvað dregur þig að greininni og hvernig þú sérð námið nýtast þér í framtíðinni.",
+      "criteria": [
+        "Names the study programme and gives a clear, specific reason for choosing it",
+        "Connects the writer's background or experience to the field of study",
+        "Articulates a realistic future goal that the programme would support",
+        "Uses persuasive but sincere academic tone without empty cliché",
+        "Shows cohesive paragraph structure and accurate Icelandic grammar at B2/C1 level"
+      ],
+      "charBand": { "min": 150, "max": 300 }
+    },
+    "answer": null,
+    "maxPoints": 0
+  },
+  {
+    "track": "UNIVERSITY",
+    "exam": "HI_ENTRANCE",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "STRETCH",
+    "title": "Lýstu og túlkaðu súlurit",
+    "prompt": "Describe and interpret the simple chart in words.",
+    "payload": {
+      "stimulus": "Súlurit sýnir hlutfall stúdenta sem ljúka námi á réttum tíma í fjórum deildum: Verkfræðideild 78%, Hugvísindadeild 62%, Viðskiptadeild 71% og Læknadeild 85%. Lýstu því sem súluritið sýnir og túlkaðu niðurstöðurnar: hvaða deild kemur best út, hvar er munurinn mestur og hvað gæti skýrt hann?",
+      "criteria": [
+        "Accurately describes the values and identifies the highest and lowest categories",
+        "Compares the figures using appropriate quantitative language (hlutfall, hærra, lægra, munurinn)",
+        "Offers a plausible interpretation of why the differences might occur",
+        "Distinguishes clearly between describing data and interpreting it",
+        "Uses precise numerical and comparative vocabulary with correct Icelandic number and case forms"
+      ],
+      "charBand": { "min": 150, "max": 300 }
+    },
+    "answer": null,
+    "maxPoints": 0
+  },
+  {
+    "track": "UNIVERSITY",
+    "exam": "HI_ENTRANCE",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "CORE",
+    "title": "Rökfærsluritgerð: Fjarnám eða staðnám",
+    "prompt": "Write a short argumentative essay weighing the two options and stating your view.",
+    "payload": {
+      "stimulus": "Fjarnám hefur orðið algengara við íslenska háskóla. Skrifaðu stutta rökfærsluritgerð um fullyrðinguna: „Fjarnám er jafn gott og staðnám fyrir háskólanema.“ Taktu skýra afstöðu, færðu að minnsta kosti tvö rök fyrir máli þínu og bregðast við einu mótrök.",
+      "criteria": [
+        "States a clear position on whether distance learning matches on-site study",
+        "Develops at least two supporting reasons with concrete examples",
+        "Engages fairly with one opposing argument before rebutting or conceding it",
+        "Structures the essay with an introduction, body and brief conclusion",
+        "Employs academic connectors and accurate subordinate clause construction in Icelandic"
+      ],
+      "charBand": { "min": 150, "max": 300 }
+    },
+    "answer": null,
+    "maxPoints": 0
+  },
+  {
+    "track": "UNIVERSITY",
+    "exam": "HI_ENTRANCE",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "STRETCH",
+    "title": "Formleg beiðni um frest",
+    "prompt": "Write a formal email requesting an extension, giving reasons.",
+    "payload": {
+      "stimulus": "Þú getur ekki skilað lokaverkefni á tilsettum tíma vegna veikinda. Skrifaðu formlegan tölvupóst til umsjónarkennara þar sem þú útskýrir aðstæður þínar, biður um vikufrest og leggur til nýja skiladagsetningu. Gættu þess að vera kurteis og málefnaleg(ur).",
+      "criteria": [
+        "Clearly states the request for an extension early in the message",
+        "Explains the reason honestly and concisely without over-justifying",
+        "Proposes a specific alternative deadline",
+        "Maintains respectful, formal register and appropriate opening and closing",
+        "Demonstrates control of past-tense narration and formal Icelandic phrasing at B2/C1 level"
+      ],
+      "charBand": { "min": 150, "max": 300 }
+    },
+    "answer": null,
+    "maxPoints": 0
+  },
+  {
+    "track": "UNIVERSITY",
+    "exam": "HI_ENTRANCE",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "CORE",
+    "title": "Útdráttur og afstaða til greinar",
+    "prompt": "Summarise the viewpoint in the text and add a brief reasoned response.",
+    "payload": {
+      "stimulus": "Í blaðagrein heldur höfundur því fram að of margir ungmenni velji háskólanám sjálfkrafa án þess að íhuga verk- og iðnnám, sem geti leitt til skorts á iðnaðarmönnum. Skrifaðu stuttan útdrátt úr sjónarmiði höfundar og bættu við eigin afstöðu í tveimur til þremur setningum með rökstuðningi.",
+      "criteria": [
+        "Accurately restates the author's central claim without distortion",
+        "Separates the summary of the source from the writer's own opinion",
+        "Gives a reasoned personal response supported by at least one argument",
+        "Keeps an objective tone in the summary section",
+        "Uses reporting verbs (heldur fram, bendir á, telur) and accurate Icelandic syntax"
+      ],
+      "charBand": { "min": 150, "max": 300 }
+    },
+    "answer": null,
+    "maxPoints": 0
+  },
+  {
+    "track": "UNIVERSITY",
+    "exam": "HI_ENTRANCE",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "CORE",
+    "title": "Skoðun á samfélagsmiðlum í námi",
+    "prompt": "Give a structured spoken opinion on the topic.",
+    "payload": {
+      "stimulus": "Segðu álit þitt á fullyrðingunni: „Samfélagsmiðlar trufla nám háskólanema meira en þeir gagnast.“ Byrjaðu á að segja hvort þú sért sammála eða ósammála, færðu tvær röksemdir og ljúktu með stuttri niðurstöðu.",
+      "criteria": [
+        "Opens by clearly stating agreement or disagreement with the claim",
+        "Presents two distinct reasons, each briefly developed with an example",
+        "Closes with a short concluding statement that ties the points together",
+        "Speaks fluently with natural intonation and minimal hesitation",
+        "Uses varied academic vocabulary and correct Icelandic word order in connected speech"
+      ],
+      "minSeconds": 75
+    },
+    "answer": null,
+    "maxPoints": 0
+  },
+  {
+    "track": "UNIVERSITY",
+    "exam": "HI_ENTRANCE",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "CORE",
+    "title": "Endursögn á sjónarmiði",
+    "prompt": "Summarise the given viewpoint aloud in your own words.",
+    "payload": {
+      "stimulus": "Hlustaðu á eftirfarandi sjónarmið og endursegðu það með þínum eigin orðum: „Margir sérfræðingar telja að stúdentar læri best þegar þeir blanda saman fyrirlestrum og hópavinnu, því að umræður hjálpi fólki að skilja efnið dýpra.“ Dragðu saman aðalatriðin án þess að endurtaka orðalagið.",
+      "criteria": [
+        "Reproduces the main claim and its supporting reason accurately",
+        "Paraphrases rather than repeating the exact wording of the prompt",
+        "Organises the retelling in a logical order with clear linking",
+        "Maintains a steady, comprehensible pace suitable for academic speech",
+        "Uses reporting language and accurate Icelandic verb forms in spontaneous speech"
+      ],
+      "minSeconds": 60
+    },
+    "answer": null,
+    "maxPoints": 0
+  },
+  {
+    "track": "UNIVERSITY",
+    "exam": "HI_ENTRANCE",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "STRETCH",
+    "title": "Samanburður: Bókasafn eða heimalærdómur",
+    "prompt": "Compare the two options aloud and say which you prefer.",
+    "payload": {
+      "stimulus": "Berðu saman tvo kosti fyrir háskólanema: að læra á bókasafni skólans eða heima hjá sér. Nefndu að minnsta kosti einn kost og einn galla við hvorn valkost og segðu að lokum hvorn þú kýst og hvers vegna.",
+      "criteria": [
+        "Addresses both options in a balanced way with at least one advantage and one disadvantage each",
+        "Uses comparative structures (betri, verri, á meðan, hins vegar) appropriately",
+        "Ends with a clear personal preference supported by a reason",
+        "Sustains connected speech for the required duration without long pauses",
+        "Shows accurate comparative adjective and case usage in Icelandic"
+      ],
+      "minSeconds": 75
+    },
+    "answer": null,
+    "maxPoints": 0
+  },
+  {
+    "track": "UNIVERSITY",
+    "exam": "HI_ENTRANCE",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "STRETCH",
+    "title": "Stutt rökræða: Skyldumæting",
+    "prompt": "Present a short argument for or against the proposal.",
+    "payload": {
+      "stimulus": "Sumir háskólar hafa skyldumætingu í fyrirlestra. Haltu stutta rökræðu þar sem þú tekur afstöðu með eða á móti skyldumætingu. Settu fram meginrök þín, styddu þau með dæmi og bregðast við líklegu mótrök.",
+      "criteria": [
+        "States a clear stance for or against compulsory attendance at the outset",
+        "Builds a main argument supported by a concrete example",
+        "Anticipates and responds to a likely counter-argument",
+        "Maintains persuasive delivery with appropriate emphasis and fluency",
+        "Uses argumentative connectors and correct Icelandic subordinate clauses in speech"
+      ],
+      "minSeconds": 80
+    },
+    "answer": null,
+    "maxPoints": 0
+  },
+  {
+    "track": "UNIVERSITY",
+    "exam": "HI_ENTRANCE",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "CORE",
+    "title": "Skoðun á sjálfboðaliðastarfi stúdenta",
+    "prompt": "Give a structured spoken opinion on the social topic.",
+    "payload": {
+      "stimulus": "Segðu skoðun þína á fullyrðingunni: „Háskólanemar ættu að taka þátt í sjálfboðaliðastarfi samhliða námi.“ Segðu hvort þú sért sammála, færðu tvær röksemdir og nefndu hugsanlegan ókost við það.",
+      "criteria": [
+        "Clearly signals agreement or disagreement at the start",
+        "Provides two supporting reasons with some development",
+        "Mentions at least one possible drawback, showing balanced thinking",
+        "Speaks coherently with logical sequencing and smooth transitions",
+        "Demonstrates range of vocabulary and grammatical accuracy in spontaneous Icelandic"
+      ],
+      "minSeconds": 70
+    },
+    "answer": null,
+    "maxPoints": 0
+  },
+  {
+    "track": "UNIVERSITY",
+    "exam": "HI_ENTRANCE",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "STRETCH",
+    "title": "Samanburður á námsleiðum",
+    "prompt": "Compare two study paths aloud and justify a recommendation.",
+    "payload": {
+      "stimulus": "Ímyndaðu þér vin sem er að velja milli þess að fara beint í háskólanám eftir menntaskóla eða taka eitt ár í vinnu fyrst. Berðu saman kostina tvo, nefndu kosti og galla og ráðleggðu vininum hvað þú teldir betra og hvers vegna.",
+      "criteria": [
+        "Presents both paths with at least one benefit and one drawback for each",
+        "Frames the comparison clearly for the imagined listener",
+        "Gives a well-reasoned recommendation with justification",
+        "Sustains fluent, connected speech for the required time",
+        "Uses conditional and comparative forms accurately in Icelandic"
+      ],
+      "minSeconds": 80
+    },
+    "answer": null,
+    "maxPoints": 0
+  },
+  {
+    "track": "UNIVERSITY",
+    "exam": "HI_ENTRANCE",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "CORE",
+    "title": "Stutt kynning á rökum um íslenskukennslu",
+    "prompt": "Present a short argument on the academic topic.",
+    "payload": {
+      "stimulus": "Haltu stutta kynningu þar sem þú rökstyður hvort erlendir stúdentar við Háskóla Íslands eigi að læra íslensku samhliða náminu. Settu fram afstöðu þína, styddu hana með tveimur rökum og dragðu stutta ályktun í lokin.",
+      "criteria": [
+        "Opens with a clear position on whether international students should learn Icelandic",
+        "Supports the position with two developed reasons",
+        "Concludes with a brief summarising statement",
+        "Delivers the argument fluently with clear structure and pacing",
+        "Uses accurate Icelandic pronunciation of special characters and correct grammar in speech"
+      ],
+      "minSeconds": 75
+    },
+    "answer": null,
+    "maxPoints": 0
+  }
+]

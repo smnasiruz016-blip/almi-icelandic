@@ -1,0 +1,340 @@
+[
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B2",
+    "skill": "READING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "CORE",
+    "title": "Fjölgun ferðamanna og húsnæðismarkaðurinn",
+    "prompt": "Read the news analysis and choose the answer that best reflects the writer's main argument.",
+    "payload": {
+      "passage": "Undanfarin ár hefur mikil fjölgun ferðamanna haft víðtæk áhrif á íslenskt samfélag, ekki síst á húsnæðismarkaðinn í miðborg Reykjavíkur. Þar sem eigendur íbúða geta fengið mun hærri tekjur af skammtímaleigu til ferðamanna en af hefðbundinni leigu til íbúa, hafa fjölmargar íbúðir horfið af almennum leigumarkaði. Afleiðingin er sú að leiguverð hefur hækkað og ungt fólk á sífellt erfiðara með að finna húsnæði á viðráðanlegu verði. Sérfræðingar benda þó á að vandinn sé ekki ferðamennskunni einni að kenna, heldur einnig hægri uppbyggingu nýrra íbúða. Þeir vara við því að einföld bönn leysi ekki málið nema samhliða sé ráðist í að byggja meira.",
+      "question": "Hver er meginniðurstaða greinarhöfundar?",
+      "options": [
+        "Ferðamennska er eina orsök húsnæðisvandans og banna ætti skammtímaleigu strax",
+        "Vandinn stafar af mörgum þáttum og lausnin krefst bæði reglna og aukinnar uppbyggingar",
+        "Leiguverð hefur lækkað vegna fjölgunar ferðamanna",
+        "Ungt fólk kýs frekar að leigja til ferðamanna en að búa sjálft í miðborginni"
+      ]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 1 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B2",
+    "skill": "READING",
+    "taskType": "TRUE_FALSE",
+    "difficulty": "CORE",
+    "title": "Ný fjarvinnustefna fyrirtækisins",
+    "prompt": "Read the internal policy notice and decide whether the statement is true (Rétt) or false (Rangt).",
+    "payload": {
+      "passage": "Frá og með næstu mánaðamótum tekur gildi ný stefna um fjarvinnu hjá fyrirtækinu. Starfsfólki verður heimilt að vinna heiman frá sér allt að þremur dögum í viku, að því gefnu að næsti yfirmaður samþykki fyrirkomulagið og að viðkomandi mæti á sameiginlega teymisfundi á þriðjudögum. Nýir starfsmenn á reynslutíma þurfa þó að vera á staðnum alla virka daga fyrstu þrjá mánuðina. Stefnan verður endurskoðuð að hálfu ári liðnu í ljósi reynslunnar.",
+      "question": "Nýir starfsmenn á reynslutíma mega vinna heiman frá sér þrjá daga í viku strax frá upphafi.",
+      "options": ["Rétt", "Rangt"]
+    },
+    "answer": { "type": "TRUE_FALSE", "correctIndex": 1 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B2",
+    "skill": "READING",
+    "taskType": "CLOZE",
+    "difficulty": "STRETCH",
+    "title": "Íslensk kvikmyndagerð á alþjóðavettvangi",
+    "prompt": "Read the cultural article and choose the word that best fills each gap.",
+    "payload": {
+      "passage": "Íslensk kvikmyndagerð hefur á síðustu árum vakið vaxandi {{1}} á alþjóðlegum kvikmyndahátíðum. Þótt markaðurinn heima fyrir sé lítill hafa leikstjórar náð að segja sögur sem {{2}} áhorfendur langt út fyrir landsteinana. Margir telja að styrkur íslenskra mynda felist einmitt í nánu sambandi þeirra við náttúruna og hið sérstaka ljós norðurslóða.",
+      "gaps": [
+        { "id": 1, "options": ["athygli", "leiðindi", "þögn", "gleymsku"] },
+        { "id": 2, "options": ["hræða frá", "snerta", "móðga", "rugla"] }
+      ]
+    },
+    "answer": {
+      "type": "CLOZE",
+      "correct": [
+        { "id": 1, "index": 0 },
+        { "id": 2, "index": 1 }
+      ]
+    },
+    "maxPoints": 2
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B2",
+    "skill": "READING",
+    "taskType": "MATCHING",
+    "difficulty": "STRETCH",
+    "title": "Fyrirsagnir og efnisgreinar",
+    "prompt": "Read the three short paragraphs and match each one to the heading that fits it best.",
+    "payload": {
+      "passage": "A. Loftslagsbreytingar hafa nú þegar áhrif á íslenska jökla, sem hopa hraðar en áður og gætu horfið að stórum hluta á næstu öld. Vísindamenn fylgjast náið með þróuninni.\n\nB. Sífellt fleiri sveitarfélög bjóða nú upp á íslenskunámskeið fyrir innflytjendur á vinnutíma, í samstarfi við atvinnurekendur, til að auðvelda aðlögun að samfélaginu.\n\nC. Nýtt frumvarp á Alþingi á að einfalda reglur um endurvinnslu og skylda fyrirtæki til að flokka úrgang betur en nú er gert.",
+      "instructions": "Paraðu hverja efnisgrein (vinstri) við þá fyrirsögn sem á best við (hægri).",
+      "left": [
+        "Efnisgrein A",
+        "Efnisgrein B",
+        "Efnisgrein C"
+      ],
+      "right": [
+        "Jöklar á undanhaldi",
+        "Tungumál sem lykill að aðlögun",
+        "Ný lög um sorpflokkun",
+        "Aukin ferðaþjónusta á landsbyggðinni"
+      ]
+    },
+    "answer": {
+      "type": "MATCHING",
+      "pairs": [
+        [0, 0],
+        [1, 1],
+        [2, 2]
+      ]
+    },
+    "maxPoints": 3
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B2",
+    "skill": "READING",
+    "taskType": "ORDERING",
+    "difficulty": "CORE",
+    "title": "Ferill umsóknar um styrk",
+    "prompt": "The steps of a grant application are listed out of order. Put them in a logical sequence from first to last.",
+    "payload": {
+      "instructions": "Raðaðu skrefunum í rökrétta röð, frá því fyrsta til þess síðasta.",
+      "items": [
+        "Umsækjandi fyllir út umsóknareyðublað og lýsir verkefninu",
+        "Umsókn er send inn fyrir auglýstan frest",
+        "Fagráð metur allar umsóknir og velur þær bestu",
+        "Umsækjandi fær tilkynningu um niðurstöðu og greiðslu styrksins"
+      ]
+    },
+    "answer": {
+      "type": "ORDERING",
+      "order": [0, 1, 2, 3]
+    },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B2",
+    "skill": "LISTENING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "CORE",
+    "title": "Viðtal við sjávarútvegsfræðing",
+    "prompt": "Listen to the radio interview and choose the correct answer.",
+    "payload": {
+      "transcript": "Í dag ræðum við við Guðrúnu, sjávarútvegsfræðing, um stöðu fiskistofna. Guðrún, hvernig lítur þetta út? — Jú, staðan er í raun betri en margir halda. Þorskstofninn hefur styrkst jafnt og þétt síðasta áratug, einkum vegna varkárrar veiðistjórnunar þar sem farið er eftir ráðgjöf Hafrannsóknastofnunar. Áskorunin núna er ekki ofveiði heldur hlýnun sjávar, sem færir suma stofna norðar og breytir öllu vistkerfinu. Við þurfum því að hugsa til lengri tíma en áður.",
+      "question": "Hvað telur Guðrún vera stærstu áskorunina núna?",
+      "options": [
+        "Ofveiði á þorski",
+        "Hlýnun sjávar sem breytir vistkerfinu",
+        "Skortur á ráðgjöf frá Hafrannsóknastofnun",
+        "Að þorskstofninn sé að hrynja"
+      ]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 1 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B2",
+    "skill": "LISTENING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "STRETCH",
+    "title": "Ákvörðun á deildarfundi",
+    "prompt": "Listen to the excerpt from a team meeting and choose the answer that best describes the decision reached.",
+    "payload": {
+      "transcript": "Gott og vel, þá er spurningin hvort við frestum útgáfu nýja kerfisins. Markaðsdeildin vill halda upphaflegu dagsetningunni, en tæknifólkið segir að við þurfum að minnsta kosti tvær vikur í viðbót til að laga villurnar. Ég held að við verðum að hlusta á tæknifólkið í þetta sinn; það þýðir ekkert að gefa út kerfi sem virkar illa. Við frestum því útgáfunni um tvær vikur en tilkynnum viðskiptavinum það strax í dag svo enginn verði hissa.",
+      "question": "Hvað var ákveðið á fundinum?",
+      "options": [
+        "Að gefa kerfið út á upphaflegum degi eins og markaðsdeildin vildi",
+        "Að hætta alveg við nýja kerfið",
+        "Að fresta útgáfunni um tvær vikur og láta viðskiptavini vita strax",
+        "Að bíða með að ákveða nokkuð fram að næsta fundi"
+      ]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 2 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B2",
+    "skill": "LISTENING",
+    "taskType": "TRUE_FALSE",
+    "difficulty": "CORE",
+    "title": "Veðurfréttir og viðvörun",
+    "prompt": "Listen to the weather report and decide whether the statement is true (Rétt) or false (Rangt).",
+    "payload": {
+      "transcript": "Og þá að veðrinu. Í kvöld gengur í hvassa suðaustanátt með mikilli rigningu, einkum sunnan- og vestanlands. Veðurstofan hefur gefið út gula viðvörun sem tekur gildi klukkan sex í kvöld og gildir fram á morgun. Vegfarendur eru hvattir til að fara varlega, sérstaklega á fjallvegum þar sem skyggni getur orðið mjög lítið. Á Norðausturlandi verður hins vegar bjart og hægur vindur.",
+      "question": "Gula viðvörunin gildir fyrir allt landið, líka Norðausturland.",
+      "options": ["Rétt", "Rangt"]
+    },
+    "answer": { "type": "TRUE_FALSE", "correctIndex": 1 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B2",
+    "skill": "LISTENING",
+    "taskType": "CLOZE",
+    "difficulty": "STRETCH",
+    "title": "Fyrirlestur um íslenska tungu",
+    "prompt": "Listen to the lecture excerpt and choose the word that best fills each gap in the summary.",
+    "payload": {
+      "transcript": "Íslenskan hefur varðveist einstaklega vel í gegnum aldirnar, þannig að nútímafólk getur að miklu leyti lesið forn handrit frá þrettándu öld án mikilla erfiðleika. Ástæðurnar eru margar, meðal annars einangrun landsins og sterk hefð fyrir bóklestri. Á síðustu árum hafa margir þó áhyggjur af auknum áhrifum enskunnar, sérstaklega á máli ungs fólks, og spurt er hvernig best sé að styðja við tungumálið án þess að einangra það.",
+      "passage": "Íslenskan hefur varðveist svo vel að fólk getur enn lesið gömul {{1}} frá miðöldum. Nú hafa margir þó {{2}} af vaxandi áhrifum enskunnar á mál ungs fólks.",
+      "gaps": [
+        { "id": 1, "options": ["handrit", "hús", "verkfæri", "lög"] },
+        { "id": 2, "options": ["gaman", "áhyggjur", "gagn", "frí"] }
+      ]
+    },
+    "answer": {
+      "type": "CLOZE",
+      "correct": [
+        { "id": 1, "index": 0 },
+        { "id": 2, "index": 1 }
+      ]
+    },
+    "maxPoints": 2
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B2",
+    "skill": "LISTENING",
+    "taskType": "MATCHING",
+    "difficulty": "STRETCH",
+    "title": "Skoðanir í umræðuþætti",
+    "prompt": "Listen to three speakers discussing car-free days in the city centre and match each speaker to their opinion.",
+    "payload": {
+      "transcript": "Fyrst er það Anna: Ég er mjög hlynnt bíllausum dögum. Loftið verður hreinna og fólk fer meira gangandi og hjólandi, sem er hollt. — Næstur er Björn: Mér finnst hugmyndin ganga of langt. Ekki eru allir sem geta hjólað, til dæmis eldra fólk og þeir sem búa langt í burtu. — Og loks Dísa: Í sjálfu sér er ég ekki á móti þessu, en ég held að við þurfum fyrst miklu betri almenningssamgöngur áður en við lokum götunum.",
+      "instructions": "Paraðu hvern ræðumann (vinstri) við þá skoðun sem best lýsir afstöðu hans (hægri).",
+      "left": [
+        "Anna",
+        "Björn",
+        "Dísa"
+      ],
+      "right": [
+        "Styður hugmyndina eindregið vegna heilsu og hreinna lofts",
+        "Er andvíg því að þetta henti ekki öllum, til dæmis eldra fólki",
+        "Er ekki á móti en vill bæta almenningssamgöngur fyrst",
+        "Telur að bílum eigi aldrei að fjölga í borginni"
+      ]
+    },
+    "answer": {
+      "type": "MATCHING",
+      "pairs": [
+        [0, 0],
+        [1, 1],
+        [2, 2]
+      ]
+    },
+    "maxPoints": 3
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B2",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "CORE",
+    "title": "Rök með og á móti fjarvinnu",
+    "prompt": "Write a short argumentative text presenting the pros and cons of remote work and stating your own view.",
+    "payload": {
+      "stimulus": "Sífellt fleiri vinna heiman frá sér að hluta. Skrifaðu skýran texta þar sem þú ræðir bæði kosti og galla fjarvinnu og setur fram þína eigin skoðun með rökum.",
+      "criteria": [
+        "Presents at least one clear advantage and one clear disadvantage of remote work",
+        "States and justifies a personal viewpoint",
+        "Uses linking words to structure the argument (t.d. hins vegar, þar af leiðandi, aftur á móti)",
+        "Writes coherent, detailed paragraphs at an upper-intermediate level"
+      ],
+      "charBand": { "min": 150, "max": 300 }
+    },
+    "answer": null,
+    "maxPoints": 0
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B2",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "STRETCH",
+    "title": "Formlegt kvörtunarbréf",
+    "prompt": "Write a formal complaint letter to a company about a product or service that did not meet expectations, and request a specific resolution.",
+    "payload": {
+      "stimulus": "Þú keyptir vöru eða þjónustu sem stóð ekki undir væntingum. Skrifaðu formlegt kvörtunarbréf til fyrirtækisins. Lýstu vandanum skýrt, útskýrðu hvaða áhrif hann hafði og farðu fram á ákveðna úrlausn.",
+      "criteria": [
+        "Uses an appropriate formal register and layout (greeting, body, closing)",
+        "Describes the problem clearly with relevant details",
+        "Explains the consequences and requests a specific, reasonable resolution",
+        "Maintains a polite but firm tone throughout"
+      ],
+      "charBand": { "min": 160, "max": 300 }
+    },
+    "answer": null,
+    "maxPoints": 0
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B2",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "CORE",
+    "title": "Tölvupóstur til yfirmanns um tillögu",
+    "prompt": "Write a work email to your manager proposing an improvement to a work process, explaining the benefits and any drawbacks.",
+    "payload": {
+      "stimulus": "Þú hefur hugmynd um hvernig bæta megi eitthvað á vinnustaðnum þínum, til dæmis verkferil, fundi eða vinnuaðstöðu. Skrifaðu tölvupóst til yfirmanns þar sem þú kynnir tillöguna, útskýrir ávinninginn og nefnir hugsanlega ókosti.",
+      "criteria": [
+        "Opens and closes the email appropriately for a workplace context",
+        "Presents the proposal clearly and gives concrete reasons for it",
+        "Acknowledges at least one possible drawback or objection",
+        "Uses correct, varied sentence structures suitable for B2"
+      ],
+      "charBand": { "min": 150, "max": 280 }
+    },
+    "answer": null,
+    "maxPoints": 0
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B2",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "CORE",
+    "title": "Rökstyddu skoðun þína á ferðamennsku",
+    "prompt": "Speak for at least a minute giving your opinion on mass tourism in Iceland, supporting your view with reasons and examples.",
+    "payload": {
+      "stimulus": "Sumir telja að fjölgun ferðamanna sé mikil búbót fyrir Ísland, á meðan aðrir hafa áhyggjur af áhrifum á náttúru og samfélag. Segðu frá þinni skoðun og rökstyddu hana með dæmum. Nefndu bæði kosti og galla.",
+      "criteria": [
+        "States a clear personal opinion and sustains it throughout",
+        "Gives at least two supporting reasons or examples",
+        "Acknowledges an opposing view (pros and cons)",
+        "Speaks fluently and coherently with connected sentences"
+      ],
+      "minSeconds": 75
+    },
+    "answer": null,
+    "maxPoints": 0
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B2",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "STRETCH",
+    "title": "Berðu saman líf í borg og á landsbyggðinni",
+    "prompt": "Speak for at least 75 seconds comparing life in the city with life in the countryside, and say which you would prefer and why.",
+    "payload": {
+      "stimulus": "Berðu saman kosti og galla þess að búa í borg annars vegar og á landsbyggðinni hins vegar. Ræddu til dæmis atvinnu, samgöngur, þjónustu og lífsgæði. Segðu að lokum hvort þú myndir sjálf(ur) kjósa og hvers vegna.",
+      "criteria": [
+        "Compares the two options across several concrete areas",
+        "Uses comparative structures accurately (t.d. betri, verri, meira en, á meðan)",
+        "Expresses and justifies a personal preference",
+        "Maintains fluency and organises ideas logically"
+      ],
+      "minSeconds": 75
+    },
+    "answer": null,
+    "maxPoints": 0
+  }
+]

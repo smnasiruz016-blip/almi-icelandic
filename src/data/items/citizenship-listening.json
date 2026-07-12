@@ -1,0 +1,300 @@
+[
+  {
+    "track": "CITIZENSHIP",
+    "exam": "RIKISBORGARAPROF_A2",
+    "skill": "LISTENING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "FOUNDATION",
+    "title": "Skilaboð frá heilsugæslunni",
+    "prompt": "Listen to the voicemail from the health clinic and choose the correct answer.",
+    "payload": {
+      "transcript": "Góðan dag. Þetta eru skilaboð frá Heilsugæslunni í Mjódd. Þú átt tíma hjá lækni á morgun, þriðjudaginn 5. mars, klukkan tíu að morgni. Mundu að koma tíu mínútum fyrr og hafa með þér skilríki. Ef þú getur ekki komið, hringdu þá í síma fimm sex fjórir, þrír níu, tveir núll. Takk fyrir.",
+      "question": "Hvenær á viðkomandi tíma hjá lækninum?",
+      "options": [
+        "Á morgun klukkan tíu",
+        "Á morgun klukkan tvö",
+        "Í dag klukkan tíu",
+        "Á mánudaginn klukkan tíu"
+      ]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 0 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CITIZENSHIP",
+    "exam": "RIKISBORGARAPROF_A2",
+    "skill": "LISTENING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "FOUNDATION",
+    "title": "Tilkynning í strætó",
+    "prompt": "Listen to the bus announcement and choose the correct answer.",
+    "payload": {
+      "transcript": "Næsta stopp er Hlemmur. Farþegar sem ætla að skipta yfir í leið fjórtán eða leið sex, vinsamlegast farið út hér. Munið að taka allar töskur með ykkur. Strætó heldur svo áfram niður Laugaveg að Lækjartorgi.",
+      "question": "Hvað eiga farþegar að gera á Hlemmi ef þeir ætla í leið fjórtán?",
+      "options": [
+        "Fara út úr strætó",
+        "Sitja kyrrir",
+        "Borga aftur",
+        "Fara aftast í vagninn"
+      ]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 0 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CITIZENSHIP",
+    "exam": "RIKISBORGARAPROF_A2",
+    "skill": "LISTENING",
+    "taskType": "TRUE_FALSE",
+    "difficulty": "FOUNDATION",
+    "title": "Áminning um að sækja barn",
+    "prompt": "Listen to the school reminder and decide if the statement is true (Rétt) or false (Rangt).",
+    "payload": {
+      "transcript": "Hæ, þetta er kennarinn hjá Emblu í leikskólanum Sólborg. Ég vildi bara minna á að leikskólinn lokar klukkan fimm í dag því starfsfólkið er á fundi. Vinsamlegast sæktu Emblu fyrir klukkan fimm. Takk fyrir og góðan dag.",
+      "question": "Leikskólinn lokar klukkan fimm í dag.",
+      "options": ["Rétt", "Rangt"]
+    },
+    "answer": { "type": "TRUE_FALSE", "correctIndex": 0 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CITIZENSHIP",
+    "exam": "RIKISBORGARAPROF_A2",
+    "skill": "LISTENING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "CORE",
+    "title": "Fyrirmæli á vinnustað",
+    "prompt": "Listen to the workplace instruction and choose the correct answer.",
+    "payload": {
+      "transcript": "Sæl. Áður en þú byrjar í eldhúsinu í dag þarftu að þvo hendurnar vel og setja upp svuntu og hanska. Kælirinn var bilaður í gær en núna er hann í lagi. Byrjaðu á að skera grænmetið og settu það svo í stóru skálina. Ef þú ert í vafa, spurðu mig bara.",
+      "question": "Hvað á starfsmaðurinn að gera fyrst í eldhúsinu?",
+      "options": [
+        "Skera grænmetið",
+        "Þvo hendurnar og setja upp svuntu og hanska",
+        "Gera við kælinn",
+        "Fara í pásu"
+      ]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 1 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CITIZENSHIP",
+    "exam": "RIKISBORGARAPROF_A2",
+    "skill": "LISTENING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "CORE",
+    "title": "Skilaboð frá sveitarfélaginu",
+    "prompt": "Listen to the message from the municipality and choose the correct answer.",
+    "payload": {
+      "transcript": "Góðan daginn. Þetta er tilkynning frá bænum. Á laugardaginn verður sorphirða á öðrum tíma en venjulega vegna framkvæmda í götunni. Vinsamlegast setjið tunnurnar út fyrir klukkan sjö að morgni. Bláa tunnan fyrir pappír verður tæmd sama dag. Takk fyrir.",
+      "question": "Fyrir hvaða tíma á að setja tunnurnar út á laugardaginn?",
+      "options": [
+        "Fyrir klukkan sjö að morgni",
+        "Fyrir klukkan níu að kvöldi",
+        "Fyrir hádegi",
+        "Fyrir klukkan tíu að morgni"
+      ]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 0 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CITIZENSHIP",
+    "exam": "RIKISBORGARAPROF_A2",
+    "skill": "LISTENING",
+    "taskType": "TRUE_FALSE",
+    "difficulty": "CORE",
+    "title": "Samtal í búð",
+    "prompt": "Listen to the short dialogue at a shop and decide if the statement is true (Rétt) or false (Rangt).",
+    "payload": {
+      "transcript": "Afgreiðslumaður: Góðan dag, get ég aðstoðað? Viðskiptavinur: Já, ég er að leita að mjólk. Afgreiðslumaður: Mjólkin er þarna í kælinum til hægri, við hliðina á ostinum. Viðskiptavinur: Takk. Og hvað kostar hún? Afgreiðslumaður: Létta mjólkin kostar tvö hundruð krónur.",
+      "question": "Mjólkin er í kælinum til vinstri.",
+      "options": ["Rétt", "Rangt"]
+    },
+    "answer": { "type": "TRUE_FALSE", "correctIndex": 1 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CITIZENSHIP",
+    "exam": "RIKISBORGARAPROF_A2",
+    "skill": "LISTENING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "FOUNDATION",
+    "title": "Veðurspá í útvarpi",
+    "prompt": "Listen to the weather forecast and choose the correct answer.",
+    "payload": {
+      "transcript": "Og nú er það veðrið. Á morgun verður kalt á höfuðborgarsvæðinu, um það bil tvær gráður. Það verður rigning fram að hádegi en svo léttir til síðdegis. Munið að klæða ykkur vel og hafa með ykkur regnhlíf.",
+      "question": "Hvernig verður veðrið fram að hádegi á morgun?",
+      "options": [
+        "Sól og hlýtt",
+        "Rigning",
+        "Snjókoma",
+        "Þoka"
+      ]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 1 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CITIZENSHIP",
+    "exam": "RIKISBORGARAPROF_A2",
+    "skill": "LISTENING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "CORE",
+    "title": "Skilaboð frá tannlækni",
+    "prompt": "Listen to the voicemail from the dentist and choose the correct answer.",
+    "payload": {
+      "transcript": "Halló, þetta eru skilaboð frá tannlæknastofunni á Laugavegi. Því miður þurfum við að fresta tímanum þínum sem var á fimmtudaginn. Nýi tíminn er á föstudaginn klukkan hálf tvö. Vinsamlegast hringdu til baka ef þessi tími hentar ekki. Takk fyrir.",
+      "question": "Af hverju hringir tannlæknastofan?",
+      "options": [
+        "Til að fresta tímanum til föstudags",
+        "Til að minna á reikning",
+        "Til að bjóða afslátt",
+        "Til að segja að stofan sé lokuð"
+      ]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 0 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CITIZENSHIP",
+    "exam": "RIKISBORGARAPROF_A2",
+    "skill": "LISTENING",
+    "taskType": "TRUE_FALSE",
+    "difficulty": "FOUNDATION",
+    "title": "Tilkynning í sundlaug",
+    "prompt": "Listen to the swimming pool announcement and decide if the statement is true (Rétt) or false (Rangt).",
+    "payload": {
+      "transcript": "Kæru gestir. Sundlaugin lokar eftir hálftíma, klukkan níu. Vinsamlegast farið upp úr lauginni klukkan korter í níu svo þið hafið tíma til að fara í sturtu. Munið að þrífa ykkur vel áður en þið farið. Góða kvöldið.",
+      "question": "Gestir eiga að fara upp úr lauginni klukkan korter í níu.",
+      "options": ["Rétt", "Rangt"]
+    },
+    "answer": { "type": "TRUE_FALSE", "correctIndex": 0 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CITIZENSHIP",
+    "exam": "RIKISBORGARAPROF_A2",
+    "skill": "LISTENING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "STRETCH",
+    "title": "Skilaboð frá bankanum",
+    "prompt": "Listen to the message from the bank and choose the correct answer.",
+    "payload": {
+      "transcript": "Góðan dag. Þetta er tilkynning frá bankanum þínum. Útibúið í Kringlunni verður lokað næstu viku vegna viðgerða. Þú getur notað netbankann eða farið í útibúið í Smáralind á meðan. Hraðbankinn við Kringluna verður þó opinn eins og venjulega. Takk fyrir.",
+      "question": "Hvað getur viðskiptavinurinn gert á meðan útibúið í Kringlunni er lokað?",
+      "options": [
+        "Farið í útibúið í Smáralind eða notað netbankann",
+        "Beðið í heilan mánuð",
+        "Ekkert, allir bankar eru lokaðir",
+        "Aðeins hringt í bankann"
+      ]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 0 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CITIZENSHIP",
+    "exam": "RIKISBORGARAPROF_A2",
+    "skill": "LISTENING",
+    "taskType": "TRUE_FALSE",
+    "difficulty": "CORE",
+    "title": "Áminning frá skólanum",
+    "prompt": "Listen to the school message and decide if the statement is true (Rétt) or false (Rangt).",
+    "payload": {
+      "transcript": "Sæl og blessuð. Þetta er tilkynning frá grunnskólanum. Á föstudaginn fara nemendur í fjórða bekk í vettvangsferð í Fjölskyldugarðinn. Vinsamlegast látið börnin hafa nesti og hlý föt með sér. Rútan leggur af stað klukkan níu, svo verið tímanlega í skólanum.",
+      "question": "Börnin eiga að hafa með sér nesti og hlý föt.",
+      "options": ["Rétt", "Rangt"]
+    },
+    "answer": { "type": "TRUE_FALSE", "correctIndex": 0 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CITIZENSHIP",
+    "exam": "RIKISBORGARAPROF_A2",
+    "skill": "LISTENING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "CORE",
+    "title": "Samtal á kaffihúsi",
+    "prompt": "Listen to the short dialogue at a café and choose the correct answer.",
+    "payload": {
+      "transcript": "Afgreiðslumaður: Hæ, hvað má bjóða þér? Viðskiptavinur: Ég ætla að fá einn kaffibolla og eina kanilsnúð, takk. Afgreiðslumaður: Viltu mjólk með kaffinu? Viðskiptavinur: Nei takk, bara svart. Afgreiðslumaður: Það gerir sjö hundruð og fimmtíu krónur.",
+      "question": "Hvað pantaði viðskiptavinurinn?",
+      "options": [
+        "Kaffi og kanilsnúð",
+        "Te og samloku",
+        "Kaffi með mjólk og köku",
+        "Djús og brauð"
+      ]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 0 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CITIZENSHIP",
+    "exam": "RIKISBORGARAPROF_A2",
+    "skill": "LISTENING",
+    "taskType": "MATCHING",
+    "difficulty": "CORE",
+    "title": "Hver gerir hvað á morgun?",
+    "prompt": "Listen as three family members say what they will do tomorrow, then match each person to their plan.",
+    "payload": {
+      "transcript": "Í fjölskyldunni eru allir með plön á morgun. Anna ætlar að fara til tannlæknis klukkan níu. Bróðir hennar, Jón, ætlar að vinna í búðinni allan daginn. Mamma þeirra, Sigrún, ætlar að fara í sund með vinkonu sinni eftir hádegi.",
+      "instructions": "Tengdu hverja manneskju við það sem hún ætlar að gera á morgun.",
+      "left": ["Anna", "Jón", "Sigrún"],
+      "right": [
+        "Fer að vinna í búðinni",
+        "Fer til tannlæknis",
+        "Fer í sund",
+        "Fer í bíó"
+      ]
+    },
+    "answer": { "type": "MATCHING", "pairs": [[0, 1], [1, 0], [2, 2]] },
+    "maxPoints": 3
+  },
+  {
+    "track": "CITIZENSHIP",
+    "exam": "RIKISBORGARAPROF_A2",
+    "skill": "LISTENING",
+    "taskType": "MATCHING",
+    "difficulty": "STRETCH",
+    "title": "Opnunartímar í þjónustuveri",
+    "prompt": "Listen to the recorded opening hours, then match each place to the time it opens.",
+    "payload": {
+      "transcript": "Velkomin. Hér eru opnunartímar okkar. Bókasafnið opnar klukkan tíu á morgnana. Sundlaugin opnar snemma, klukkan sex. Þjónustuver bæjarins opnar klukkan átta. Munið að hafa skilríki með ykkur þegar þið komið.",
+      "instructions": "Tengdu hvern stað við þann tíma sem hann opnar.",
+      "left": ["Bókasafnið", "Sundlaugin", "Þjónustuver bæjarins"],
+      "right": [
+        "Klukkan sex",
+        "Klukkan átta",
+        "Klukkan tíu",
+        "Klukkan tólf"
+      ]
+    },
+    "answer": { "type": "MATCHING", "pairs": [[0, 2], [1, 0], [2, 1]] },
+    "maxPoints": 3
+  },
+  {
+    "track": "CITIZENSHIP",
+    "exam": "RIKISBORGARAPROF_A2",
+    "skill": "LISTENING",
+    "taskType": "MATCHING",
+    "difficulty": "CORE",
+    "title": "Innkaupalisti fjölskyldunnar",
+    "prompt": "Listen as the speaker says which shop each item comes from, then match each item to its shop.",
+    "payload": {
+      "transcript": "Í dag þurfum við að versla nokkra hluti. Við kaupum brauð í bakaríinu. Svo förum við í apótekið og náum í lyfin hennar ömmu. Að lokum förum við í blómabúðina og kaupum blóm handa mömmu því hún á afmæli.",
+      "instructions": "Tengdu hvern hlut við réttu búðina.",
+      "left": ["Brauð", "Lyf", "Blóm"],
+      "right": [
+        "Apótekið",
+        "Bakaríið",
+        "Blómabúðin",
+        "Bókabúðin"
+      ]
+    },
+    "answer": { "type": "MATCHING", "pairs": [[0, 1], [1, 0], [2, 2]] },
+    "maxPoints": 3
+  }
+]

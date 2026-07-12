@@ -1,0 +1,309 @@
+[
+  {
+    "track": "UNIVERSITY",
+    "exam": "HI_ENTRANCE",
+    "skill": "READING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "CORE",
+    "title": "Jarðhiti á Íslandi",
+    "prompt": "Read the popular-science passage and choose the answer that best reflects its main point.",
+    "payload": {
+      "passage": "Jarðhiti hefur mótað íslenskt samfélag um aldir, en það var ekki fyrr en á tuttugustu öld sem farið var að nýta hann í stórum stíl. Í dag er meirihluti íbúðarhúsnæðis á landinu hitaður með heitu vatni sem sótt er djúpt niður í jörðina, og hlutfall jarðvarma í orkubúskap þjóðarinnar er með því hæsta sem þekkist í heiminum. Þótt vatnsaflsvirkjanir framleiði stærstan hluta raforkunnar er það einmitt jarðhitinn sem gerir húshitun bæði ódýra og umhverfisvæna. Sérfræðingar benda þó á að auðlindin sé ekki óþrjótandi og að ofnýting einstakra svæða geti dregið úr þrýstingi og hita til langframa.",
+      "question": "Hvað er meginatriði textans um jarðhita á Íslandi?",
+      "options": [
+        "Jarðhiti hefur alltaf verið nýttur í stórum stíl á Íslandi.",
+        "Jarðhiti er mikilvægur fyrir húshitun en auðlindin er ekki óþrjótandi.",
+        "Vatnsaflsvirkjanir sjá um alla húshitun í landinu.",
+        "Jarðhiti er dýrari kostur en aðrar orkulindir."
+      ]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 1 },
+    "maxPoints": 1
+  },
+  {
+    "track": "UNIVERSITY",
+    "exam": "HI_ENTRANCE",
+    "skill": "READING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "STRETCH",
+    "title": "Útdráttur úr rannsóknarritgerð",
+    "prompt": "Read the academic abstract and select the option that correctly describes the study's finding.",
+    "payload": {
+      "passage": "Í þessari rannsókn var kannað hvort dagleg útivera hefði áhrif á einbeitingu grunnskólanema. Úrtakið samanstóð af 240 nemendum í fjórum skólum, og var þeim skipt af handahófi í tvo hópa. Annar hópurinn fékk hálftíma útiveru fyrir hádegi í átta vikur, en hinn fylgdi hefðbundinni stundaskrá. Niðurstöður sýndu marktækan mun á athyglisprófum milli hópanna, þar sem útiveruhópurinn stóð sig betur. Höfundar draga þó fram að rannsóknin nái aðeins til skamms tíma og að frekari langtímarannsókna sé þörf til að staðfesta orsakasamhengi.",
+      "question": "Hvað sýndu niðurstöður rannsóknarinnar?",
+      "options": [
+        "Enginn munur var á hópunum tveimur.",
+        "Útiveruhópurinn stóð sig marktækt betur á athyglisprófum.",
+        "Hefðbundni hópurinn stóð sig betur á athyglisprófum.",
+        "Rannsóknin staðfesti endanlegt orsakasamhengi til langtíma."
+      ]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 1 },
+    "maxPoints": 1
+  },
+  {
+    "track": "UNIVERSITY",
+    "exam": "HI_ENTRANCE",
+    "skill": "READING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "CORE",
+    "title": "Tilkynning um skráningu",
+    "prompt": "Read the university registration notice and choose the correct statement.",
+    "payload": {
+      "passage": "Skráning í námskeið haustmisseris hefst mánudaginn 5. ágúst og lýkur föstudaginn 16. ágúst. Nemendur skrá sig í gegnum Uglu, innri vef háskólans, og eru minntir á að greiða skrásetningargjald áður en skráning er staðfest. Þeir sem hyggjast sækja um undanþágu frá forkröfum verða að senda umsókn til deildarskrifstofu eigi síðar en viku fyrir lok skráningartímabils. Athugið að námskeið sem ekki ná lágmarksfjölda þátttakenda kunna að falla niður, og verður nemendum þá tilkynnt það með tölvupósti.",
+      "question": "Hvað þarf nemandi að gera til að sækja um undanþágu frá forkröfum?",
+      "options": [
+        "Greiða aukagjald í Uglu.",
+        "Senda umsókn til deildarskrifstofu í síðasta lagi viku fyrir lok skráningar.",
+        "Mæta á deildarskrifstofu síðasta dag skráningar.",
+        "Bíða eftir tölvupósti frá kennara."
+      ]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 1 },
+    "maxPoints": 1
+  },
+  {
+    "track": "UNIVERSITY",
+    "exam": "HI_ENTRANCE",
+    "skill": "READING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "STRETCH",
+    "title": "Skoðanagrein um snjalltæki",
+    "prompt": "Read the opinion piece and identify the author's central argument.",
+    "payload": {
+      "passage": "Það er orðið útbreitt viðhorf að snjalltæki séu meginorsök minnkandi einbeitingar meðal ungmenna. Ég tel þó að slík einföldun standist ekki nánari skoðun. Vandinn liggur síður í tækjunum sjálfum en í því hvernig við kennum ungu fólki að umgangast þau. Þar sem skólar hafa markvisst þjálfað gagnrýna notkun hafa neikvæð áhrif reynst mun minni. Að banna tækin án fræðslu er því eins og að slökkva á umræðunni í stað þess að taka hana. Við ættum fremur að leggja áherslu á að efla dómgreind en að útiloka tæknina úr lífi ungmenna.",
+      "question": "Hver er meginröksemd höfundar?",
+      "options": [
+        "Snjalltæki ættu að vera bönnuð í öllum skólum.",
+        "Snjalltæki hafa engin áhrif á einbeitingu.",
+        "Fræðsla og gagnrýnin notkun skiptir meira máli en að banna tækin.",
+        "Ungmenni eiga sjálf að ákveða hvort þau noti snjalltæki."
+      ]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 2 },
+    "maxPoints": 1
+  },
+  {
+    "track": "UNIVERSITY",
+    "exam": "HI_ENTRANCE",
+    "skill": "READING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "CORE",
+    "title": "Fyrirlestur um íslenskt handrit",
+    "prompt": "Read the lecture summary and pick the option that best captures its conclusion.",
+    "payload": {
+      "passage": "Í fyrirlestrinum var fjallað um varðveislu íslenskra miðaldahandrita og þá staðreynd að stór hluti þeirra glataðist á öldum áður vegna raka, elds og vanhirðu. Fyrirlesari lagði áherslu á að þau handrit sem varðveist hafa gefi aðeins brotakennda mynd af ritmenningu þjóðarinnar. Hann benti á að afritun texta hafi oft breytt innihaldi þeirra, og að fræðimenn verði því að fara varlega þegar þeir álykta um upprunalega gerð verka. Niðurstaða fyrirlestrarins var sú að handritin séu ómetanleg heimild en jafnframt ófullkomin, og að túlkun þeirra krefjist varfærni.",
+      "question": "Hver var niðurstaða fyrirlestrarins?",
+      "options": [
+        "Öll miðaldahandrit hafa varðveist óskemmd.",
+        "Handritin eru dýrmæt heimild en ófullkomin og krefjast varfærinnar túlkunar.",
+        "Afritun texta breytti aldrei innihaldi þeirra.",
+        "Ritmenning þjóðarinnar er fullkomlega þekkt af handritunum."
+      ]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 1 },
+    "maxPoints": 1
+  },
+  {
+    "track": "UNIVERSITY",
+    "exam": "HI_ENTRANCE",
+    "skill": "READING",
+    "taskType": "TRUE_FALSE",
+    "difficulty": "FOUNDATION",
+    "title": "Landnám Íslands",
+    "prompt": "Decide whether the statement is true (Rétt) or false (Rangt) based on the passage.",
+    "payload": {
+      "passage": "Samkvæmt rituðum heimildum hófst landnám Íslands á seinni hluta níundu aldar, og komu flestir landnámsmenn frá Noregi og af Bretlandseyjum. Fornleifarannsóknir síðustu áratuga hafa að mörgu leyti staðfest þessa tímasetningu, meðal annars með greiningu á öskulögum sem tengjast eldgosum. Þrátt fyrir það er enn deilt um hversu margir bjuggu í landinu fyrstu áratugina eftir landnám.",
+      "question": "Fornleifarannsóknir hafa að mestu staðfest tímasetningu landnámsins sem ritaðar heimildir gefa.",
+      "options": ["Rétt", "Rangt"]
+    },
+    "answer": { "type": "TRUE_FALSE", "correctIndex": 0 },
+    "maxPoints": 1
+  },
+  {
+    "track": "UNIVERSITY",
+    "exam": "HI_ENTRANCE",
+    "skill": "READING",
+    "taskType": "TRUE_FALSE",
+    "difficulty": "CORE",
+    "title": "Endurnýjanleg orka",
+    "prompt": "Decide whether the statement is true (Rétt) or false (Rangt) based on the passage.",
+    "payload": {
+      "passage": "Ísland framleiðir nær alla sína raforku með endurnýjanlegum orkulindum, einkum vatnsafli og jarðvarma. Þetta hefur gert landið að fyrirmynd í umræðu um sjálfbæra orku. Hins vegar er stór hluti orkunnar nýttur af orkufrekum iðnaði, svo sem álverum, og því er raforkunotkun á hvern íbúa með því mesta sem gerist í heiminum. Umhverfissamtök hafa bent á að hrein orka leiði ekki sjálfkrafa til minni umhverfisáhrifa ef framleiðslunni fylgja umfangsmiklar framkvæmdir.",
+      "question": "Samkvæmt textanum er öll raforka á Íslandi nýtt til heimilisnota.",
+      "options": ["Rétt", "Rangt"]
+    },
+    "answer": { "type": "TRUE_FALSE", "correctIndex": 1 },
+    "maxPoints": 1
+  },
+  {
+    "track": "UNIVERSITY",
+    "exam": "HI_ENTRANCE",
+    "skill": "READING",
+    "taskType": "TRUE_FALSE",
+    "difficulty": "STRETCH",
+    "title": "Málstefna og nýyrði",
+    "prompt": "Decide whether the statement is true (Rétt) or false (Rangt) based on the passage.",
+    "payload": {
+      "passage": "Íslensk málstefna hefur lengi einkennst af áherslu á nýyrðasmíð fremur en að taka upp erlend tökuorð. Þannig hafa orð eins og tölva, sími og þyrla orðið til og fest í sessi. Sumir fræðimenn telja að þessi stefna hafi styrkt stöðu tungumálsins, en aðrir benda á að hún geti verið of íhaldssöm og að tungumál þrói sig eðlilega með aðlögun erlendra orða. Deilan snýst því ekki um hvort málið breytist, heldur um hvernig best sé að stýra þeirri þróun.",
+      "question": "Samkvæmt textanum eru allir fræðimenn sammála um að nýyrðasmíð sé besta leiðin fyrir íslenskuna.",
+      "options": ["Rétt", "Rangt"]
+    },
+    "answer": { "type": "TRUE_FALSE", "correctIndex": 1 },
+    "maxPoints": 1
+  },
+  {
+    "track": "UNIVERSITY",
+    "exam": "HI_ENTRANCE",
+    "skill": "READING",
+    "taskType": "TRUE_FALSE",
+    "difficulty": "CORE",
+    "title": "Bókasafn háskólans",
+    "prompt": "Decide whether the statement is true (Rétt) or false (Rangt) based on the notice.",
+    "payload": {
+      "passage": "Landsbókasafn Íslands – Háskólabókasafn tilkynnir að opnunartími um prófatímabilið verður lengdur. Frá og með 1. desember verður safnið opið til miðnættis alla virka daga og til klukkan 22 um helgar. Nemendur eru minntir á að skila útlánuðum bókum á réttum tíma, þar sem sektir leggjast á eftir gjalddaga. Hópavinnuherbergi má bóka í gegnum vef safnsins, en aðeins er hægt að bóka þau tvo daga fram í tímann.",
+      "question": "Hópavinnuherbergi er aðeins hægt að bóka tvo daga fram í tímann.",
+      "options": ["Rétt", "Rangt"]
+    },
+    "answer": { "type": "TRUE_FALSE", "correctIndex": 0 },
+    "maxPoints": 1
+  },
+  {
+    "track": "UNIVERSITY",
+    "exam": "HI_ENTRANCE",
+    "skill": "READING",
+    "taskType": "CLOZE",
+    "difficulty": "CORE",
+    "title": "Loftslagsbreytingar og jöklar",
+    "prompt": "Choose the word that best fills each gap in the passage.",
+    "payload": {
+      "passage": "Jöklar á Íslandi hafa {{1}} hopað á undanförnum áratugum vegna hlýnandi loftslags. Vísindamenn {{2}} að stærð þeirra með reglulegum mælingum, og gögnin sýna skýra þróun. Ef fram fer sem horfir gæti stór hluti jöklanna {{3}} horfið á þessari öld.",
+      "gaps": [
+        { "id": 1, "options": ["verulega", "varla", "aldrei"] },
+        { "id": 2, "options": ["gleyma", "fylgjast með", "hunsa"] },
+        { "id": 3, "options": ["stækkað", "horfið", "frosið"] }
+      ]
+    },
+    "answer": {
+      "type": "CLOZE",
+      "correct": [
+        { "id": 1, "index": 0 },
+        { "id": 2, "index": 1 },
+        { "id": 3, "index": 1 }
+      ]
+    },
+    "maxPoints": 3
+  },
+  {
+    "track": "UNIVERSITY",
+    "exam": "HI_ENTRANCE",
+    "skill": "READING",
+    "taskType": "CLOZE",
+    "difficulty": "STRETCH",
+    "title": "Aðferðafræði rannsókna",
+    "prompt": "Choose the academic word that best fills each gap in the passage.",
+    "payload": {
+      "passage": "Þegar rannsókn er hönnuð þarf að skilgreina {{1}} skýrt áður en gagnaöflun hefst. Val á úrtaki hefur mikil áhrif á það hversu {{2}} niðurstöðurnar eru fyrir stærri hóp. Að lokum ber að túlka gögnin af {{3}} og forðast að draga víðtækari ályktanir en efni standa til.",
+      "gaps": [
+        { "id": 1, "options": ["rannsóknarspurninguna", "veðrið", "kennarann"] },
+        { "id": 2, "options": ["dýrar", "lýsandi", "gamlar"] },
+        { "id": 3, "options": ["kæruleysi", "varfærni", "flýti"] }
+      ]
+    },
+    "answer": {
+      "type": "CLOZE",
+      "correct": [
+        { "id": 1, "index": 0 },
+        { "id": 2, "index": 1 },
+        { "id": 3, "index": 1 }
+      ]
+    },
+    "maxPoints": 3
+  },
+  {
+    "track": "UNIVERSITY",
+    "exam": "HI_ENTRANCE",
+    "skill": "READING",
+    "taskType": "CLOZE",
+    "difficulty": "FOUNDATION",
+    "title": "Fjölmenning í samfélaginu",
+    "prompt": "Choose the word that best fills each gap in the passage.",
+    "payload": {
+      "passage": "Íslenskt samfélag hefur orðið {{1}} fjölbreyttara á síðustu áratugum eftir því sem fólk af ólíkum uppruna hefur sest að í landinu. Þessi þróun hefur {{2}} nýjum menningaráhrifum og tungumálum inn í daglegt líf. Margir telja að fjölbreytnin {{3}} samfélagið, en aðrir kalla eftir betri stuðningi við íslenskukennslu.",
+      "gaps": [
+        { "id": 1, "options": ["sífellt", "sjaldan", "aldrei"] },
+        { "id": 2, "options": ["fjarlægt", "komið með", "eytt"] },
+        { "id": 3, "options": ["auðgi", "eyðileggi", "loki"] }
+      ]
+    },
+    "answer": {
+      "type": "CLOZE",
+      "correct": [
+        { "id": 1, "index": 0 },
+        { "id": 2, "index": 1 },
+        { "id": 3, "index": 0 }
+      ]
+    },
+    "maxPoints": 3
+  },
+  {
+    "track": "UNIVERSITY",
+    "exam": "HI_ENTRANCE",
+    "skill": "READING",
+    "taskType": "ORDERING",
+    "difficulty": "CORE",
+    "title": "Uppbygging rannsóknarritgerðar",
+    "prompt": "Put the stages of writing a research paper in the correct logical order (first to last).",
+    "payload": {
+      "instructions": "Raðaðu skrefunum við gerð rannsóknarritgerðar í rökrétta röð, frá fyrsta skrefi til þess síðasta.",
+      "items": [
+        "Móta rannsóknarspurningu og setja fram tilgátu.",
+        "Safna gögnum með viðeigandi aðferðum.",
+        "Greina gögnin og túlka niðurstöður.",
+        "Draga saman ályktanir og skrifa lokakafla."
+      ]
+    },
+    "answer": { "type": "ORDERING", "order": [0, 1, 2, 3] },
+    "maxPoints": 1
+  },
+  {
+    "track": "UNIVERSITY",
+    "exam": "HI_ENTRANCE",
+    "skill": "READING",
+    "taskType": "ORDERING",
+    "difficulty": "STRETCH",
+    "title": "Söguleg atburðarás",
+    "prompt": "Arrange the historical events in chronological order (earliest to latest).",
+    "payload": {
+      "instructions": "Raðaðu atburðum úr sögu Íslands í rétta tímaröð, frá þeim elsta til þess yngsta.",
+      "items": [
+        "Landnám hefst á seinni hluta níundu aldar.",
+        "Alþingi er stofnað á Þingvöllum árið 930.",
+        "Kristni er lögtekin um árið 1000.",
+        "Ísland verður sjálfstætt lýðveldi árið 1944."
+      ]
+    },
+    "answer": { "type": "ORDERING", "order": [0, 1, 2, 3] },
+    "maxPoints": 1
+  },
+  {
+    "track": "UNIVERSITY",
+    "exam": "HI_ENTRANCE",
+    "skill": "READING",
+    "taskType": "ORDERING",
+    "difficulty": "FOUNDATION",
+    "title": "Skref við skráningu í nám",
+    "prompt": "Order the registration steps as a student would carry them out.",
+    "payload": {
+      "instructions": "Raðaðu skrefunum við skráningu í háskólanám í rétta röð, frá fyrsta skrefi til þess síðasta.",
+      "items": [
+        "Skrá sig inn á Uglu með rafrænum skilríkjum.",
+        "Velja námskeið misserisins.",
+        "Greiða skrásetningargjaldið.",
+        "Fá staðfestingu á skráningu í tölvupósti."
+      ]
+    },
+    "answer": { "type": "ORDERING", "order": [0, 1, 2, 3] },
+    "maxPoints": 1
+  }
+]

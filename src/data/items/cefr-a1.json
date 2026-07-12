@@ -1,0 +1,264 @@
+[
+  {
+    "track": "CEFR",
+    "exam": "CEFR_A1",
+    "skill": "READING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "FOUNDATION",
+    "title": "Kynning",
+    "prompt": "Read the short introduction and answer the question.",
+    "payload": {
+      "passage": "Halló! Ég heiti Anna. Ég er frá Póllandi en ég bý í Reykjavík. Ég er tuttugu og fimm ára.",
+      "question": "Hvaðan er Anna?",
+      "options": ["Frá Reykjavík", "Frá Póllandi", "Frá Danmörku"]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 1 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_A1",
+    "skill": "READING",
+    "taskType": "TRUE_FALSE",
+    "difficulty": "FOUNDATION",
+    "title": "Fjölskyldan mín",
+    "prompt": "Read the sentence and decide if the statement is true (Rétt) or false (Rangt).",
+    "payload": {
+      "passage": "Ég á einn bróður og tvær systur. Bróðir minn heitir Jón.",
+      "question": "Bróðirinn heitir Jón.",
+      "options": ["Rétt", "Rangt"]
+    },
+    "answer": { "type": "TRUE_FALSE", "correctIndex": 0 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_A1",
+    "skill": "READING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "CORE",
+    "title": "Litirnir",
+    "prompt": "Read the text and choose the correct answer.",
+    "payload": {
+      "passage": "Húsið mitt er hvítt. Bíllinn minn er rauður og hurðin er blá.",
+      "question": "Hvaða litur er á bílnum?",
+      "options": ["Hvítur", "Blár", "Rauður", "Grænn"]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 2 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_A1",
+    "skill": "READING",
+    "taskType": "CLOZE",
+    "difficulty": "CORE",
+    "title": "Góðan daginn",
+    "prompt": "Fill each gap with the correct word.",
+    "payload": {
+      "passage": "Góðan daginn! Ég {{1}} Pétur. Ég er {{2}} Íslandi.",
+      "gaps": [
+        { "id": 1, "options": ["heiti", "heitir", "heita"] },
+        { "id": 2, "options": ["í", "frá", "til"] }
+      ]
+    },
+    "answer": { "type": "CLOZE", "correct": [ { "id": 1, "index": 0 }, { "id": 2, "index": 1 } ] },
+    "maxPoints": 2
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_A1",
+    "skill": "READING",
+    "taskType": "ORDERING",
+    "difficulty": "STRETCH",
+    "title": "Teldu upp að fimm",
+    "prompt": "Put the numbers in order from one to five.",
+    "payload": {
+      "instructions": "Raðaðu tölunum í rétta röð frá einum upp í fimm.",
+      "items": ["einn", "tveir", "þrír", "fjórir", "fimm"]
+    },
+    "answer": { "type": "ORDERING", "order": [0, 1, 2, 3, 4] },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_A1",
+    "skill": "LISTENING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "FOUNDATION",
+    "title": "Hvað heitir þú?",
+    "prompt": "Listen to the recording and choose the correct answer.",
+    "payload": {
+      "transcript": "Hæ, ég heiti Kristín. Ég er þrjátíu ára og ég vinn á kaffihúsi í miðbænum.",
+      "question": "Hvar vinnur Kristín?",
+      "options": ["Á kaffihúsi", "Á sjúkrahúsi", "Í skóla"]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 0 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_A1",
+    "skill": "LISTENING",
+    "taskType": "TRUE_FALSE",
+    "difficulty": "FOUNDATION",
+    "title": "Klukkan",
+    "prompt": "Listen and decide if the statement is true (Rétt) or false (Rangt).",
+    "payload": {
+      "transcript": "Klukkan er núna átta að morgni. Ég fæ mér kaffi og brauð.",
+      "question": "Klukkan er átta að morgni.",
+      "options": ["Rétt", "Rangt"]
+    },
+    "answer": { "type": "TRUE_FALSE", "correctIndex": 0 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_A1",
+    "skill": "LISTENING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "CORE",
+    "title": "Í búðinni",
+    "prompt": "Listen to the short dialogue and choose the correct answer.",
+    "payload": {
+      "transcript": "Góðan dag. Ég ætla að fá tvö epli og eina mjólk, takk. Það kostar fjögur hundruð krónur.",
+      "question": "Hvað ætlar hún að kaupa?",
+      "options": ["Brauð og smjör", "Epli og mjólk", "Kaffi og köku"]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 1 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_A1",
+    "skill": "LISTENING",
+    "taskType": "MATCHING",
+    "difficulty": "CORE",
+    "title": "Dagarnir",
+    "prompt": "Listen and match each person to the day they mentioned.",
+    "payload": {
+      "transcript": "María fer í sund á mánudegi. Ólafur spilar fótbolta á miðvikudegi. Sara vinnur á föstudegi.",
+      "instructions": "Tengdu hverja manneskju við réttan dag.",
+      "left": ["María", "Ólafur", "Sara"],
+      "right": ["mánudagur", "miðvikudagur", "föstudagur", "sunnudagur"]
+    },
+    "answer": { "type": "MATCHING", "pairs": [ [0, 0], [1, 1], [2, 2] ] },
+    "maxPoints": 3
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_A1",
+    "skill": "LISTENING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "STRETCH",
+    "title": "Fjölskyldumynd",
+    "prompt": "Listen to the description and choose the correct answer.",
+    "payload": {
+      "transcript": "Þetta er mamma mín. Hún heitir Guðrún og hún er fimmtíu og tveggja ára. Hún á tvo ketti.",
+      "question": "Hvað á mamman marga ketti?",
+      "options": ["Einn", "Tvo", "Þrjá", "Fjóra"]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 1 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_A1",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "FOUNDATION",
+    "title": "Kynntu þig",
+    "prompt": "Introduce yourself in a few simple sentences.",
+    "payload": {
+      "stimulus": "Skrifaðu stutta kynningu um þig. Segðu hvað þú heitir, hvaðan þú ert og hvað þú ert gamall eða gömul.",
+      "criteria": [
+        "States own name using 'ég heiti'",
+        "Says where they are from using 'ég er frá'",
+        "Gives own age with a number"
+      ],
+      "charBand": { "min": 20, "max": 60 }
+    },
+    "answer": null,
+    "maxPoints": 0
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_A1",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "CORE",
+    "title": "Fjölskyldan þín",
+    "prompt": "Write two or three simple sentences about your family.",
+    "payload": {
+      "stimulus": "Skrifaðu tvær eða þrjár setningar um fjölskylduna þína. Segðu hvað þú átt mörg systkini og hvað þau heita.",
+      "criteria": [
+        "Names at least one family member",
+        "Uses the verb 'að eiga' or 'að heita' correctly",
+        "Writes complete short sentences, not single words"
+      ],
+      "charBand": { "min": 20, "max": 60 }
+    },
+    "answer": null,
+    "maxPoints": 0
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_A1",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "CORE",
+    "title": "Uppáhaldsliturinn",
+    "prompt": "Write a short answer about colours you like.",
+    "payload": {
+      "stimulus": "Hvaða litir eru í uppáhaldi hjá þér? Skrifaðu stutt svar og nefndu tvo liti.",
+      "criteria": [
+        "Names at least two colours in Icelandic",
+        "Uses 'uppáhalds-' or 'ég er hrifin/hrifinn af' to express liking",
+        "Spells colour words correctly"
+      ],
+      "charBand": { "min": 20, "max": 60 }
+    },
+    "answer": null,
+    "maxPoints": 0
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_A1",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "FOUNDATION",
+    "title": "Heilsaðu",
+    "prompt": "Record yourself greeting someone and saying your name.",
+    "payload": {
+      "stimulus": "Heilsaðu og segðu hvað þú heitir. Notaðu 'góðan daginn' og 'ég heiti'.",
+      "criteria": [
+        "Uses an appropriate greeting such as 'góðan daginn' or 'halló'",
+        "States own name clearly",
+        "Speaks in full audible words"
+      ],
+      "minSeconds": 20
+    },
+    "answer": null,
+    "maxPoints": 0
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_A1",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "CORE",
+    "title": "Teldu og segðu frá",
+    "prompt": "Count from one to ten and say how old you are.",
+    "payload": {
+      "stimulus": "Teldu upphátt frá einum upp í tíu. Segðu svo hvað þú ert gamall eða gömul.",
+      "criteria": [
+        "Counts the numbers one to ten in order",
+        "States own age with 'ég er ... ára'",
+        "Pronounces numbers clearly enough to understand"
+      ],
+      "minSeconds": 25
+    },
+    "answer": null,
+    "maxPoints": 0
+  }
+]

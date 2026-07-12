@@ -1,0 +1,307 @@
+[
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B1",
+    "skill": "READING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "CORE",
+    "title": "Elín flytur norður",
+    "prompt": "Read the short text about Elín and answer the question about why she moved.",
+    "payload": {
+      "passage": "Elín flutti til Akureyrar síðasta haust. Hún hafði áður búið í Reykjavík í tíu ár en langaði til að prófa eitthvað nýtt. Í Akureyri fékk hún vinnu á bókasafni og leigði sér litla íbúð nálægt miðbænum. Fyrstu vikurnar fannst henni erfitt að kynnast fólki, en eftir að hún byrjaði í gönguhópi á laugardögum eignaðist hún marga vini. Núna segist hún ekki vilja flytja aftur suður.",
+      "question": "Af hverju flutti Elín til Akureyrar?",
+      "options": [
+        "Hún fékk miklu betri laun þar.",
+        "Hana langaði til að prófa eitthvað nýtt.",
+        "Öll fjölskyldan hennar býr á Akureyri.",
+        "Hún fann enga vinnu í Reykjavík."
+      ]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 1 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B1",
+    "skill": "READING",
+    "taskType": "TRUE_FALSE",
+    "difficulty": "FOUNDATION",
+    "title": "Opnunartími sundlaugarinnar",
+    "prompt": "Read the notice about the swimming pool and decide whether the statement is true or false.",
+    "payload": {
+      "passage": "Sundlaugin í hverfinu er opin alla virka daga frá klukkan sex á morgnana til tíu á kvöldin. Um helgar opnar hún klukkan átta og lokar klukkan sex síðdegis. Á rauðum dögum er laugin lokuð.",
+      "question": "Sundlaugin opnar klukkan sex á laugardögum.",
+      "options": ["Rétt", "Rangt"]
+    },
+    "answer": { "type": "TRUE_FALSE", "correctIndex": 1 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B1",
+    "skill": "READING",
+    "taskType": "CLOZE",
+    "difficulty": "CORE",
+    "title": "Sumrin hjá ömmu",
+    "prompt": "Choose the correct word form for each gap in the text about summer visits.",
+    "payload": {
+      "passage": "Þegar ég var yngri {{1}} ég oft í sveit til ömmu minnar á sumrin. Núna {{2}} ég helst að heimsækja hana um jólin því ég hef svo mikið að gera á sumrin.",
+      "gaps": [
+        { "id": 1, "options": ["fer", "fór", "farið", "færi"] },
+        { "id": 2, "options": ["reyni", "reyna", "reynt", "reyndi"] }
+      ]
+    },
+    "answer": {
+      "type": "CLOZE",
+      "correct": [
+        { "id": 1, "index": 1 },
+        { "id": 2, "index": 0 }
+      ]
+    },
+    "maxPoints": 2
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B1",
+    "skill": "READING",
+    "taskType": "ORDERING",
+    "difficulty": "CORE",
+    "title": "Dagurinn hennar Önnu",
+    "prompt": "Put the sentences in the correct time order so the story makes sense.",
+    "payload": {
+      "instructions": "Raðaðu setningunum í rétta tímaröð þannig að sagan verði rökrétt.",
+      "items": [
+        "Anna vaknaði klukkan sjö og fékk sér morgunmat.",
+        "Eftir vinnu fór hún út í búð og keypti í matinn.",
+        "Hún hjólaði í vinnuna og byrjaði að vinna klukkan níu.",
+        "Um kvöldið eldaði hún kvöldmat og slakaði á heima."
+      ]
+    },
+    "answer": { "type": "ORDERING", "order": [0, 2, 1, 3] },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B1",
+    "skill": "READING",
+    "taskType": "MATCHING",
+    "difficulty": "STRETCH",
+    "title": "Helgaráætlanir vinanna",
+    "prompt": "Read what three friends plan to do this weekend and match each person to their plan.",
+    "payload": {
+      "passage": "Þrír vinir ræða helgina. Jón ætlar að fara í fjallgöngu ef veðrið verður gott. Sara ætlar að vera heima og klára bókina sem hún byrjaði á í síðustu viku. Kári ætlar að keyra austur og heimsækja foreldra sína úti á landi.",
+      "instructions": "Tengdu hvern vin við það sem hann ætlar að gera um helgina.",
+      "left": ["Jón", "Sara", "Kári"],
+      "right": [
+        "Lesa bók heima.",
+        "Ganga á fjall.",
+        "Fara í sund með börnunum.",
+        "Heimsækja fjölskylduna úti á landi."
+      ]
+    },
+    "answer": {
+      "type": "MATCHING",
+      "pairs": [[0, 1], [1, 0], [2, 3]]
+    },
+    "maxPoints": 3
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B1",
+    "skill": "LISTENING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "CORE",
+    "title": "Skilaboð frá tannlækni",
+    "prompt": "Listen to the voicemail from the dental clinic and answer the question about the appointment.",
+    "payload": {
+      "transcript": "Góðan daginn. Þetta eru skilaboð frá tannlæknastofunni. Við viljum minna þig á að þú átt tíma hjá okkur á fimmtudaginn klukkan hálf þrjú. Ef þú kemst ekki, vinsamlegast hringdu í okkur fyrir miðvikudag svo við getum boðið öðrum tímann. Takk fyrir og hafðu það gott.",
+      "question": "Hvenær á viðkomandi bókaðan tíma?",
+      "options": [
+        "Á miðvikudaginn klukkan þrjú.",
+        "Á fimmtudaginn klukkan hálf þrjú.",
+        "Á fimmtudaginn klukkan hálf fjögur.",
+        "Á miðvikudaginn klukkan hálf þrjú."
+      ]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 1 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B1",
+    "skill": "LISTENING",
+    "taskType": "TRUE_FALSE",
+    "difficulty": "CORE",
+    "title": "Veðurspá morgundagsins",
+    "prompt": "Listen to the weather forecast and decide whether the statement is true or false.",
+    "payload": {
+      "transcript": "Á morgun verður skýjað um allt land. Í fyrramálið gæti rignt á Suðurlandi en það léttir til síðdegis. Hiti verður á milli fimm og átta stig. Á Norðurlandi verður þurrt en frekar kalt.",
+      "question": "Samkvæmt spánni verður sól allan daginn á Suðurlandi.",
+      "options": ["Rétt", "Rangt"]
+    },
+    "answer": { "type": "TRUE_FALSE", "correctIndex": 1 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B1",
+    "skill": "LISTENING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "STRETCH",
+    "title": "Tilkynning um tafir",
+    "prompt": "Listen to the announcement about a delayed bus and choose what passengers in a hurry should do.",
+    "payload": {
+      "transcript": "Ágætu farþegar. Vegna bilunar mun leið fimm til flugvallarins tefjast um það bil tuttugu mínútur. Þeim sem eru að flýta sér er bent á að taka leið fimmtíu og fimm sem fer frá stæði númer þrjú eftir fimm mínútur. Við biðjumst velvirðingar á töfinni.",
+      "question": "Hvað ættu þeir sem eru að flýta sér að gera?",
+      "options": [
+        "Bíða í tuttugu mínútur eftir leið fimm.",
+        "Taka leið fimmtíu og fimm frá stæði númer þrjú.",
+        "Hringja á leigubíl til flugvallarins.",
+        "Fara heim og koma aftur seinna."
+      ]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 1 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B1",
+    "skill": "LISTENING",
+    "taskType": "MATCHING",
+    "difficulty": "CORE",
+    "title": "Störf fjölskyldunnar",
+    "prompt": "Listen to the person describe their family and match each family member to their job.",
+    "payload": {
+      "transcript": "Ég ætla að segja ykkur frá fjölskyldunni minni. Pabbi minn er kokkur og vinnur á veitingastað í miðbænum. Mamma er hjúkrunarfræðingur og vinnur á spítalanum. Systir mín, hún Freyja, er nýbyrjuð sem kennari í grunnskóla.",
+      "instructions": "Tengdu hvern fjölskyldumeðlim við starfið hans.",
+      "left": ["Pabbi", "Mamma", "Freyja"],
+      "right": ["Kennari", "Kokkur", "Hjúkrunarfræðingur", "Lögreglumaður"]
+    },
+    "answer": {
+      "type": "MATCHING",
+      "pairs": [[0, 1], [1, 2], [2, 0]]
+    },
+    "maxPoints": 3
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B1",
+    "skill": "LISTENING",
+    "taskType": "TRUE_FALSE",
+    "difficulty": "FOUNDATION",
+    "title": "Símaskilaboð frá Gunnari",
+    "prompt": "Listen to the short phone message and decide whether the statement is true or false.",
+    "payload": {
+      "transcript": "Hæ, þetta er Gunnar. Ég ætlaði bara að láta þig vita að ég verð aðeins seinn í kvöldmatinn, kannski korter yfir sjö í staðinn fyrir sjö. Sjáumst þá, bless!",
+      "question": "Gunnar kemur fyrr en klukkan sjö.",
+      "options": ["Rétt", "Rangt"]
+    },
+    "answer": { "type": "TRUE_FALSE", "correctIndex": 1 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B1",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "CORE",
+    "title": "Ferðalag sem ég fór í",
+    "prompt": "Write a short text describing a trip or holiday you took. Say where you went, who you were with, and what you enjoyed most.",
+    "payload": {
+      "stimulus": "Skrifaðu stuttan texta um ferðalag sem þú hefur farið í. Segðu hvert þú fórst, með hverjum, hvað þú gerðir og hvað þér fannst skemmtilegast.",
+      "criteria": [
+        "Says where and roughly when the trip took place",
+        "Describes at least two activities using past-tense verbs",
+        "Explains what they enjoyed most and gives a reason or opinion",
+        "Links ideas with connectors such as og, en, því or svo"
+      ],
+      "charBand": { "min": 80, "max": 180 }
+    },
+    "answer": null,
+    "maxPoints": 0
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B1",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "STRETCH",
+    "title": "Tölvupóstur um námskeiðið",
+    "prompt": "Write an email to a course organiser giving your opinion about the course and suggesting one improvement.",
+    "payload": {
+      "stimulus": "Þú hefur sótt íslenskunámskeið í nokkrar vikur. Skrifaðu tölvupóst til skipuleggjanda námskeiðsins. Segðu hvað þér finnst gott við námskeiðið og komdu með eina tillögu um hvað mætti bæta.",
+      "criteria": [
+        "Uses an appropriate formal greeting and closing",
+        "Gives a clear opinion supported by at least one reason",
+        "Makes one concrete suggestion for improvement",
+        "Keeps a polite tone and organises ideas into short paragraphs"
+      ],
+      "charBand": { "min": 80, "max": 180 }
+    },
+    "answer": null,
+    "maxPoints": 0
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B1",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "CORE",
+    "title": "Áætlanir fyrir næsta sumar",
+    "prompt": "Write a short text about your plans for next summer. Say what you hope to do, with whom, and why.",
+    "payload": {
+      "stimulus": "Skrifaðu stuttan texta um það sem þú ætlar að gera næsta sumar. Segðu hvað þig langar að gera, með hverjum og af hverju.",
+      "criteria": [
+        "Describes at least two plans using future expressions such as ætla að or langar að",
+        "Explains the reason behind at least one plan",
+        "Uses time expressions to organise the text",
+        "Writes in connected sentences rather than a list"
+      ],
+      "charBand": { "min": 80, "max": 180 }
+    },
+    "answer": null,
+    "maxPoints": 0
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B1",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "CORE",
+    "title": "Eftirminnilegur dagur",
+    "prompt": "Describe a memorable day or event in your life. Explain what happened and why you remember it.",
+    "payload": {
+      "stimulus": "Segðu frá eftirminnilegum degi eða atburði í lífi þínu. Hvað gerðist? Hverjir voru með þér og hvar varstu? Af hverju manstu svona vel eftir þessum degi?",
+      "criteria": [
+        "Describes what happened using past-tense verbs",
+        "Says who was involved and where it took place",
+        "Explains why the day was memorable, giving feelings or reasons",
+        "Speaks in connected sentences with clear pronunciation"
+      ],
+      "minSeconds": 45
+    },
+    "answer": null,
+    "maxPoints": 0
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B1",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "STRETCH",
+    "title": "Borg eða sveit?",
+    "prompt": "Give your opinion: is it better to live in a city or in the countryside? Give reasons for your view.",
+    "payload": {
+      "stimulus": "Er betra að búa í borg eða úti á landi? Segðu álit þitt og rökstyddu það. Nefndu að minnsta kosti tvo kosti og einn galla.",
+      "criteria": [
+        "States a clear preference between city and countryside",
+        "Gives at least two reasons supporting the view",
+        "Mentions at least one disadvantage of the other option",
+        "Uses connectors to compare and contrast, such as hins vegar, á meðan or því"
+      ],
+      "minSeconds": 60
+    },
+    "answer": null,
+    "maxPoints": 0
+  }
+]
