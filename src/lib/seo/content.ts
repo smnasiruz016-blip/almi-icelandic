@@ -63,15 +63,20 @@ const CTA_LINE =
   "Reading and Listening practice is free; AI feedback on Writing and Speaking and the full timed mock unlock with a 7-day free trial ($12/month after, cancel anytime).";
 
 function levelForSubject(subjectSlug: string): ExamMeta {
-  // Icelandic-taught higher education sits around the University of Iceland
-  // entrance level (B2); broader study/daily life is well served by B1.
-  return SUBJECT_META[subjectSlug]?.regulated ? UNI_ENTRANCE : CEFR_B1;
+  // The CEFR ladder is the honest, general practice target for Icelandic-taught
+  // study — around B2 for demanding/regulated fields, B1 otherwise. We deliberately
+  // point study pages at the CEFR level, NOT the University entrance exam, because
+  // the University sets its own exact required level (see the entrance-exam page).
+  return SUBJECT_META[subjectSlug]?.regulated ? CEFR_B2 : CEFR_B1;
 }
 
 // Display label for an exam. Append the CEFR only when the name doesn't already
 // carry the level (e.g. "Icelandic A1" already ends in its level), to avoid
-// "Icelandic A1 (A1)".
+// "Icelandic A1 (A1)". The University of Iceland entrance exam never carries a
+// hard CEFR label — its required level is set by the University, so we don't
+// assert a fixed "(B2)".
 function examLabel(e: ExamMeta): string {
+  if (e.track === "UNIVERSITY") return e.name;
   return e.name.includes(e.cefr) ? e.name : `${e.name} (${e.cefr})`;
 }
 
@@ -222,6 +227,17 @@ export function buildLevelPage(exam: ExamMeta): SeoPage {
   const cefrLine = ` It sits on the general CEFR ladder and assesses Reading (Lestur), Listening (Hlustun), Writing (Ritun) and Speaking (Tal).`;
   const trackLine = isCitizenship ? citizenshipLine : isUniversity ? universityLine : cefrLine;
 
+  // The University of Iceland sets its own required level, so we never assert a
+  // fixed CEFR for the entrance exam — we frame it as advanced proficiency and
+  // point people to confirm with the University.
+  const levelSentence = isUniversity
+    ? `${exam.name} tests advanced Icelandic proficiency.`
+    : `${exam.name} sits at CEFR ${exam.cefr}.`;
+  const levelQ = isUniversity ? `What level is the ${exam.name}?` : `What level is ${exam.name}?`;
+  const levelA = isUniversity
+    ? `It tests advanced Icelandic proficiency — the University of Iceland sets the exact required level, so confirm it with them directly.`
+    : `${exam.name} maps to CEFR ${exam.cefr}.`;
+
   return {
     h1: isCitizenship
       ? `${exam.name} (${exam.cefr}) — the Icelandic citizenship language test`
@@ -233,7 +249,7 @@ export function buildLevelPage(exam: ExamMeta): SeoPage {
     metaDescription: `${examLabel(exam)}: what it tests, how it's structured, and honest readiness practice. ${isCitizenship ? "The language requirement for citizenship — confirm current residency rules with Útlendingastofnun." : "Practice estimate, not an official result."}`,
     canonicalPath: path,
     intro: [
-      `${exam.name} sits at CEFR ${exam.cefr}.${trackLine} It assesses Reading, Listening, Writing and Speaking; a strong result means being ready across all four.`,
+      `${levelSentence}${trackLine} It assesses Reading, Listening, Writing and Speaking; a strong result means being ready across all four.`,
     ],
     sections: [
       isCitizenship
@@ -252,7 +268,7 @@ export function buildLevelPage(exam: ExamMeta): SeoPage {
       },
     ],
     faq: [
-      { q: `What level is ${exam.name}?`, a: `${exam.name} maps to CEFR ${exam.cefr}.` },
+      { q: levelQ, a: levelA },
       isCitizenship
         ? { q: `Is Ríkisborgarapróf what I need for Icelandic citizenship?`, a: `Passing Ríkisborgarapróf (A2) is the language requirement for naturalisation. There are also residency and other conditions, and rules change — confirm the current requirement with Útlendingastofnun (the Directorate of Immigration). We help you prepare fairly, never to shortcut the process.` }
         : { q: `Is my AlmiIcelandic result official?`, a: `No — it's an honest practice estimate to guide your prep. Only the official assessment issues a real result.` },
@@ -265,7 +281,7 @@ export function buildLevelPage(exam: ExamMeta): SeoPage {
       { name: examLabel(exam), path: path },
     ],
     jsonLd: faqJsonLd(
-      [{ q: `What level is ${exam.name}?`, a: `${exam.name} maps to CEFR ${exam.cefr}.` }],
+      [{ q: levelQ, a: levelA }],
       `${SITE}${path}`,
       `${examLabel(exam)} — Icelandic exam`,
     ),

@@ -58,7 +58,7 @@ export const CITIZENSHIP_EXAMS: ExamMeta[] = [
 export const UNIVERSITY_EXAMS: ExamMeta[] = [
   {
     exam: "HI_ENTRANCE", track: "UNIVERSITY", slug: "university-entrance", name: "University of Iceland entrance exam", cefr: "B2",
-    blurb: "Icelandic proficiency for admission to Icelandic-taught programmes at the University of Iceland.",
+    blurb: "Advanced Icelandic proficiency for admission to Icelandic-taught programmes — the University of Iceland sets the exact required level.",
     skills: ["READING", "LISTENING", "WRITING", "SPEAKING"], mockMinutes: 150,
   },
 ];

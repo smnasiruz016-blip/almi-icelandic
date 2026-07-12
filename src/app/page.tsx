@@ -11,7 +11,7 @@ export const metadata: Metadata = {
     absolute: "AlmiIcelandic | Practise Icelandic Exams with Honest Readiness",
   },
   description:
-    "Stop guessing your Icelandic level. Practise Ríkisborgarapróf (the A2 citizenship test), the University of Iceland entrance exam, and CEFR levels A1–C1 with honest AI readiness bands. Original material, never copied.",
+    "Stop guessing your Icelandic level for citizenship or university. Practise the real Ríkisborgarapróf (A2) and University of Iceland entrance formats with honest AI readiness bands.",
   openGraph: {
     title: "AlmiIcelandic — honest Icelandic exam practice",
     description:
@@ -243,11 +243,11 @@ export default function Home() {
               <h3 className="mt-2 text-xl font-semibold text-almi-ink">Entrance exam</h3>
               <ul className="mt-4 space-y-2 text-sm text-almi-text">
                 <li className="flex flex-wrap items-center gap-2">
-                  <span className="inline-flex h-6 min-w-[2.5rem] items-center justify-center rounded-md bg-almi-bg-peach px-1.5 text-xs font-bold text-almi-ink">{UNI.cefr}</span>
+                  <span className="inline-flex h-6 items-center justify-center rounded-md bg-almi-bg-peach px-2 text-xs font-bold text-almi-ink">Advanced</span>
                   <span className="font-semibold text-almi-ink">Háskóli Íslands</span>
                 </li>
                 <li className="text-almi-text-muted">{UNI.blurb}</li>
-                <li className="text-almi-text-muted">For admission to Icelandic-taught programmes.</li>
+                <li className="text-almi-text-muted">For admission to Icelandic-taught programmes — confirm the exact required level with the University of Iceland.</li>
               </ul>
             </div>
 
@@ -301,7 +301,7 @@ export default function Home() {
             ))}
           </ul>
           <p className="mx-auto mt-6 max-w-xl text-sm text-almi-text-muted">
-            25% of AlmiIcelandic proceeds fund the Shamool Foundation's social mission.
+            25% of AlmiIcelandic proceeds fund the Shamool Foundation&apos;s social mission — free primary-school education and daily hot meals for underprivileged children in Lahore, Pakistan.
           </p>
           <div className="mt-8">
             <Link href="/signup" className="inline-flex min-h-[48px] items-center justify-center rounded-full bg-almi-coral px-7 py-3 text-base font-semibold text-almi-ink hover:bg-almi-coral-deep">
