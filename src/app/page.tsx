@@ -8,10 +8,10 @@ export const revalidate = 3600;
 
 export const metadata: Metadata = {
   title: {
-    absolute: "AlmiIcelandic | Practise Icelandic Exams with Honest Readiness",
+    absolute: "Icelandic Citizenship Test & CEFR Practice | AlmiIcelandic",
   },
   description:
-    "Stop guessing your Icelandic level for citizenship or university. Practise the real Ríkisborgarapróf (A2) and University of Iceland entrance formats with honest AI readiness bands.",
+    "Practise the real Ríkisborgarapróf (A2) citizenship exam and University of Iceland entrance formats — honest AI readiness bands, never a fake score.",
   openGraph: {
     title: "AlmiIcelandic — honest Icelandic exam practice",
     description:
