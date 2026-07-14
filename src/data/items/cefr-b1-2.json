@@ -1,0 +1,724 @@
+[
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B1",
+    "skill": "READING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "CORE",
+    "title": "New job",
+    "prompt": "Read the passage and choose the correct answer.",
+    "payload": {
+      "passage": "Anna byrjaði í nýrri vinnu í síðustu viku. Hún vinnur á kaffihúsi í miðbænum og finnst starfið skemmtilegt. Samstarfsfólkið er vingjarnlegt og hjálpar henni að læra allt sem hún þarf. Á morgnana hittir hún marga fasta viðskiptavini sem koma alltaf á sama tíma.",
+      "question": "Hvar vinnur Anna?",
+      "options": ["Á bókasafni", "Á kaffihúsi", "Í skóla", "Á spítala"]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 1 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B1",
+    "skill": "READING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "CORE",
+    "title": "Weekend plans",
+    "prompt": "Read the passage and choose the correct answer.",
+    "payload": {
+      "passage": "Um helgina ætla Jón og fjölskylda hans að keyra norður í land. Þau ætla að heimsækja ömmu Jóns sem býr á litlum bæ nálægt Akureyri. Veðurspáin er góð og þau hlakka til að ganga í fjöllunum. Jón hefur ekki séð ömmu sína í marga mánuði.",
+      "question": "Hvers vegna eru þau spennt fyrir helginni?",
+      "options": ["Veðrið verður slæmt", "Þau ætla að ganga í fjöllunum", "Þau ætla að vinna", "Amma kemur til þeirra"]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 1 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B1",
+    "skill": "READING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "CORE",
+    "title": "Language course",
+    "prompt": "Read the passage and choose the correct answer.",
+    "payload": {
+      "passage": "Marek flutti til Íslands fyrir tveimur árum og talar núna ágæta íslensku. Í fyrstu var erfitt að skilja fólk því allir töluðu svo hratt. Hann skráði sig á kvöldnámskeið og æfði sig á hverjum degi. Núna getur hann talað við nágranna sína án vandræða.",
+      "question": "Hvað hjálpaði Marek að læra íslensku?",
+      "options": ["Hann horfði á sjónvarp", "Hann fór á námskeið og æfði sig daglega", "Hann las bara bækur", "Hann talaði ensku"]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 1 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B1",
+    "skill": "READING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "CORE",
+    "title": "Recycling",
+    "prompt": "Read the passage and choose the correct answer.",
+    "payload": {
+      "passage": "Í mörgum bæjum á Íslandi flokkar fólk sorpið sitt. Plast, pappír og matarleifar fara í mismunandi tunnur. Sveitarfélagið sækir tunnurnar á tveggja vikna fresti. Með því að flokka hjálpar fólk umhverfinu og minnkar magn af rusli sem fer í urðun.",
+      "question": "Hversu oft er sorpið sótt?",
+      "options": ["Á hverjum degi", "Einu sinni í viku", "Á tveggja vikna fresti", "Einu sinni í mánuði"]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 2 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B1",
+    "skill": "READING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "CORE",
+    "title": "Doctor visit",
+    "prompt": "Read the passage and choose the correct answer.",
+    "payload": {
+      "passage": "Sara vaknaði með höfuðverk og hita á mánudagsmorgni. Hún hringdi á heilsugæsluna og fékk tíma hjá lækni seinna um daginn. Læknirinn sagði að hún væri með flensu og þyrfti að hvíla sig heima í nokkra daga. Sara keypti verkjalyf í apótekinu á leiðinni heim.",
+      "question": "Hvað ráðlagði læknirinn Söru að gera?",
+      "options": ["Fara aftur í vinnu strax", "Hvíla sig heima í nokkra daga", "Fara í ræktina", "Ferðast til útlanda"]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 1 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B1",
+    "skill": "READING",
+    "taskType": "TRUE_FALSE",
+    "difficulty": "CORE",
+    "title": "Moving apartment",
+    "prompt": "Decide whether the statement is true (Rétt) or false (Rangt).",
+    "payload": {
+      "passage": "Kristín og Davíð fluttu í nýja íbúð í Reykjavík í fyrra mánuði. Íbúðin er stærri en sú gamla og hefur svalir með útsýni yfir sjóinn. Þau eru mjög ánægð með nýja hverfið því það er stutt í búð og strætó. Eina vandamálið er að leigan er hærri en áður.",
+      "question": "Nýja íbúðin er minni en sú gamla."
+    },
+    "answer": { "type": "TRUE_FALSE", "correctIndex": 1 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B1",
+    "skill": "READING",
+    "taskType": "TRUE_FALSE",
+    "difficulty": "CORE",
+    "title": "Football team",
+    "prompt": "Decide whether the statement is true (Rétt) or false (Rangt).",
+    "payload": {
+      "passage": "Ólafur hefur spilað fótbolta með sama liði í tíu ár. Hann æfir þrisvar í viku og spilar leiki um helgar. Í síðasta mánuði meiddist hann á hné og gat ekki spilað í nokkrar vikur. Núna er hann búinn að jafna sig og er byrjaður að æfa aftur.",
+      "question": "Ólafur er byrjaður að æfa fótbolta aftur."
+    },
+    "answer": { "type": "TRUE_FALSE", "correctIndex": 0 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B1",
+    "skill": "READING",
+    "taskType": "MATCHING",
+    "difficulty": "CORE",
+    "title": "People and hobbies",
+    "prompt": "Match each person to the correct activity.",
+    "payload": {
+      "passage": "Þrír vinir eiga ólík áhugamál. Elín málar myndir á hverju kvöldi eftir vinnu. Bróðir hennar, Gunnar, syndir í sundlauginni á morgnana áður en hann fer í skólann. Vinkona þeirra, Hrund, spilar á gítar í hljómsveit um helgar.",
+      "instructions": "Tengdu hvern einstakling við rétt áhugamál.",
+      "left": ["Elín", "Gunnar", "Hrund"],
+      "right": ["Spilar á gítar", "Málar myndir", "Syndir í sundlauginni"]
+    },
+    "answer": { "type": "MATCHING", "pairs": [[0, 1], [1, 2], [2, 0]] },
+    "maxPoints": 3
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B1",
+    "skill": "READING",
+    "taskType": "MATCHING",
+    "difficulty": "CORE",
+    "title": "Shops and errands",
+    "prompt": "Match each errand to the correct place.",
+    "payload": {
+      "passage": "Á laugardaginn þarf Tómas að klára nokkur verkefni í bænum. Hann ætlar að kaupa brauð og mjólk, sækja lyf handa móður sinni og senda pakka til vinar í útlöndum. Að lokum langar hann að fá sér kaffi og lesa blaðið.",
+      "instructions": "Tengdu hvert verkefni við réttan stað.",
+      "left": ["Kaupa brauð og mjólk", "Sækja lyf", "Senda pakka"],
+      "right": ["Apótek", "Pósthús", "Matvöruverslun"]
+    },
+    "answer": { "type": "MATCHING", "pairs": [[0, 2], [1, 0], [2, 1]] },
+    "maxPoints": 3
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B1",
+    "skill": "READING",
+    "taskType": "CLOZE",
+    "difficulty": "CORE",
+    "title": "Summer trip",
+    "prompt": "Choose the correct word for each gap.",
+    "payload": {
+      "passage": "Í sumar ætlum við að {{1}} til Vestfjarða í viku. Við höfum aldrei komið þangað áður og hlökkum mikið {{2}}. Vonandi verður veðrið gott svo við getum gengið og skoðað náttúruna.",
+      "gaps": [
+        { "id": 1, "options": ["ferðast", "borða", "sofa"] },
+        { "id": 2, "options": ["til", "frá", "með"] }
+      ]
+    },
+    "answer": { "type": "CLOZE", "correct": [{ "id": 1, "index": 0 }, { "id": 2, "index": 0 }] },
+    "maxPoints": 2
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B1",
+    "skill": "LISTENING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "CORE",
+    "title": "Bus announcement",
+    "prompt": "Read the transcript and choose the correct answer.",
+    "payload": {
+      "transcript": "Góðan daginn og velkomin um borð. Þessi strætó fer til Hafnarfjarðar og stoppar við öll skýli á leiðinni. Vinsamlegast athugið að næsta stopp er við Kringluna. Munið að ýta á takkann ef þið viljið fara út.",
+      "question": "Hvert fer strætóinn?",
+      "options": ["Til Akureyrar", "Til Hafnarfjarðar", "Til Keflavíkur", "Til Selfoss"]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 1 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B1",
+    "skill": "LISTENING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "CORE",
+    "title": "Restaurant order",
+    "prompt": "Read the transcript and choose the correct answer.",
+    "payload": {
+      "transcript": "Góðan daginn, get ég fengið að panta? Ég ætla að fá fiskrétt dagsins og salat með. Svo langar mig í vatnsglas, takk. Nei, ég ætla ekki að fá eftirrétt í dag, ég er ekki mjög svöng.",
+      "question": "Hvað ætlar konan að drekka?",
+      "options": ["Kaffi", "Vatn", "Gos", "Bjór"]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 1 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B1",
+    "skill": "LISTENING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "CORE",
+    "title": "Weather forecast",
+    "prompt": "Read the transcript and choose the correct answer.",
+    "payload": {
+      "transcript": "Og hér er veðrið fyrir morgundaginn. Á höfuðborgarsvæðinu verður skýjað með rigningu síðdegis og hiti í kringum átta stig. Vindur verður hægur af suðri. Á Norðurlandi verður hins vegar bjart og þurrt allan daginn.",
+      "question": "Hvernig verður veðrið á Norðurlandi á morgun?",
+      "options": ["Rigning allan daginn", "Bjart og þurrt", "Snjókoma", "Mikill vindur"]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 1 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B1",
+    "skill": "LISTENING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "CORE",
+    "title": "Phone message",
+    "prompt": "Read the transcript and choose the correct answer.",
+    "payload": {
+      "transcript": "Hæ, þetta er Björk. Ég ætlaði bara að láta þig vita að fundinum á morgun hefur verið frestað. Hann verður núna á fimmtudaginn klukkan tvö í staðinn fyrir þriðjudaginn. Hringdu í mig ef þetta hentar þér ekki.",
+      "question": "Hvenær verður fundurinn núna?",
+      "options": ["Á þriðjudaginn klukkan tvö", "Á fimmtudaginn klukkan tvö", "Á morgun klukkan tvö", "Á föstudaginn"]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 1 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B1",
+    "skill": "LISTENING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "CORE",
+    "title": "At the pharmacy",
+    "prompt": "Read the transcript and choose the correct answer.",
+    "payload": {
+      "transcript": "Já, þú getur tekið þessar töflur tvisvar á dag, eina á morgnana og eina á kvöldin. Best er að taka þær með mat. Ef þér líður ekki betur eftir þrjá daga skaltu hafa samband við lækninn þinn aftur.",
+      "question": "Hvenær á að taka töflurnar?",
+      "options": ["Þrisvar á dag", "Einu sinni á dag", "Tvisvar á dag með mat", "Aðeins á kvöldin"]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 2 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B1",
+    "skill": "LISTENING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "CORE",
+    "title": "Job interview",
+    "prompt": "Read the transcript and choose the correct answer.",
+    "payload": {
+      "transcript": "Takk fyrir að koma í viðtalið. Starfið felst í því að vinna á lager og aðstoða viðskiptavini. Vinnutíminn er frá níu til fimm, mánudaga til föstudaga. Við myndum vilja að þú byrjaðir eftir tvær vikur ef þér líst vel á.",
+      "question": "Hvenær er vinnutíminn?",
+      "options": ["Um helgar", "Frá níu til fimm virka daga", "Á kvöldin", "Aðeins á mánudögum"]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 1 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B1",
+    "skill": "LISTENING",
+    "taskType": "TRUE_FALSE",
+    "difficulty": "CORE",
+    "title": "Swimming pool hours",
+    "prompt": "Decide whether the statement is true (Rétt) or false (Rangt).",
+    "payload": {
+      "transcript": "Athugið að sundlaugin opnar klukkan sex á morgnana á virkum dögum og lokar klukkan tíu á kvöldin. Um helgar er opið frá átta til átta. Á rauðum dögum getur opnunartími verið breyttur, svo vinsamlegast athugið heimasíðuna.",
+      "question": "Sundlaugin opnar klukkan sex á morgnana á virkum dögum."
+    },
+    "answer": { "type": "TRUE_FALSE", "correctIndex": 0 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B1",
+    "skill": "LISTENING",
+    "taskType": "TRUE_FALSE",
+    "difficulty": "CORE",
+    "title": "Lost item",
+    "prompt": "Decide whether the statement is true (Rétt) or false (Rangt).",
+    "payload": {
+      "transcript": "Halló, ég held að ég hafi gleymt regnhlífinni minni í búðinni í gær. Hún er svört með rauðu handfangi. Ég var þarna um fjögurleytið síðdegis. Gætuð þið athugað hvort einhver hafi skilað henni inn?",
+      "question": "Maðurinn týndi svörtum hatti."
+    },
+    "answer": { "type": "TRUE_FALSE", "correctIndex": 1 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B1",
+    "skill": "LISTENING",
+    "taskType": "MATCHING",
+    "difficulty": "CORE",
+    "title": "Family weekend",
+    "prompt": "Match each family member to what they will do.",
+    "payload": {
+      "transcript": "Um helgina höfum við öll eitthvað fyrir stafni. Pabbi ætlar að mála eldhúsið sem hefur beðið lengi. Mamma ætlar að hitta vinkonur sínar í kaffi. Litli bróðir minn ætlar á fótboltaæfingu og ég ætla að læra fyrir prófið mitt.",
+      "instructions": "Tengdu hvern fjölskyldumeðlim við það sem hann ætlar að gera.",
+      "left": ["Pabbi", "Mamma", "Litli bróðir"],
+      "right": ["Hittir vinkonur", "Málar eldhúsið", "Fer á fótboltaæfingu"]
+    },
+    "answer": { "type": "MATCHING", "pairs": [[0, 1], [1, 0], [2, 2]] },
+    "maxPoints": 3
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B1",
+    "skill": "LISTENING",
+    "taskType": "MATCHING",
+    "difficulty": "CORE",
+    "title": "Daily schedule",
+    "prompt": "Match each time to the correct activity.",
+    "payload": {
+      "transcript": "Dagurinn minn er nokkuð fastur. Klukkan sjö vakna ég og fæ mér morgunmat. Klukkan níu byrja ég að vinna á skrifstofunni. Í hádeginu, klukkan tólf, borða ég með samstarfsfólki og eftir vinnu, um sex, fer ég í ræktina.",
+      "instructions": "Tengdu hvern tíma við réttan atburð.",
+      "left": ["Klukkan sjö", "Klukkan tólf", "Klukkan sex"],
+      "right": ["Fer í ræktina", "Vaknar og borðar morgunmat", "Borðar hádegismat"]
+    },
+    "answer": { "type": "MATCHING", "pairs": [[0, 1], [1, 2], [2, 0]] },
+    "maxPoints": 3
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B1",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "CORE",
+    "title": "Email to a friend",
+    "prompt": "Write a short informal email in Icelandic.",
+    "payload": {
+      "stimulus": "Skrifaðu tölvupóst til vinar og segðu frá því sem þú gerðir um síðustu helgi. Nefndu að minnsta kosti tvennt sem þú gerðir.",
+      "criteria": ["Notar viðeigandi kveðju og kveðjuorð", "Segir frá að minnsta kosti tveimur atburðum í þátíð", "Textinn er skiljanlegur og samhangandi"],
+      "charBand": { "min": 80, "max": 180 }
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B1",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "CORE",
+    "title": "Sick note to work",
+    "prompt": "Write a short formal message in Icelandic.",
+    "payload": {
+      "stimulus": "Skrifaðu stuttan tölvupóst til yfirmanns þíns og láttu vita að þú sért veikur og komist ekki í vinnu í dag.",
+      "criteria": ["Notar kurteislegt og formlegt orðalag", "Útskýrir ástæðuna fyrir fjarveru", "Nefnir hvenær þú kemur aftur eða hafir samband"],
+      "charBand": { "min": 80, "max": 180 }
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B1",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "CORE",
+    "title": "Opinion on public transport",
+    "prompt": "Write a short opinion text in Icelandic.",
+    "payload": {
+      "stimulus": "Skrifaðu stutta skoðun um það hvort strætó sé góður kostur í daglegu lífi. Rökstyddu álit þitt.",
+      "criteria": ["Setur fram skýra skoðun", "Gefur að minnsta kosti eina ástæðu eða dæmi", "Notar tengiorð til að tengja hugmyndir"],
+      "charBand": { "min": 80, "max": 180 }
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B1",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "CORE",
+    "title": "Describe a trip",
+    "prompt": "Describe a past experience in Icelandic.",
+    "payload": {
+      "stimulus": "Segðu frá ferð sem þú fórst í. Hvert fórstu, með hverjum og hvað var eftirminnilegast?",
+      "criteria": ["Notar þátíð rétt", "Lýsir stað og fólki", "Segir frá tilfinningum eða áliti á ferðinni"],
+      "charBand": { "min": 80, "max": 180 }
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B1",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "CORE",
+    "title": "Complaint email",
+    "prompt": "Write a short complaint email in Icelandic.",
+    "payload": {
+      "stimulus": "Þú keyptir vöru sem virkar ekki. Skrifaðu tölvupóst til verslunarinnar og lýstu vandamálinu og hvað þú vilt að gert sé.",
+      "criteria": ["Lýsir vandamálinu skýrt", "Biður um lausn, til dæmis endurgreiðslu eða skipti", "Notar kurteislegt orðalag"],
+      "charBand": { "min": 80, "max": 180 }
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B1",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "CORE",
+    "title": "Invitation",
+    "prompt": "Write a short invitation in Icelandic.",
+    "payload": {
+      "stimulus": "Skrifaðu boð til vinar í afmælisveislu. Segðu hvenær, hvar og hvað verður gert.",
+      "criteria": ["Nefnir tíma og stað", "Segir hvað verður gert í veislunni", "Biður viðtakanda að svara"],
+      "charBand": { "min": 80, "max": 180 }
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B1",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "CORE",
+    "title": "My neighbourhood",
+    "prompt": "Describe your neighbourhood in Icelandic.",
+    "payload": {
+      "stimulus": "Lýstu hverfinu þar sem þú býrð. Hvað er þar að finna og hvað finnst þér um það?",
+      "criteria": ["Lýsir að minnsta kosti þremur hlutum í hverfinu", "Segir álit sitt á hverfinu", "Textinn er vel skipulagður"],
+      "charBand": { "min": 80, "max": 180 }
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B1",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "CORE",
+    "title": "Future plans",
+    "prompt": "Write about your future plans in Icelandic.",
+    "payload": {
+      "stimulus": "Skrifaðu um það sem þú ætlar að gera á næsta ári, til dæmis í vinnu, námi eða frítíma.",
+      "criteria": ["Notar framtíðarform, til dæmis ætla að", "Nefnir að minnsta kosti tvö áform", "Gefur ástæðu fyrir áformunum"],
+      "charBand": { "min": 80, "max": 180 }
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B1",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "CORE",
+    "title": "Recommend a restaurant",
+    "prompt": "Write a short recommendation in Icelandic.",
+    "payload": {
+      "stimulus": "Mæltu með veitingastað eða kaffihúsi við vin. Segðu hvers vegna þér líkar þar.",
+      "criteria": ["Nefnir staðinn og hvar hann er", "Gefur ástæður fyrir meðmælunum", "Notar lýsingarorð til að lýsa matnum eða staðnum"],
+      "charBand": { "min": 80, "max": 180 }
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B1",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "CORE",
+    "title": "Note to a neighbour",
+    "prompt": "Write a short note in Icelandic.",
+    "payload": {
+      "stimulus": "Skrifaðu miða til nágranna þíns og biddu hann að vökva blómin þín meðan þú ert í burtu.",
+      "criteria": ["Útskýrir beiðnina skýrt", "Segir hversu lengi þú verður í burtu", "Þakkar fyrir hjálpina"],
+      "charBand": { "min": 80, "max": 180 }
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B1",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "CORE",
+    "title": "A healthy lifestyle",
+    "prompt": "Write a short opinion text in Icelandic.",
+    "payload": {
+      "stimulus": "Skrifaðu um það hvað þú gerir til að halda heilsu og hvað þér finnst mikilvægt í heilbrigðum lífsstíl.",
+      "criteria": ["Nefnir venjur tengdar heilsu", "Gefur álit á því hvað skiptir máli", "Textinn er samhangandi"],
+      "charBand": { "min": 80, "max": 180 }
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B1",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "CORE",
+    "title": "Thank-you message",
+    "prompt": "Write a short thank-you message in Icelandic.",
+    "payload": {
+      "stimulus": "Vinur hjálpaði þér að flytja. Skrifaðu skilaboð og þakkaðu fyrir hjálpina og bjóddu einhverju á móti.",
+      "criteria": ["Þakkar fyrir hjálpina á einlægan hátt", "Nefnir hvað vinurinn gerði", "Býður einhverju á móti"],
+      "charBand": { "min": 80, "max": 180 }
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B1",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "CORE",
+    "title": "Describe your day",
+    "prompt": "Speak in Icelandic for at least one minute.",
+    "payload": {
+      "stimulus": "Lýstu venjulegum degi hjá þér, frá því þú vaknar þar til þú ferð að sofa.",
+      "criteria": ["Lýsir atburðum í réttri röð", "Notar tímaorð eins og fyrst, svo, síðan", "Talar skýrt og samfellt"],
+      "minSeconds": 60
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B1",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "CORE",
+    "title": "Talk about your job",
+    "prompt": "Speak in Icelandic for at least one minute.",
+    "payload": {
+      "stimulus": "Segðu frá vinnu þinni eða námi. Hvað gerir þú og hvað finnst þér um það?",
+      "criteria": ["Lýsir starfi eða námi", "Segir álit sitt með rökum", "Notar viðeigandi orðaforða"],
+      "minSeconds": 60
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B1",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "CORE",
+    "title": "A memorable trip",
+    "prompt": "Speak in Icelandic for at least one minute.",
+    "payload": {
+      "stimulus": "Segðu frá ferð sem þú fórst í og var eftirminnileg. Hvert fórstu og hvað gerðirðu?",
+      "criteria": ["Notar þátíð rétt", "Lýsir stað og upplifun", "Segir hvers vegna ferðin var eftirminnileg"],
+      "minSeconds": 60
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B1",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "CORE",
+    "title": "Your free time",
+    "prompt": "Speak in Icelandic for at least one minute.",
+    "payload": {
+      "stimulus": "Talaðu um hvað þú gerir í frítíma þínum og hvers vegna þér líkar það.",
+      "criteria": ["Nefnir að minnsta kosti tvö áhugamál", "Útskýrir hvers vegna honum líkar þau", "Talar samfellt"],
+      "minSeconds": 60
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B1",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "CORE",
+    "title": "Living in a city or countryside",
+    "prompt": "Give your opinion in Icelandic for at least one minute.",
+    "payload": {
+      "stimulus": "Finnst þér betra að búa í borg eða í sveit? Rökstyddu skoðun þína.",
+      "criteria": ["Setur fram skýra skoðun", "Gefur að minnsta kosti tvær ástæður", "Ber saman kosti og galla"],
+      "minSeconds": 60
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B1",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "CORE",
+    "title": "Plans for the weekend",
+    "prompt": "Speak in Icelandic for at least one minute.",
+    "payload": {
+      "stimulus": "Segðu frá því hvað þú ætlar að gera um næstu helgi.",
+      "criteria": ["Notar framtíðarform", "Nefnir að minnsta kosti tvö áform", "Talar skýrt og skiljanlega"],
+      "minSeconds": 60
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B1",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "CORE",
+    "title": "Describe a friend",
+    "prompt": "Speak in Icelandic for at least one minute.",
+    "payload": {
+      "stimulus": "Lýstu góðum vini eða fjölskyldumeðlim. Hvernig er hann og hvers vegna líkar þér við hann?",
+      "criteria": ["Notar lýsingarorð um persónuleika", "Gefur dæmi um samveru", "Talar samfellt"],
+      "minSeconds": 60
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B1",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "CORE",
+    "title": "Learning Icelandic",
+    "prompt": "Speak in Icelandic for at least one minute.",
+    "payload": {
+      "stimulus": "Segðu frá því hvers vegna þú lærir íslensku og hvað er auðvelt eða erfitt við það.",
+      "criteria": ["Útskýrir ástæður fyrir náminu", "Nefnir bæði auðvelda og erfiða hluti", "Notar viðeigandi orðaforða"],
+      "minSeconds": 60
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B1",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "CORE",
+    "title": "A typical meal",
+    "prompt": "Speak in Icelandic for at least one minute.",
+    "payload": {
+      "stimulus": "Lýstu máltíð sem þér þykir góð. Hvað er í henni og hvenær borðar þú hana?",
+      "criteria": ["Lýsir hráefnum og réttinum", "Segir hvenær og með hverjum hann er borðaður", "Talar skýrt"],
+      "minSeconds": 60
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B1",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "CORE",
+    "title": "Technology in daily life",
+    "prompt": "Give your opinion in Icelandic for at least one minute.",
+    "payload": {
+      "stimulus": "Hvernig notar þú síma eða tölvu í daglegu lífi? Finnst þér tæknin gagnleg?",
+      "criteria": ["Lýsir notkun tækninnar", "Setur fram skoðun með rökum", "Notar tengiorð"],
+      "minSeconds": 60
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B1",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "CORE",
+    "title": "Shopping habits",
+    "prompt": "Speak in Icelandic for at least one minute.",
+    "payload": {
+      "stimulus": "Segðu frá því hvernig þú verslar. Ferðu í búðir eða verslar á netinu og hvers vegna?",
+      "criteria": ["Lýsir verslunarvenjum", "Gefur ástæður fyrir vali sínu", "Talar samfellt og skýrt"],
+      "minSeconds": 60
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B1",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "CORE",
+    "title": "The weather and seasons",
+    "prompt": "Speak in Icelandic for at least one minute.",
+    "payload": {
+      "stimulus": "Talaðu um veðrið á Íslandi og hvaða árstíð þér líkar best.",
+      "criteria": ["Lýsir veðri á mismunandi árstíðum", "Segir hvaða árstíð honum líkar best og hvers vegna", "Notar veðurorðaforða"],
+      "minSeconds": 60
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B1",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "CORE",
+    "title": "Ask for directions",
+    "prompt": "Role-play in Icelandic for at least one minute.",
+    "payload": {
+      "stimulus": "Þú ert týndur í bænum. Spurðu vegfaranda hvernig þú kemst á sundlaugina og útskýrðu hvert þú ert að fara.",
+      "criteria": ["Spyr kurteislega um leiðina", "Notar áttar- og staðsetningarorð", "Bregst við svörum á eðlilegan hátt"],
+      "minSeconds": 60
+    },
+    "answer": null,
+    "maxPoints": 10
+  }
+]

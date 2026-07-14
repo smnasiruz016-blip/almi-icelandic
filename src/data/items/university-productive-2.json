@@ -1,0 +1,317 @@
+[
+  {
+    "track": "UNIVERSITY",
+    "exam": "HI_ENTRANCE",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "FOUNDATION",
+    "title": "Opinion on remote study",
+    "prompt": "Write an argumentative paragraph.",
+    "payload": {
+      "stimulus": "Fjarnám hefur aukist mikið á háskólastigi. Rökstyddu hvort þú telur fjarnám vera jafngóðan kost og staðnám og nefndu að minnsta kosti tvær ástæður fyrir afstöðu þinni.",
+      "criteria": [
+        "States a clear position",
+        "Supports it with at least two reasons",
+        "Uses connectors to structure the argument",
+        "Maintains an academic register"
+      ],
+      "charBand": { "min": 60, "max": 200 }
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "UNIVERSITY",
+    "exam": "HI_ENTRANCE",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "CORE",
+    "title": "Summarise a graph",
+    "prompt": "Describe the trend shown in a data description.",
+    "payload": {
+      "stimulus": "Á síðustu tuttugu árum hefur hlutfall íbúa Íslands sem lýkur háskólaprófi hækkað jafnt og þétt. Lýstu þessari þróun með eigin orðum og bentu á hugsanlegar afleiðingar hennar fyrir samfélagið.",
+      "criteria": [
+        "Describes the trend accurately",
+        "Uses vocabulary for change and comparison",
+        "Draws a reasoned inference",
+        "Organises ideas coherently"
+      ],
+      "charBand": { "min": 60, "max": 200 }
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "UNIVERSITY",
+    "exam": "HI_ENTRANCE",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "CORE",
+    "title": "Formal request to a department",
+    "prompt": "Write a formal email requesting an extension.",
+    "payload": {
+      "stimulus": "Þú þarft að biðja um frest á skilum verkefnis vegna óviðráðanlegra aðstæðna. Skrifaðu formlegan tölvupóst til kennarans þar sem þú útskýrir ástæðuna og leggur til nýjan skiladag.",
+      "criteria": [
+        "Uses formal opening and closing",
+        "Explains the reason clearly and briefly",
+        "Proposes a concrete new deadline",
+        "Tone stays respectful and precise"
+      ],
+      "charBand": { "min": 60, "max": 200 }
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "UNIVERSITY",
+    "exam": "HI_ENTRANCE",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "CORE",
+    "title": "Compare two sources",
+    "prompt": "Compare two viewpoints on a topic.",
+    "payload": {
+      "stimulus": "Tveir greinarhöfundar deila um hvort auka eigi vægi verklegs náms í framhaldsskólum. Berðu saman meginrök beggja og segðu hvor þér finnst sannfærandi og af hverju.",
+      "criteria": [
+        "Represents both viewpoints fairly",
+        "Highlights the key difference between them",
+        "Gives a justified evaluation",
+        "Uses comparative and contrastive language"
+      ],
+      "charBand": { "min": 60, "max": 200 }
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "UNIVERSITY",
+    "exam": "HI_ENTRANCE",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "STRETCH",
+    "title": "Problem and solution essay",
+    "prompt": "Write a short problem-solution paragraph.",
+    "payload": {
+      "stimulus": "Margir háskólanemar upplifa streitu á prófatímabilum. Greindu helstu orsakir þessarar streitu og leggðu til raunhæfar lausnir sem háskólinn og nemendur gætu beitt.",
+      "criteria": [
+        "Identifies plausible causes of the problem",
+        "Proposes realistic solutions",
+        "Links causes to solutions logically",
+        "Demonstrates control of abstract vocabulary"
+      ],
+      "charBand": { "min": 60, "max": 200 }
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "UNIVERSITY",
+    "exam": "HI_ENTRANCE",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "STRETCH",
+    "title": "Evaluate a claim",
+    "prompt": "Evaluate a debatable statement.",
+    "payload": {
+      "stimulus": "Sumir halda því fram að tæknin geri gagnrýna hugsun óþarfa því svör séu alltaf innan seilingar. Metið þessa fullyrðingu og rökstyðjið hvort þið eruð sammála eða ósammála.",
+      "criteria": [
+        "Interprets the claim accurately",
+        "Presents a nuanced evaluation",
+        "Supports reasoning with an example",
+        "Uses hedging and academic phrasing"
+      ],
+      "charBand": { "min": 60, "max": 200 }
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "UNIVERSITY",
+    "exam": "HI_ENTRANCE",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "STRETCH",
+    "title": "Reflect on a research topic",
+    "prompt": "Explain why a research topic matters.",
+    "payload": {
+      "stimulus": "Ímyndaðu þér að þú sækir um að taka þátt í rannsóknarverkefni. Útskýrðu hvaða viðfangsefni vekur mestan áhuga þinn, af hverju það skiptir máli og hvernig þú myndir nálgast það.",
+      "criteria": [
+        "Defines the topic clearly",
+        "Explains its relevance or significance",
+        "Outlines a possible approach",
+        "Writes with coherence and precision"
+      ],
+      "charBand": { "min": 60, "max": 200 }
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "UNIVERSITY",
+    "exam": "HI_ENTRANCE",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "FOUNDATION",
+    "title": "Explain your field of interest",
+    "prompt": "Present the subject you want to study.",
+    "payload": {
+      "stimulus": "Segðu frá námsgreininni sem þú vilt leggja stund á í háskóla. Hvað dregur þig að henni og hvernig tengist hún framtíðaráformum þínum?",
+      "criteria": [
+        "Names the field and motivation",
+        "Connects it to future goals",
+        "Speaks in organised, extended turns",
+        "Uses subject-related vocabulary"
+      ],
+      "minSeconds": 60
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "UNIVERSITY",
+    "exam": "HI_ENTRANCE",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "CORE",
+    "title": "Argue a position",
+    "prompt": "Give a short spoken argument.",
+    "payload": {
+      "stimulus": "Á háskólastigi ættu öll próf að vera opin, þar sem nemendur mega nota heimildir. Taktu afstöðu til þessarar fullyrðingar og rökstyddu mál þitt með dæmum.",
+      "criteria": [
+        "Takes a clear stance",
+        "Provides at least two supporting points",
+        "Uses examples to illustrate",
+        "Signposts the argument verbally"
+      ],
+      "minSeconds": 60
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "UNIVERSITY",
+    "exam": "HI_ENTRANCE",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "CORE",
+    "title": "Describe a societal change",
+    "prompt": "Discuss a change in society.",
+    "payload": {
+      "stimulus": "Lýstu breytingu sem þú telur mikilvæga í íslensku samfélagi á undanförnum árum. Útskýrðu orsakir hennar og hvaða áhrif hún hefur haft.",
+      "criteria": [
+        "Describes the change clearly",
+        "Explains causes and effects",
+        "Develops ideas with detail",
+        "Maintains fluency and cohesion"
+      ],
+      "minSeconds": 60
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "UNIVERSITY",
+    "exam": "HI_ENTRANCE",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "CORE",
+    "title": "Interpret a quotation",
+    "prompt": "Explain what a quotation means to you.",
+    "payload": {
+      "stimulus": "„Menntun er ekki undirbúningur fyrir lífið; menntun er lífið sjálft.“ Útskýrðu hvernig þú túlkar þessi orð og hvort þú ert sammála hugmyndinni.",
+      "criteria": [
+        "Interprets the quotation thoughtfully",
+        "States and justifies an opinion",
+        "Uses abstract vocabulary accurately",
+        "Speaks coherently for the full time"
+      ],
+      "minSeconds": 60
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "UNIVERSITY",
+    "exam": "HI_ENTRANCE",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "CORE",
+    "title": "Weigh advantages and disadvantages",
+    "prompt": "Discuss the pros and cons of a policy.",
+    "payload": {
+      "stimulus": "Sumir háskólar bjóða upp á gjaldfrjálst nám en aðrir taka skólagjöld. Ræddu kosti og galla þess að háskólanám sé gjaldfrjálst fyrir alla.",
+      "criteria": [
+        "Presents advantages and disadvantages",
+        "Balances the two sides",
+        "Reaches a reasoned conclusion",
+        "Uses discourse markers effectively"
+      ],
+      "minSeconds": 60
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "UNIVERSITY",
+    "exam": "HI_ENTRANCE",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "STRETCH",
+    "title": "Respond to a counterargument",
+    "prompt": "Defend a view against an objection.",
+    "payload": {
+      "stimulus": "Ímyndaðu þér að einhver haldi því fram að hugvísindi séu minna gagnleg en raunvísindi. Andmæltu þessari skoðun og verðu gildi hugvísinda með rökum.",
+      "criteria": [
+        "Acknowledges the counterargument",
+        "Refutes it with reasoning",
+        "Uses persuasive academic language",
+        "Sustains a coherent line of thought"
+      ],
+      "minSeconds": 60
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "UNIVERSITY",
+    "exam": "HI_ENTRANCE",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "STRETCH",
+    "title": "Propose a solution",
+    "prompt": "Suggest a solution to an academic problem.",
+    "payload": {
+      "stimulus": "Brottfall úr háskólanámi er áhyggjuefni víða. Greindu mögulegar ástæður þess og leggðu til hvernig háskólar gætu stutt betur við nemendur.",
+      "criteria": [
+        "Analyses the causes of the problem",
+        "Proposes practical, relevant solutions",
+        "Justifies the proposals",
+        "Delivers ideas fluently and clearly"
+      ],
+      "minSeconds": 60
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "UNIVERSITY",
+    "exam": "HI_ENTRANCE",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "STRETCH",
+    "title": "Discuss technology and learning",
+    "prompt": "Give a spoken analysis of a trend.",
+    "payload": {
+      "stimulus": "Gervigreind er í auknum mæli notuð í námi og kennslu. Ræddu hvaða tækifæri og áskoranir fylgja þessari þróun fyrir háskólanema og kennara.",
+      "criteria": [
+        "Identifies both opportunities and challenges",
+        "Analyses implications for teaching and learning",
+        "Supports points with reasoning",
+        "Speaks fluently with precise vocabulary"
+      ],
+      "minSeconds": 60
+    },
+    "answer": null,
+    "maxPoints": 10
+  }
+]

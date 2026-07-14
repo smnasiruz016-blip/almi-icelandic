@@ -1,0 +1,942 @@
+[
+  {
+    "track": "CEFR",
+    "exam": "CEFR_C1",
+    "skill": "READING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "STRETCH",
+    "title": "Language policy",
+    "prompt": "Read the passage and choose the best answer.",
+    "payload": {
+      "passage": "Íslensk málstefna hefur lengi byggt á þeirri hugmynd að tungumálið sé sameiginleg eign þjóðarinnar og að rækta beri það með nýyrðasmíð fremur en að taka upp erlend tökuorð. Á síðustu áratugum hefur þó tæknivæðingin sett stefnuna í nýtt samhengi, því snjalltæki og hugbúnaður tala oftar en ekki ensku. Sumir fræðimenn telja að stafræn tilvist tungumálsins ráði úrslitum um framtíð þess, jafnvel meira en fjöldi talenda. Aðrir benda á að íslenskan hafi áður staðist ágang danskrar stjórnsýslu og latínu kirkjunnar án þess að glata sérkennum sínum. Deilan snýst því ekki aðeins um orðaforða heldur um hvort samfélagið hafi vilja til að nýta málið á öllum sviðum daglegs lífs.",
+      "question": "Hvað telja sumir fræðimenn ráða mestu um framtíð íslenskunnar samkvæmt textanum?",
+      "options": [
+        "Stafræn tilvist tungumálsins",
+        "Fjöldi þeirra sem tala málið",
+        "Áhrif dönsku stjórnsýslunnar",
+        "Notkun latínu í kirkjunni"
+      ]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 0 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_C1",
+    "skill": "READING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "STRETCH",
+    "title": "Geothermal economy",
+    "prompt": "Read the passage and choose the best answer.",
+    "payload": {
+      "passage": "Jarðvarmi hefur mótað íslenskt efnahagslíf með þeim hætti sem fáar aðrar þjóðir þekkja. Ódýr og endurnýjanleg orka hefur laðað að orkufrekan iðnað á borð við álbræðslur, sem lengi voru taldar hornsteinn útflutnings. Á seinni árum hafa gagnaver bæst í hópinn og nýtt sömu orkulindir til að knýja netþjóna erlendra fyrirtækja. Gagnrýnendur benda þó á að slík starfsemi skapi tiltölulega fá störf miðað við þá orku sem hún notar. Þeir spyrja hvort skynsamlegra væri að beina orkunni að nýsköpun sem byggir á hugviti fremur en hráu afli. Umræðan endurspeglar dýpri spurningu um hvers konar hagkerfi þjóðin vill byggja til framtíðar.",
+      "question": "Hvaða gagnrýni er sett fram á gagnaver í textanum?",
+      "options": [
+        "Þau menga meira en álbræðslur",
+        "Þau skapa fá störf miðað við orkunotkun",
+        "Þau nota erlenda starfsmenn eingöngu",
+        "Þau greiða ekki fyrir orkuna"
+      ]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 1 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_C1",
+    "skill": "READING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "STRETCH",
+    "title": "Literature and identity",
+    "prompt": "Read the passage and choose the best answer.",
+    "payload": {
+      "passage": "Íslendingasögurnar hafa löngum verið taldar kjölfesta þjóðarvitundar, en túlkun þeirra hefur breyst verulega í tímans rás. Á nítjándu öld voru þær lesnar sem heimildir um horfna gullöld og notaðar í þágu sjálfstæðisbaráttunnar. Nútímafræðimenn leggja fremur áherslu á bókmenntalegt gildi þeirra og líta á þær sem vandaðar frásagnir fremur en hlutlausar sögulegar skýrslur. Þessi endurmat hefur ekki dregið úr virðingu fyrir verkunum heldur fært þau nær samtímalesendum. Sumir óttast þó að of fræðileg nálgun fjarlægi almenning frá arfinum. Spurningin er hvort hægt sé að varðveita bæði fræðilega nákvæmni og lifandi tengsl við breiðan hóp.",
+      "question": "Hvernig hefur túlkun Íslendingasagna breyst samkvæmt textanum?",
+      "options": [
+        "Þær eru nú taldar hlutlausar sögulegar heimildir",
+        "Þær eru einkum notaðar í sjálfstæðisbaráttu",
+        "Áherslan hefur færst yfir á bókmenntalegt gildi þeirra",
+        "Þær hafa misst virðingu meðal fræðimanna"
+      ]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 2 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_C1",
+    "skill": "READING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "STRETCH",
+    "title": "Urban planning",
+    "prompt": "Read the passage and choose the best answer.",
+    "payload": {
+      "passage": "Þéttbýlismyndun á höfuðborgarsvæðinu hefur kallað á endurskoðun á því hvernig borgir eiga að vaxa. Lengi vel réð bílamiðuð skipulagsstefna ríkjum og hverfin dreifðust víða um landrými. Nú er þrýstingur á að þétta byggð, stytta vegalengdir og efla almenningssamgöngur til að draga úr losun. Andstæðingar þéttingar óttast að grænum svæðum fækki og að húsnæðisverð hækki þegar eftirspurn eftir miðlægum lóðum eykst. Talsmenn hennar svara því til að vel skipulögð þétting geti raunar bætt lífsgæði með fjölbreyttara mannlífi og styttri ferðatíma. Niðurstaðan veltur á því hvort stjórnvöld nái að samræma ólík markmið í heildstæðri stefnu.",
+      "question": "Hvað óttast andstæðingar þéttingar byggðar samkvæmt textanum?",
+      "options": [
+        "Að almenningssamgöngur versni",
+        "Að grænum svæðum fækki og húsnæðisverð hækki",
+        "Að ferðatími lengist verulega",
+        "Að bílum fjölgi í miðborginni"
+      ]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 1 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_C1",
+    "skill": "READING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "STRETCH",
+    "title": "Higher education",
+    "prompt": "Read the passage and choose the best answer.",
+    "payload": {
+      "passage": "Háskólamenntun á Íslandi stendur frammi fyrir togstreitu milli fjöldans og gæðanna. Aðgengi hefur aukist verulega og fleiri ljúka nú prófi en nokkru sinni fyrr, sem margir telja lýðræðislega framför. Á móti kemur að takmarkað fjármagn dreifist á sífellt fleiri nemendur og deildir keppa um sömu krónurnar. Sumir fræðimenn vara við því að alþjóðlegur samanburður þrýsti stofnunum til að forgangsraða mælanlegum árangri á kostnað dýpri fræðilegrar iðju. Aðrir benda á að einmitt slíkur samanburður hafi knúið fram nauðsynlegar umbætur. Kjarni málsins er hvort unnt sé að tryggja jafnt aðgengi og háan gæðastaðal samtímis án aukinna fjárveitinga.",
+      "question": "Hver er megintogstreitan sem textinn lýsir?",
+      "options": [
+        "Milli innlendra og erlendra nemenda",
+        "Milli kennara og stjórnenda",
+        "Milli fjölda nemenda og gæða menntunar",
+        "Milli fræðigreina og verknáms"
+      ]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 2 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_C1",
+    "skill": "READING",
+    "taskType": "TRUE_FALSE",
+    "difficulty": "STRETCH",
+    "title": "Fisheries quota",
+    "prompt": "Decide whether the statement is true (Rétt) or false (Rangt) based on the passage.",
+    "payload": {
+      "passage": "Kvótakerfið í sjávarútvegi var innleitt til að sporna gegn ofveiði og tryggja sjálfbæra nýtingu fiskistofna. Kerfið úthlutar aflaheimildum sem ganga kaupum og sölum á markaði, og hefur það aukið hagkvæmni greinarinnar til muna. Á móti kemur að aflaheimildir hafa safnast á færri hendur og mörg sjávarþorp hafa misst þann grundvöll sem þau byggðu á. Deilan um réttlæti kerfisins hefur því staðið óslitið í áratugi. Stuðningsmenn benda á að stofnar hafi styrkst en andstæðingar telja að þjóðin fái ekki sanngjarnan hlut af sameiginlegri auðlind.",
+      "question": "Samkvæmt textanum hefur kvótakerfið dregið úr samþjöppun aflaheimilda."
+    },
+    "answer": { "type": "TRUE_FALSE", "correctIndex": 1 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_C1",
+    "skill": "READING",
+    "taskType": "TRUE_FALSE",
+    "difficulty": "STRETCH",
+    "title": "Volcanic monitoring",
+    "prompt": "Decide whether the statement is true (Rétt) or false (Rangt) based on the passage.",
+    "payload": {
+      "passage": "Eftirlit með eldvirkni á Íslandi hefur tekið stakkaskiptum með tilkomu þéttriðins nets jarðskjálftamæla og GPS-stöðva. Vísindamenn geta nú fylgst með kvikuhreyfingum í rauntíma og greint aðdraganda goss með meiri nákvæmni en áður. Þrátt fyrir tæknina er ómögulegt að segja fyrir um nákvæma tímasetningu eldgoss með fullri vissu. Spálíkön byggja á líkindum fremur en afdráttarlausum niðurstöðum og óvissan er órjúfanlegur hluti starfsins. Almannavarnir reiða sig því á blöndu af mælingum, reynslu og varúðarráðstöfunum þegar ákvarðanir um rýmingu eru teknar.",
+      "question": "Samkvæmt textanum geta vísindamenn nú spáð fyrir um nákvæma tímasetningu eldgosa með fullri vissu."
+    },
+    "answer": { "type": "TRUE_FALSE", "correctIndex": 1 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_C1",
+    "skill": "READING",
+    "taskType": "MATCHING",
+    "difficulty": "STRETCH",
+    "title": "Welfare concepts",
+    "prompt": "Match each concept on the left to its correct description on the right.",
+    "payload": {
+      "passage": "Norræna velferðarlíkanið byggir á nokkrum lykilhugtökum sem oft er ruglað saman í opinberri umræðu. Skilningur á þeim er forsenda málefnalegrar umræðu um framtíð velferðarkerfisins.",
+      "instructions": "Tengið hvert hugtak við rétta lýsingu.",
+      "left": [
+        "Alþjónusta",
+        "Tekjujöfnun",
+        "Framfærslutrygging"
+      ],
+      "right": [
+        "Opinber þjónusta sem stendur öllum til boða óháð efnahag",
+        "Skattkerfi sem minnkar bilið milli hárra og lágra tekna",
+        "Lágmarksstuðningur sem tryggir grunnframfærslu einstaklinga"
+      ]
+    },
+    "answer": { "type": "MATCHING", "pairs": [[0, 0], [1, 1], [2, 2]] },
+    "maxPoints": 3
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_C1",
+    "skill": "READING",
+    "taskType": "MATCHING",
+    "difficulty": "STRETCH",
+    "title": "Climate terms",
+    "prompt": "Match each term on the left to its correct definition on the right.",
+    "payload": {
+      "passage": "Umræða um loftslagsmál er hlaðin sérhæfðum hugtökum sem nauðsynlegt er að greina að. Ónákvæm notkun þeirra getur leitt til misskilnings í stefnumótun.",
+      "instructions": "Tengið hvert hugtak við rétta skilgreiningu.",
+      "left": [
+        "Kolefnishlutleysi",
+        "Aðlögun",
+        "Mótvægisaðgerðir"
+      ],
+      "right": [
+        "Jafnvægi þar sem losun gróðurhúsalofttegunda er jöfnuð með bindingu",
+        "Ráðstafanir til að búa samfélög undir óumflýjanlegar afleiðingar hlýnunar",
+        "Aðgerðir sem draga beint úr losun gróðurhúsalofttegunda"
+      ]
+    },
+    "answer": { "type": "MATCHING", "pairs": [[0, 0], [1, 1], [2, 2]] },
+    "maxPoints": 3
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_C1",
+    "skill": "READING",
+    "taskType": "CLOZE",
+    "difficulty": "STRETCH",
+    "title": "Democracy and trust",
+    "prompt": "Choose the word that best fills each gap.",
+    "payload": {
+      "passage": "Traust til opinberra stofnana er talið einn mikilvægasti {{1}} lýðræðislegs samfélags. Þegar borgarar telja að ákvarðanir séu teknar á gagnsæjan hátt eykst {{2}} þeirra til að fara að lögum og taka þátt í samfélaginu.",
+      "gaps": [
+        {
+          "id": 1,
+          "options": ["mælikvarðinn", "hornsteinn", "gallinn", "afleiðingin"]
+        },
+        {
+          "id": 2,
+          "options": ["andstaða", "tregða", "vilji", "efi"]
+        }
+      ]
+    },
+    "answer": { "type": "CLOZE", "correct": [{ "id": 1, "index": 1 }, { "id": 2, "index": 2 }] },
+    "maxPoints": 2
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_C1",
+    "skill": "LISTENING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "STRETCH",
+    "title": "Research funding talk",
+    "prompt": "Read the transcript and choose the best answer.",
+    "payload": {
+      "transcript": "Í erindi sínu fjallaði prófessorinn um það hvernig samkeppnissjóðir hafa breytt vinnubrögðum vísindamanna. Hún benti á að umsóknarferlið sé orðið svo tímafrekt að margir eyði stórum hluta ársins í að skrifa umsóknir fremur en að stunda rannsóknir. Að hennar mati verðlaunar kerfið þá sem kunna að selja hugmyndir sínar fremur en þá sem vinna vandaðasta grunnrannsóknina. Hún lagði þó áherslu á að hún væri ekki andvíg samkeppni sem slíkri, heldur teldi hún jafnvægið hafa raskast. Í lokin kallaði hún eftir stöðugra grunnfjármagni sem gæfi rannsakendum svigrúm til langtímaverkefna.",
+      "question": "Hvað telur prófessorinn helsta gallann á samkeppnissjóðum?",
+      "options": [
+        "Að þeir veiti of lítið fé",
+        "Að umsóknarferlið taki tíma frá rannsóknum",
+        "Að þeir útiloki unga vísindamenn",
+        "Að þeir styðji aðeins erlend verkefni"
+      ]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 1 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_C1",
+    "skill": "LISTENING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "STRETCH",
+    "title": "Tourism debate",
+    "prompt": "Read the transcript and choose the best answer.",
+    "payload": {
+      "transcript": "Í útvarpsþættinum ræddu tveir gestir um vöxt ferðaþjónustunnar. Fyrri gesturinn hélt því fram að greinin hefði bjargað hagkerfinu eftir efnahagshrunið og skapað fjölda starfa um allt land. Sá síðari viðurkenndi það en varaði við því að álag á náttúruperlur og innviði væri komið að þolmörkum. Hann lagði til að tekið yrði upp hóflegt komugjald sem rynni til verndar viðkvæmra svæða. Fyrri gesturinn taldi slíkt gjald geta fælt frá ferðamenn en var þó tilbúinn að skoða það ef tekjunum yrði varið á gagnsæjan hátt. Báðir voru sammála um að stýring, ekki stöðvun, væri lykilatriðið.",
+      "question": "Um hvað voru gestirnir báðir sammála?",
+      "options": [
+        "Að banna ætti frekari fjölgun ferðamanna",
+        "Að komugjald myndi fæla alla frá",
+        "Að stýring vaxtarins væri lykilatriðið",
+        "Að ferðaþjónustan skaðaði hagkerfið"
+      ]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 2 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_C1",
+    "skill": "LISTENING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "STRETCH",
+    "title": "Public health lecture",
+    "prompt": "Read the transcript and choose the best answer.",
+    "payload": {
+      "transcript": "Læknirinn útskýrði í fyrirlestri sínum hvernig forvarnir borga sig margfalt til lengri tíma. Hún sagði að hver króna sem varið væri í lýðheilsu skilaði sér til baka í minni kostnaði við meðferð langvinnra sjúkdóma. Vandinn væri hins vegar sá að ávinningur forvarna komi ekki fram fyrr en eftir mörg ár, á meðan kostnaðurinn falli til strax. Þetta geri stjórnmálamönnum erfitt fyrir að forgangsraða forvörnum þegar kjörtímabil eru stutt. Hún hvatti því til þess að heilbrigðismarkmið yrðu sett til langs tíma og varin fyrir sveiflum í pólitík.",
+      "question": "Hvers vegna er erfitt fyrir stjórnmálamenn að forgangsraða forvörnum að mati læknisins?",
+      "options": [
+        "Forvarnir eru of dýrar í framkvæmd",
+        "Ávinningurinn kemur ekki fram fyrr en löngu síðar",
+        "Almenningur er andvígur forvörnum",
+        "Forvarnir virka sjaldan sem skyldi"
+      ]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 1 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_C1",
+    "skill": "LISTENING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "STRETCH",
+    "title": "Media literacy",
+    "prompt": "Read the transcript and choose the best answer.",
+    "payload": {
+      "transcript": "Í viðtalinu ræddi fjölmiðlafræðingurinn um áhrif samfélagsmiðla á skoðanamyndun. Hann sagði að reiknirit miðlanna hygli efni sem vekur sterk viðbrögð, og þar með oft því sem er ýkt eða reiðilegt fremur en yfirvegað. Þetta skapi svokallaðar bergmálshellar þar sem fólk heyri einkum sínar eigin skoðanir endurteknar. Hann lagði áherslu á að lausnin fælist ekki í ritskoðun heldur í aukinni miðlalæsi almennings. Fólk þurfi að læra að meta heimildir gagnrýnið og átta sig á því hvernig athygli þess er nýtt í viðskiptalegum tilgangi.",
+      "question": "Hvaða lausn leggur fjölmiðlafræðingurinn áherslu á?",
+      "options": [
+        "Ritskoðun á samfélagsmiðlum",
+        "Bann við reikniritum",
+        "Aukna miðlalæsi almennings",
+        "Að leggja samfélagsmiðla niður"
+      ]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 2 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_C1",
+    "skill": "LISTENING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "STRETCH",
+    "title": "Automation and work",
+    "prompt": "Read the transcript and choose the best answer.",
+    "payload": {
+      "transcript": "Hagfræðingurinn fjallaði um áhrif sjálfvirkni á vinnumarkaðinn. Hún hafnaði þeirri einföldu mynd að vélar eyði einfaldlega störfum, og benti á að tæknibyltingar sögunnar hafi jafnan skapað ný störf um leið og önnur hurfu. Áhyggjuefnið nú væri fremur hraðinn á breytingunum og hvort menntakerfið næði að fylgja eftir. Hún taldi að störf myndu ekki hverfa heldur umbreytast, þannig að æ fleiri verkefni krefðust samvinnu manns og vélar. Lykillinn að farsælli aðlögun væri stöðug endurmenntun svo starfsfólk gæti fært sig milli greina eftir því sem eftirspurn breyttist.",
+      "question": "Hver er megináhyggja hagfræðingsins varðandi sjálfvirkni?",
+      "options": [
+        "Að öll störf muni hverfa",
+        "Hraði breytinganna og hvort menntakerfið fylgi eftir",
+        "Að vélar verði mönnum snjallari",
+        "Að ný störf verði ekki til"
+      ]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 1 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_C1",
+    "skill": "LISTENING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "STRETCH",
+    "title": "Arts funding",
+    "prompt": "Read the transcript and choose the best answer.",
+    "payload": {
+      "transcript": "Í pallborðsumræðum var deilt um opinberan stuðning við listir. Einn þátttakandi hélt því fram að listir ættu að standa undir sér á markaði eins og hver önnur starfsemi. Annar mótmælti því harðlega og sagði að menningarlegt gildi yrði ekki mælt í seldum miðum einum saman. Hann benti á að smáþjóð þyrfti opinberan stuðning til að viðhalda fjölbreyttri listsköpun sem markaðurinn einn myndi aldrei bera. Þriðji þátttakandinn reyndi að finna millileið og lagði til að stuðningur yrði veittur en með skýrari kröfum um að ná til breiðari hóps áhorfenda.",
+      "question": "Hvaða afstöðu tók þriðji þátttakandinn?",
+      "options": [
+        "Að afnema allan opinberan stuðning",
+        "Að auka stuðning án nokkurra skilyrða",
+        "Að veita stuðning en með kröfum um breiðari áhorfendahóp",
+        "Að listir ættu einungis að lúta markaðnum"
+      ]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 2 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_C1",
+    "skill": "LISTENING",
+    "taskType": "TRUE_FALSE",
+    "difficulty": "STRETCH",
+    "title": "Housing market report",
+    "prompt": "Decide whether the statement is true (Rétt) or false (Rangt) based on the transcript.",
+    "payload": {
+      "transcript": "Í fréttaskýringu var farið yfir stöðuna á húsnæðismarkaði. Sérfræðingurinn útskýrði að framboð á nýjum íbúðum hefði ekki haldið í við fólksfjölgun undanfarin ár, sem hefði ýtt undir verðhækkanir. Hann sagði að byggingaraðilar hefðu að miklu leyti einbeitt sér að dýrari eignum þar sem framlegð væri meiri, á meðan skortur væri einkum á hagkvæmu húsnæði fyrir ungt fólk og tekjulægri hópa. Að hans mati þyrfti samræmt átak sveitarfélaga og ríkis til að auka framboð í þeim flokki. Hann varaði við því að án slíkra aðgerða myndi ójöfnuður á markaði halda áfram að aukast.",
+      "question": "Samkvæmt fréttaskýringunni hefur skorturinn einkum verið á hagkvæmu húsnæði fyrir tekjulægri hópa."
+    },
+    "answer": { "type": "TRUE_FALSE", "correctIndex": 0 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_C1",
+    "skill": "LISTENING",
+    "taskType": "TRUE_FALSE",
+    "difficulty": "STRETCH",
+    "title": "Glacier research",
+    "prompt": "Decide whether the statement is true (Rétt) or false (Rangt) based on the transcript.",
+    "payload": {
+      "transcript": "Í viðtali sagði jöklafræðingur frá niðurstöðum langtímamælinga á íslenskum jöklum. Hún útskýrði að jöklarnir hefðu hopað verulega á síðustu áratugum og að rúmmál þeirra minnkaði ár frá ári. Hún tók þó fram að hraði bráðnunarinnar væri ekki jafn milli ára, því veðurfar hvers sumars réði miklu um ástandið. Þrátt fyrir árlegar sveiflur væri heildarþróunin ótvíræð og í takt við hlýnun jarðar. Hún benti á að bráðnun jöklanna hefði ekki aðeins umhverfisleg áhrif heldur einnig menningarleg, því landslagið sem þjóðin þekkir sé að breytast fyrir augum hennar.",
+      "question": "Samkvæmt jöklafræðingnum er hraði bráðnunarinnar nákvæmlega sá sami milli ára."
+    },
+    "answer": { "type": "TRUE_FALSE", "correctIndex": 1 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_C1",
+    "skill": "LISTENING",
+    "taskType": "MATCHING",
+    "difficulty": "STRETCH",
+    "title": "Speakers and views",
+    "prompt": "Match each speaker to the opinion they express in the discussion.",
+    "payload": {
+      "transcript": "Í umræðuþætti um framtíð landsbyggðarinnar tóku þrír þátttakendur til máls. Halla lagði áherslu á að fjarvinna gæti gjörbreytt búsetumynstri og gert fólki kleift að vinna hvar sem er. Björn taldi að engin fjarvinna dygði ef grunnþjónusta á borð við heilsugæslu og skóla væri ekki tryggð í heimabyggð. Sigrún beindi sjónum að menningarlífi og sagði að lifandi listir og viðburðir væru forsenda þess að ungt fólk vildi setjast að utan höfuðborgarinnar.",
+      "instructions": "Tengið hvern ræðumann við þá skoðun sem hann setur fram.",
+      "left": [
+        "Halla",
+        "Björn",
+        "Sigrún"
+      ],
+      "right": [
+        "Fjarvinna getur breytt búsetumynstri",
+        "Grunnþjónusta í heimabyggð er forsenda búsetu",
+        "Lifandi menningarlíf laðar ungt fólk að"
+      ]
+    },
+    "answer": { "type": "MATCHING", "pairs": [[0, 0], [1, 1], [2, 2]] },
+    "maxPoints": 3
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_C1",
+    "skill": "LISTENING",
+    "taskType": "MATCHING",
+    "difficulty": "STRETCH",
+    "title": "Energy sources",
+    "prompt": "Match each energy source to the feature described in the talk.",
+    "payload": {
+      "transcript": "Í kynningu um orkukerfi landsins fór verkfræðingurinn yfir helstu orkugjafa. Hann sagði að vatnsafl væri undirstaða raforkuframleiðslunnar og hefði þann kost að hægt væri að stýra því eftir eftirspurn. Jarðvarma lýsti hann sem stöðugum grunni sem nýttist bæði til rafmagns og húshitunar allan ársins hring. Vindorku nefndi hann sem vaxandi möguleika en benti á að hún væri sveiflukennd og háð veðri. Að lokum sagði hann að samspil þessara gjafa yrði lykillinn að öruggu orkukerfi.",
+      "instructions": "Tengið hvern orkugjafa við réttan eiginleika.",
+      "left": [
+        "Vatnsafl",
+        "Jarðvarmi",
+        "Vindorka"
+      ],
+      "right": [
+        "Hægt að stýra eftir eftirspurn",
+        "Stöðugur grunnur allan ársins hring",
+        "Sveiflukennd og háð veðri"
+      ]
+    },
+    "answer": { "type": "MATCHING", "pairs": [[0, 0], [1, 1], [2, 2]] },
+    "maxPoints": 3
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_C1",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "STRETCH",
+    "title": "Language preservation",
+    "prompt": "Write an argumentative essay defending a clear thesis.",
+    "payload": {
+      "stimulus": "Sumir telja að opinbert fé eigi að fara í að tryggja íslensku í stafrænni tækni, á meðan aðrir telja slíkt vera sóun sem markaðurinn eigi að leysa. Skrifið rökfærsluritgerð þar sem þú setur fram skýra afstöðu og styður hana með rökum.",
+      "criteria": [
+        "Skýr og afmörkuð ritgerðarþungamiðja",
+        "Rökrétt uppbygging með efnisgreinum",
+        "Blæbrigðaríkur orðaforði á C1-stigi",
+        "Mótrök tekin fyrir og þeim svarað"
+      ],
+      "charBand": { "min": 200, "max": 400 }
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_C1",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "STRETCH",
+    "title": "Tourism balance",
+    "prompt": "Write an essay evaluating both sides of a debate and reaching a conclusion.",
+    "payload": {
+      "stimulus": "Metið kosti og galla þess að takmarka fjölda ferðamanna á viðkvæmum náttúrusvæðum. Vegið rök beggja fylkinga og komist að rökstuddri niðurstöðu.",
+      "criteria": [
+        "Jafnvæg umfjöllun um bæði sjónarmið",
+        "Rökstudd lokaniðurstaða",
+        "Nákvæm notkun tengiorða",
+        "Fjölbreytt setningagerð"
+      ],
+      "charBand": { "min": 200, "max": 400 }
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_C1",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "STRETCH",
+    "title": "Remote work",
+    "prompt": "Argue a thesis about the impact of remote work on society.",
+    "payload": {
+      "stimulus": "Fjarvinna hefur breytt sambandi fólks við vinnustað og búsetu. Skrifið ritgerð þar sem þú heldur fram og rökstyður afstöðu um hvort fjarvinna sé fremur til bóta eða óhagræðis fyrir samfélagið í heild.",
+      "criteria": [
+        "Afdráttarlaus afstaða strax í inngangi",
+        "Að minnsta kosti þrjú sjálfstæð rök",
+        "Dæmi sem styðja fullyrðingar",
+        "Vandaður frágangur og málfar"
+      ],
+      "charBand": { "min": 200, "max": 400 }
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_C1",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "STRETCH",
+    "title": "University access",
+    "prompt": "Write an essay defending a position on higher education policy.",
+    "payload": {
+      "stimulus": "Á háskólamenntun að vera gjaldfrjáls fyrir alla eða á að taka upp skólagjöld til að tryggja gæði? Setjið fram skýra afstöðu og verjið hana með rökum og dæmum.",
+      "criteria": [
+        "Skýr afstaða til gjaldtöku",
+        "Rök sem tengjast bæði jafnrétti og gæðum",
+        "Meðvitund um afleiðingar stefnunnar",
+        "C1-orðaforði um menntamál"
+      ],
+      "charBand": { "min": 200, "max": 400 }
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_C1",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "STRETCH",
+    "title": "Climate responsibility",
+    "prompt": "Argue whether individuals or systems bear more climate responsibility.",
+    "payload": {
+      "stimulus": "Sumir telja að einstaklingar beri höfuðábyrgð á að draga úr losun, aðrir að kerfisbreytingar stjórnvalda og fyrirtækja skipti mestu. Rökstyðjið hvor nálgunin sé áhrifaríkari í baráttunni gegn loftslagsvánni.",
+      "criteria": [
+        "Skýr þungamiðja um ábyrgð",
+        "Samanburður á áhrifum einstaklinga og kerfa",
+        "Rökleg tenging milli fullyrðinga",
+        "Blæbrigðarík framsetning"
+      ],
+      "charBand": { "min": 200, "max": 400 }
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_C1",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "STRETCH",
+    "title": "Media and democracy",
+    "prompt": "Evaluate the role of social media in democratic debate.",
+    "payload": {
+      "stimulus": "Hafa samfélagsmiðlar styrkt eða veikt lýðræðislega umræðu? Metið áhrif þeirra á skoðanamyndun og komist að rökstuddri niðurstöðu.",
+      "criteria": [
+        "Greining á bæði jákvæðum og neikvæðum áhrifum",
+        "Rökstudd heildarniðurstaða",
+        "Notkun viðeigandi hugtaka",
+        "Skýr efnisgreinaskipting"
+      ],
+      "charBand": { "min": 200, "max": 400 }
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_C1",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "STRETCH",
+    "title": "Fisheries fairness",
+    "prompt": "Take a stance on the fairness of the fisheries quota system.",
+    "payload": {
+      "stimulus": "Kvótakerfið í sjávarútvegi er umdeilt. Skrifið ritgerð þar sem þú tekur afstöðu til þess hvort kerfið sé sanngjörn leið til að nýta sameiginlega auðlind þjóðarinnar.",
+      "criteria": [
+        "Skýr afstaða til réttlætis kerfisins",
+        "Rök sem taka til hagkvæmni og sanngirni",
+        "Mótrökum svarað málefnalega",
+        "Öruggt vald á formlegu málfari"
+      ],
+      "charBand": { "min": 200, "max": 400 }
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_C1",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "STRETCH",
+    "title": "Urban density",
+    "prompt": "Argue for or against densifying the capital area.",
+    "payload": {
+      "stimulus": "Á að þétta byggð á höfuðborgarsvæðinu eða halda áfram að byggja ný úthverfi? Verjið afstöðu ykkar með tilliti til umhverfis, hagkvæmni og lífsgæða.",
+      "criteria": [
+        "Skýr afstaða til þéttingar",
+        "Rök tengd umhverfi og lífsgæðum",
+        "Raunhæf dæmi eða afleiðingar",
+        "Fjölbreyttur og nákvæmur orðaforði"
+      ],
+      "charBand": { "min": 200, "max": 400 }
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_C1",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "STRETCH",
+    "title": "Automation policy",
+    "prompt": "Propose and defend a policy response to automation.",
+    "payload": {
+      "stimulus": "Sjálfvirkni breytir vinnumarkaðnum hratt. Leggið fram og rökstyðjið tillögu um hvernig samfélagið eigi að bregðast við, hvort sem er með endurmenntun, borgaralaunum eða öðrum leiðum.",
+      "criteria": [
+        "Skýr og afmörkuð stefnutillaga",
+        "Rök fyrir vali á lausn",
+        "Umfjöllun um mögulega annmarka",
+        "Rökrétt bygging og málfarslegt öryggi"
+      ],
+      "charBand": { "min": 200, "max": 400 }
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_C1",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "STRETCH",
+    "title": "Arts subsidy",
+    "prompt": "Evaluate whether the state should subsidise the arts.",
+    "payload": {
+      "stimulus": "Á ríkið að styðja listir með opinberu fé eða eiga listir að standa undir sér á markaði? Metið rök beggja sjónarmiða og dragið ályktun.",
+      "criteria": [
+        "Jafnvæg greining á báðum sjónarmiðum",
+        "Rökstudd niðurstaða",
+        "Meðvitund um menningarlegt gildi",
+        "Nákvæm og blæbrigðarík framsetning"
+      ],
+      "charBand": { "min": 200, "max": 400 }
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_C1",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "STRETCH",
+    "title": "Preventive healthcare",
+    "prompt": "Argue for prioritising prevention in healthcare policy.",
+    "payload": {
+      "stimulus": "Forvarnir borga sig til lengri tíma en krefjast útgjalda strax. Skrifið ritgerð þar sem þú rökstyður hvort heilbrigðiskerfið eigi að forgangsraða forvörnum þrátt fyrir skammtímakostnað.",
+      "criteria": [
+        "Skýr afstaða til forgangsröðunar",
+        "Rök um langtíma- og skammtímasjónarmið",
+        "Tenging við samfélagslegan ávinning",
+        "Vandað formlegt málfar"
+      ],
+      "charBand": { "min": 200, "max": 400 }
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_C1",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "STRETCH",
+    "title": "Reading the sagas",
+    "prompt": "Argue how the sagas should be presented to the public today.",
+    "payload": {
+      "stimulus": "Á að kenna Íslendingasögurnar fyrst og fremst sem bókmenntir eða sem sögulegan þjóðararf? Setjið fram og verjið afstöðu um hvernig best sé að halda arfinum lifandi fyrir nýjar kynslóðir.",
+      "criteria": [
+        "Skýr afstaða til framsetningar arfsins",
+        "Rök sem tengja fræði og aðgengi almennings",
+        "Meðvitund um ólíka lesendahópa",
+        "Blæbrigðarík og formleg framsetning"
+      ],
+      "charBand": { "min": 200, "max": 400 }
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_C1",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "STRETCH",
+    "title": "Defend a viewpoint",
+    "prompt": "Present and defend an academic viewpoint aloud.",
+    "payload": {
+      "stimulus": "Kynnið og verjið afstöðu ykkar til þeirrar fullyrðingar að stafræn tilvist íslenskunnar ráði meiru um framtíð hennar en fjöldi talenda. Rökstyðjið mál ykkar með dæmum.",
+      "criteria": [
+        "Skýr og afmörkuð afstaða",
+        "Rökrétt uppbygging málflutnings",
+        "Blæbrigðaríkur orðaforði",
+        "Eðlilegt flæði og framburður"
+      ],
+      "minSeconds": 120
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_C1",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "STRETCH",
+    "title": "Tourism limits",
+    "prompt": "Present a reasoned position on limiting tourism.",
+    "payload": {
+      "stimulus": "Setjið fram og verjið rökstudda skoðun á því hvort takmarka eigi aðgang ferðamanna að viðkvæmum náttúruperlum. Takið tillit til bæði efnahags og umhverfis.",
+      "criteria": [
+        "Skýr afstaða til takmarkana",
+        "Jafnvæg umfjöllun um efnahag og umhverfi",
+        "Samfelldur og rökréttur málflutningur",
+        "Nákvæm notkun tengiorða"
+      ],
+      "minSeconds": 120
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_C1",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "STRETCH",
+    "title": "Remote work debate",
+    "prompt": "Argue a position on remote work and society.",
+    "payload": {
+      "stimulus": "Rökstyðjið afstöðu ykkar til þess hvort fjarvinna sé fremur til bóta eða óhagræðis fyrir samfélagið. Nefnið áhrif á búsetu, félagslíf og framleiðni.",
+      "criteria": [
+        "Afdráttarlaus afstaða",
+        "Fjölbreytt og viðeigandi rök",
+        "Meðvitund um mótrök",
+        "Eðlilegt talflæði á C1-stigi"
+      ],
+      "minSeconds": 120
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_C1",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "STRETCH",
+    "title": "Free higher education",
+    "prompt": "Defend a viewpoint on tuition policy.",
+    "payload": {
+      "stimulus": "Kynnið afstöðu ykkar til þess hvort háskólamenntun eigi að vera gjaldfrjáls. Verjið hana með rökum um jafnrétti, gæði og fjármögnun.",
+      "criteria": [
+        "Skýr afstaða til gjaldtöku",
+        "Rök tengd jafnrétti og gæðum",
+        "Skipuleg framsetning",
+        "Öruggur og skýr framburður"
+      ],
+      "minSeconds": 120
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_C1",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "STRETCH",
+    "title": "Climate responsibility",
+    "prompt": "Present a view on individual versus systemic responsibility.",
+    "payload": {
+      "stimulus": "Verjið afstöðu ykkar til þess hvort einstaklingar eða kerfisbreytingar skipti meira máli í baráttunni gegn loftslagsvánni. Rökstyðjið með dæmum.",
+      "criteria": [
+        "Skýr þungamiðja um ábyrgð",
+        "Samanburður á áhrifum ólíkra þátta",
+        "Rökrétt tenging fullyrðinga",
+        "Blæbrigðarík tjáning"
+      ],
+      "minSeconds": 120
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_C1",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "STRETCH",
+    "title": "Media literacy",
+    "prompt": "Argue how society should respond to misinformation.",
+    "payload": {
+      "stimulus": "Kynnið og verjið afstöðu ykkar til þess hvernig best sé að bregðast við rangfærslum á samfélagsmiðlum, hvort heldur með aukinni miðlalæsi eða strangari reglum.",
+      "criteria": [
+        "Skýr afstaða til aðgerða",
+        "Rök fyrir valinni leið",
+        "Umfjöllun um mögulega annmarka",
+        "Samfellt og eðlilegt talflæði"
+      ],
+      "minSeconds": 120
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_C1",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "STRETCH",
+    "title": "Energy priorities",
+    "prompt": "Defend a position on how to use the nation's energy.",
+    "payload": {
+      "stimulus": "Rökstyðjið afstöðu ykkar til þess hvort beina eigi endurnýjanlegri orku landsins að orkufrekum iðnaði eða að nýsköpun sem byggir á hugviti.",
+      "criteria": [
+        "Skýr afstaða til forgangsröðunar",
+        "Rök tengd atvinnu og verðmætasköpun",
+        "Rökrétt uppbygging",
+        "Nákvæmur og formlegur orðaforði"
+      ],
+      "minSeconds": 120
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_C1",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "STRETCH",
+    "title": "Arts and the market",
+    "prompt": "Present a viewpoint on public funding for the arts.",
+    "payload": {
+      "stimulus": "Verjið afstöðu ykkar til þess hvort listir eigi að njóta opinbers stuðnings eða standa undir sér á markaði. Takið tillit til menningarlegs gildis smáþjóðar.",
+      "criteria": [
+        "Skýr afstaða til stuðnings",
+        "Rök um menningarlegt og efnahagslegt gildi",
+        "Meðvitund um mótrök",
+        "Eðlilegt talflæði og framburður"
+      ],
+      "minSeconds": 120
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_C1",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "STRETCH",
+    "title": "Rural futures",
+    "prompt": "Argue how to sustain rural communities.",
+    "payload": {
+      "stimulus": "Kynnið og rökstyðjið hugmyndir ykkar um hvernig best sé að tryggja framtíð landsbyggðarinnar, hvort heldur með fjarvinnu, grunnþjónustu eða menningarlífi.",
+      "criteria": [
+        "Skýr og afmörkuð afstaða",
+        "Rökstuddar tillögur",
+        "Skipuleg framsetning",
+        "Öruggt vald á talmáli"
+      ],
+      "minSeconds": 120
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_C1",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "STRETCH",
+    "title": "Preventive health",
+    "prompt": "Defend prioritising prevention in healthcare.",
+    "payload": {
+      "stimulus": "Rökstyðjið afstöðu ykkar til þess hvort heilbrigðiskerfið eigi að forgangsraða forvörnum þrátt fyrir að ávinningur komi ekki fram fyrr en löngu síðar.",
+      "criteria": [
+        "Skýr afstaða til forgangsröðunar",
+        "Rök um langtíma- og skammtímasjónarmið",
+        "Rökrétt uppbygging",
+        "Blæbrigðarík framsetning"
+      ],
+      "minSeconds": 120
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_C1",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "STRETCH",
+    "title": "Urban density talk",
+    "prompt": "Present a position on densifying the capital.",
+    "payload": {
+      "stimulus": "Verjið afstöðu ykkar til þess hvort þétta eigi byggð á höfuðborgarsvæðinu eða halda áfram að byggja úthverfi. Takið tillit til umhverfis og lífsgæða.",
+      "criteria": [
+        "Skýr afstaða til þéttingar",
+        "Rök tengd umhverfi og lífsgæðum",
+        "Meðvitund um mótrök",
+        "Samfellt og skýrt talflæði"
+      ],
+      "minSeconds": 120
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_C1",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "STRETCH",
+    "title": "The living sagas",
+    "prompt": "Argue how the sagas should be kept alive today.",
+    "payload": {
+      "stimulus": "Kynnið og verjið afstöðu ykkar til þess hvernig halda eigi Íslendingasögunum lifandi fyrir nýjar kynslóðir, sem bókmenntum eða sögulegum arfi.",
+      "criteria": [
+        "Skýr afstaða til framsetningar arfsins",
+        "Rök sem tengja fræði og aðgengi",
+        "Meðvitund um ólíka hópa",
+        "Eðlilegt talflæði á C1-stigi"
+      ],
+      "minSeconds": 120
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_C1",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "STRETCH",
+    "title": "Automation response",
+    "prompt": "Defend a policy response to automation.",
+    "payload": {
+      "stimulus": "Rökstyðjið afstöðu ykkar til þess hvernig samfélagið eigi að bregðast við áhrifum sjálfvirkni á vinnumarkaðinn, hvort heldur með endurmenntun eða öðrum leiðum.",
+      "criteria": [
+        "Skýr og afmörkuð stefna",
+        "Rök fyrir valinni lausn",
+        "Umfjöllun um annmarka",
+        "Öruggt og skýrt talmál"
+      ],
+      "minSeconds": 120
+    },
+    "answer": null,
+    "maxPoints": 10
+  }
+]

@@ -1,0 +1,726 @@
+[
+  {
+    "track": "CEFR",
+    "exam": "CEFR_A1",
+    "skill": "READING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "FOUNDATION",
+    "title": "Meeting Anna",
+    "prompt": "Read the short text and choose the correct answer.",
+    "payload": {
+      "passage": "Halló! Ég heiti Anna. Ég er frá Íslandi. Ég bý í Reykjavík.",
+      "question": "Hvar býr Anna?",
+      "options": ["Í Reykjavík", "Í Osló", "Í London"]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 0 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_A1",
+    "skill": "READING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "FOUNDATION",
+    "title": "Jón's age",
+    "prompt": "Read the short text and choose the correct answer.",
+    "payload": {
+      "passage": "Þetta er Jón. Hann er tíu ára. Hann á einn bróður.",
+      "question": "Hvað er Jón gamall?",
+      "options": ["Fimm ára", "Tíu ára", "Tuttugu ára"]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 1 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_A1",
+    "skill": "READING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "FOUNDATION",
+    "title": "The family",
+    "prompt": "Read the short text and choose the correct answer.",
+    "payload": {
+      "passage": "María á tvær systur og einn bróður. Fjölskyldan er stór.",
+      "question": "Hversu margar systur á María?",
+      "options": ["Eina", "Tvær", "Þrjár"]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 1 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_A1",
+    "skill": "READING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "FOUNDATION",
+    "title": "Breakfast",
+    "prompt": "Read the short text and choose the correct answer.",
+    "payload": {
+      "passage": "Á morgnana borða ég brauð og drekk kaffi. Mér finnst kaffi gott.",
+      "question": "Hvað drekkur hún á morgnana?",
+      "options": ["Vatn", "Mjólk", "Kaffi"]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 2 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_A1",
+    "skill": "READING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "FOUNDATION",
+    "title": "Today is Monday",
+    "prompt": "Read the short text and choose the correct answer.",
+    "payload": {
+      "passage": "Í dag er mánudagur. Ég fer í skólann klukkan átta.",
+      "question": "Hvaða dagur er í dag?",
+      "options": ["Mánudagur", "Föstudagur", "Sunnudagur"]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 0 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_A1",
+    "skill": "READING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "FOUNDATION",
+    "title": "A small house",
+    "prompt": "Read the short text and choose the correct answer.",
+    "payload": {
+      "passage": "Við búum í litlu húsi. Húsið er rautt. Það er garður fyrir aftan.",
+      "question": "Hvernig er húsið á litinn?",
+      "options": ["Blátt", "Rautt", "Grænt"]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 1 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_A1",
+    "skill": "READING",
+    "taskType": "TRUE_FALSE",
+    "difficulty": "FOUNDATION",
+    "title": "Where is Elsa from",
+    "prompt": "Read the text. Is the statement true (Rétt) or false (Rangt)?",
+    "payload": {
+      "passage": "Elsa er frá Danmörku. Hún talar dönsku og íslensku.",
+      "question": "Elsa talar bara íslensku.",
+      "options": ["Rétt", "Rangt"]
+    },
+    "answer": { "type": "TRUE_FALSE", "correctIndex": 1 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_A1",
+    "skill": "READING",
+    "taskType": "TRUE_FALSE",
+    "difficulty": "FOUNDATION",
+    "title": "The cat",
+    "prompt": "Read the text. Is the statement true (Rétt) or false (Rangt)?",
+    "payload": {
+      "passage": "Ég á kött. Kötturinn heitir Snær. Hann er hvítur.",
+      "question": "Kötturinn heitir Snær.",
+      "options": ["Rétt", "Rangt"]
+    },
+    "answer": { "type": "TRUE_FALSE", "correctIndex": 0 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_A1",
+    "skill": "READING",
+    "taskType": "MATCHING",
+    "difficulty": "FOUNDATION",
+    "title": "Numbers and words",
+    "prompt": "Match each number on the left to the Icelandic word on the right.",
+    "payload": {
+      "passage": "Einn, tveir og þrír. Við teljum saman.",
+      "instructions": "Tengdu töluna við réttа orðið.",
+      "left": ["1", "2", "3"],
+      "right": ["þrír", "einn", "tveir"]
+    },
+    "answer": { "type": "MATCHING", "pairs": [[0, 1], [1, 2], [2, 0]] },
+    "maxPoints": 3
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_A1",
+    "skill": "READING",
+    "taskType": "MATCHING",
+    "difficulty": "FOUNDATION",
+    "title": "Family words",
+    "prompt": "Match each Icelandic word to the correct English meaning.",
+    "payload": {
+      "passage": "Mamma, pabbi og systir. Þetta er fjölskyldan mín.",
+      "instructions": "Tengdu íslenska orðið við enska merkingu.",
+      "left": ["mamma", "pabbi", "systir"],
+      "right": ["father", "sister", "mother"]
+    },
+    "answer": { "type": "MATCHING", "pairs": [[0, 2], [1, 0], [2, 1]] },
+    "maxPoints": 3
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_A1",
+    "skill": "LISTENING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "FOUNDATION",
+    "title": "A greeting",
+    "prompt": "Listen to the audio and choose the correct answer.",
+    "payload": {
+      "transcript": "Góðan daginn! Ég heiti Kári. Ég er kennari.",
+      "question": "Hvað gerir Kári?",
+      "options": ["Hann er kennari", "Hann er læknir", "Hann er nemandi"]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 0 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_A1",
+    "skill": "LISTENING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "FOUNDATION",
+    "title": "The time",
+    "prompt": "Listen to the audio and choose the correct answer.",
+    "payload": {
+      "transcript": "Klukkan er sjö. Ég vakna og fer á fætur.",
+      "question": "Hvað er klukkan?",
+      "options": ["Fimm", "Sjö", "Níu"]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 1 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_A1",
+    "skill": "LISTENING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "FOUNDATION",
+    "title": "At the shop",
+    "prompt": "Listen to the audio and choose the correct answer.",
+    "payload": {
+      "transcript": "Ég kaupi mjólk og brauð í búðinni. Það er ódýrt.",
+      "question": "Hvað kaupir hún?",
+      "options": ["Mjólk og brauð", "Fisk og kjöt", "Epli og banana"]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 0 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_A1",
+    "skill": "LISTENING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "FOUNDATION",
+    "title": "The weather",
+    "prompt": "Listen to the audio and choose the correct answer.",
+    "payload": {
+      "transcript": "Í dag er kalt úti. Það snjóar mikið.",
+      "question": "Hvernig er veðrið?",
+      "options": ["Heitt og sólríkt", "Kalt og snjór", "Hlýtt og rigning"]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 1 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_A1",
+    "skill": "LISTENING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "FOUNDATION",
+    "title": "My brother",
+    "prompt": "Listen to the audio and choose the correct answer.",
+    "payload": {
+      "transcript": "Bróðir minn heitir Ari. Hann er sex ára.",
+      "question": "Hvað heitir bróðirinn?",
+      "options": ["Ari", "Jón", "Kári"]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 0 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_A1",
+    "skill": "LISTENING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "FOUNDATION",
+    "title": "The phone number",
+    "prompt": "Listen to the audio and choose the correct answer.",
+    "payload": {
+      "transcript": "Síminn minn er fimm, fjórir, þrír, tveir. Hringdu í mig.",
+      "question": "Hver er fyrsta talan í símanum?",
+      "options": ["Fimm", "Fjórir", "Tveir"]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 0 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_A1",
+    "skill": "LISTENING",
+    "taskType": "TRUE_FALSE",
+    "difficulty": "FOUNDATION",
+    "title": "Coffee please",
+    "prompt": "Listen to the audio. Is the statement true (Rétt) or false (Rangt)?",
+    "payload": {
+      "transcript": "Ég vil kaffi, takk. Ekki te.",
+      "question": "Hún vill te.",
+      "options": ["Rétt", "Rangt"]
+    },
+    "answer": { "type": "TRUE_FALSE", "correctIndex": 1 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_A1",
+    "skill": "LISTENING",
+    "taskType": "TRUE_FALSE",
+    "difficulty": "FOUNDATION",
+    "title": "Living in Akureyri",
+    "prompt": "Listen to the audio. Is the statement true (Rétt) or false (Rangt)?",
+    "payload": {
+      "transcript": "Ég bý í Akureyri. Ég er tuttugu ára.",
+      "question": "Hún býr í Akureyri.",
+      "options": ["Rétt", "Rangt"]
+    },
+    "answer": { "type": "TRUE_FALSE", "correctIndex": 0 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_A1",
+    "skill": "LISTENING",
+    "taskType": "MATCHING",
+    "difficulty": "FOUNDATION",
+    "title": "Days of the week",
+    "prompt": "Listen and match each Icelandic day to its English name.",
+    "payload": {
+      "transcript": "Mánudagur, þriðjudagur, miðvikudagur. Vikan byrjar.",
+      "instructions": "Tengdu daginn við enska nafnið.",
+      "left": ["mánudagur", "þriðjudagur", "miðvikudagur"],
+      "right": ["Tuesday", "Wednesday", "Monday"]
+    },
+    "answer": { "type": "MATCHING", "pairs": [[0, 2], [1, 0], [2, 1]] },
+    "maxPoints": 3
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_A1",
+    "skill": "LISTENING",
+    "taskType": "MATCHING",
+    "difficulty": "FOUNDATION",
+    "title": "Food words",
+    "prompt": "Listen and match each Icelandic food word to its English meaning.",
+    "payload": {
+      "transcript": "Fiskur, brauð og ostur. Þetta er á borðinu.",
+      "instructions": "Tengdu íslenska orðið við enska merkingu.",
+      "left": ["fiskur", "brauð", "ostur"],
+      "right": ["bread", "cheese", "fish"]
+    },
+    "answer": { "type": "MATCHING", "pairs": [[0, 2], [1, 0], [2, 1]] },
+    "maxPoints": 3
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_A1",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "FOUNDATION",
+    "title": "Introduce yourself",
+    "prompt": "Write a few simple sentences in Icelandic introducing yourself.",
+    "payload": {
+      "stimulus": "Skrifaðu stutta kynningu: nafn, aldur og hvar þú býrð.",
+      "criteria": ["Uses a greeting and states your name", "Includes age and place of living"],
+      "charBand": { "min": 20, "max": 80 }
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_A1",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "FOUNDATION",
+    "title": "My family",
+    "prompt": "Write a few simple sentences in Icelandic about your family.",
+    "payload": {
+      "stimulus": "Skrifaðu um fjölskylduna þína: hverjir eru í henni?",
+      "criteria": ["Names at least two family members", "Uses simple present tense"],
+      "charBand": { "min": 20, "max": 80 }
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_A1",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "FOUNDATION",
+    "title": "Days of the week",
+    "prompt": "Write the days of the week in Icelandic.",
+    "payload": {
+      "stimulus": "Skrifaðu dagana í vikunni á íslensku.",
+      "criteria": ["Lists days in correct order", "Spells common days correctly"],
+      "charBand": { "min": 20, "max": 80 }
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_A1",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "FOUNDATION",
+    "title": "My breakfast",
+    "prompt": "Write a few simple sentences in Icelandic about what you eat for breakfast.",
+    "payload": {
+      "stimulus": "Skrifaðu hvað þú borðar og drekkur á morgnana.",
+      "criteria": ["Names at least one food and one drink", "Uses the verb borða or drekka"],
+      "charBand": { "min": 20, "max": 80 }
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_A1",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "FOUNDATION",
+    "title": "Count to ten",
+    "prompt": "Write the numbers from one to ten in Icelandic words.",
+    "payload": {
+      "stimulus": "Skrifaðu tölurnar frá einum upp í tíu með orðum.",
+      "criteria": ["Writes numbers in order", "Uses correct Icelandic spelling"],
+      "charBand": { "min": 20, "max": 80 }
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_A1",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "FOUNDATION",
+    "title": "Where I live",
+    "prompt": "Write a few simple sentences in Icelandic about your home.",
+    "payload": {
+      "stimulus": "Skrifaðu hvar þú býrð og lýstu húsinu í stuttu máli.",
+      "criteria": ["States the town or city", "Adds one detail about the home"],
+      "charBand": { "min": 20, "max": 80 }
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_A1",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "FOUNDATION",
+    "title": "A short greeting note",
+    "prompt": "Write a short greeting note in Icelandic to a friend.",
+    "payload": {
+      "stimulus": "Skrifaðu stutt kveðju til vinar þíns.",
+      "criteria": ["Uses a greeting word", "Ends with a friendly closing"],
+      "charBand": { "min": 20, "max": 80 }
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_A1",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "FOUNDATION",
+    "title": "My favourite food",
+    "prompt": "Write a few simple sentences in Icelandic about food you like.",
+    "payload": {
+      "stimulus": "Skrifaðu hvaða mat þér finnst góður.",
+      "criteria": ["Names at least one food", "Uses mér finnst"],
+      "charBand": { "min": 20, "max": 80 }
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_A1",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "FOUNDATION",
+    "title": "My colours",
+    "prompt": "Write a few simple sentences in Icelandic naming colours you know.",
+    "payload": {
+      "stimulus": "Skrifaðu nokkra liti á íslensku og eitthvað sem er í þeim lit.",
+      "criteria": ["Names at least two colours", "Links a colour to an object"],
+      "charBand": { "min": 20, "max": 80 }
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_A1",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "FOUNDATION",
+    "title": "My day",
+    "prompt": "Write a few simple sentences in Icelandic about your morning.",
+    "payload": {
+      "stimulus": "Skrifaðu hvað þú gerir á morgnana: vakna, borða, fara.",
+      "criteria": ["Uses at least two everyday verbs", "Mentions a time or a meal"],
+      "charBand": { "min": 20, "max": 80 }
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_A1",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "FOUNDATION",
+    "title": "My pet",
+    "prompt": "Write a few simple sentences in Icelandic about a pet, real or imagined.",
+    "payload": {
+      "stimulus": "Skrifaðu um gæludýr: hvað það heitir og hvernig það er.",
+      "criteria": ["Gives the pet a name", "Adds one describing word"],
+      "charBand": { "min": 20, "max": 80 }
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_A1",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "FOUNDATION",
+    "title": "Simple shopping list",
+    "prompt": "Write a short shopping list in Icelandic.",
+    "payload": {
+      "stimulus": "Skrifaðu innkaupalista með fjórum matvörum á íslensku.",
+      "criteria": ["Lists at least four food items", "Spells common words correctly"],
+      "charBand": { "min": 20, "max": 80 }
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_A1",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "FOUNDATION",
+    "title": "Say hello",
+    "prompt": "Speak in Icelandic: greet someone and say your name.",
+    "payload": {
+      "stimulus": "Heilsaðu og segðu hvað þú heitir.",
+      "criteria": ["Uses a clear greeting", "States your name"],
+      "minSeconds": 30
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_A1",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "FOUNDATION",
+    "title": "Where are you from",
+    "prompt": "Speak in Icelandic: say where you are from and where you live.",
+    "payload": {
+      "stimulus": "Segðu hvaðan þú ert og hvar þú býrð.",
+      "criteria": ["States country of origin", "States place of living"],
+      "minSeconds": 30
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_A1",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "FOUNDATION",
+    "title": "Count to ten",
+    "prompt": "Speak in Icelandic: count aloud from one to ten.",
+    "payload": {
+      "stimulus": "Teldu upphátt frá einum upp í tíu.",
+      "criteria": ["Says numbers in order", "Pronounces numbers clearly"],
+      "minSeconds": 30
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_A1",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "FOUNDATION",
+    "title": "Your family",
+    "prompt": "Speak in Icelandic: describe your family in simple sentences.",
+    "payload": {
+      "stimulus": "Segðu frá fjölskyldunni þinni: hverjir eru í henni?",
+      "criteria": ["Names at least two family members", "Uses simple sentences"],
+      "minSeconds": 30
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_A1",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "FOUNDATION",
+    "title": "The days of the week",
+    "prompt": "Speak in Icelandic: say the days of the week.",
+    "payload": {
+      "stimulus": "Segðu dagana í vikunni á íslensku.",
+      "criteria": ["Lists days in order", "Pronounces days clearly"],
+      "minSeconds": 30
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_A1",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "FOUNDATION",
+    "title": "What you eat",
+    "prompt": "Speak in Icelandic: say what you eat and drink for breakfast.",
+    "payload": {
+      "stimulus": "Segðu hvað þú borðar og drekkur á morgnana.",
+      "criteria": ["Names a food and a drink", "Uses borða or drekka"],
+      "minSeconds": 30
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_A1",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "FOUNDATION",
+    "title": "Your age",
+    "prompt": "Speak in Icelandic: say how old you are.",
+    "payload": {
+      "stimulus": "Segðu hvað þú ert gamall eða gömul.",
+      "criteria": ["States age with a number", "Uses ára correctly"],
+      "minSeconds": 30
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_A1",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "FOUNDATION",
+    "title": "Colours around you",
+    "prompt": "Speak in Icelandic: name some colours you can see.",
+    "payload": {
+      "stimulus": "Segðu nokkra liti sem þú sérð í kringum þig.",
+      "criteria": ["Names at least two colours", "Links a colour to an object"],
+      "minSeconds": 30
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_A1",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "FOUNDATION",
+    "title": "Your home",
+    "prompt": "Speak in Icelandic: describe where you live.",
+    "payload": {
+      "stimulus": "Segðu hvar þú býrð og lýstu heimilinu í stuttu máli.",
+      "criteria": ["States the town or city", "Adds one detail about the home"],
+      "minSeconds": 30
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_A1",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "FOUNDATION",
+    "title": "Order a drink",
+    "prompt": "Speak in Icelandic: order a drink at a cafe.",
+    "payload": {
+      "stimulus": "Pantaðu drykk á kaffihúsi og segðu takk.",
+      "criteria": ["Names a drink", "Uses a polite word such as takk"],
+      "minSeconds": 30
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_A1",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "FOUNDATION",
+    "title": "Your favourite food",
+    "prompt": "Speak in Icelandic: say what food you like.",
+    "payload": {
+      "stimulus": "Segðu hvaða matur þér finnst góður.",
+      "criteria": ["Names at least one food", "Uses mér finnst"],
+      "minSeconds": 30
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_A1",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "FOUNDATION",
+    "title": "The weather today",
+    "prompt": "Speak in Icelandic: say what the weather is like today.",
+    "payload": {
+      "stimulus": "Segðu hvernig veðrið er í dag.",
+      "criteria": ["Describes the weather with one word", "Uses í dag"],
+      "minSeconds": 30
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_A1",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "FOUNDATION",
+    "title": "Say goodbye",
+    "prompt": "Speak in Icelandic: end a conversation and say goodbye.",
+    "payload": {
+      "stimulus": "Kveddu og segðu bless á kurteisan hátt.",
+      "criteria": ["Uses a closing phrase", "Sounds friendly and clear"],
+      "minSeconds": 30
+    },
+    "answer": null,
+    "maxPoints": 10
+  }
+]

@@ -1,0 +1,317 @@
+[
+  {
+    "track": "CITIZENSHIP",
+    "exam": "RIKISBORGARAPROF_A2",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "FOUNDATION",
+    "title": "A note to a neighbour",
+    "prompt": "Write a short note to your neighbour.",
+    "payload": {
+      "stimulus": "Nágranni þinn ætlar að vökva blómin þín meðan þú ert í fríi. Skrifaðu stutta orðsendingu þar sem þú þakkar honum og segir hvar lykillinn er.",
+      "criteria": [
+        "Uses a friendly greeting and closing",
+        "Says thank you clearly",
+        "Explains where the key is",
+        "Simple present and future tense used correctly"
+      ],
+      "charBand": { "min": 60, "max": 200 }
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CITIZENSHIP",
+    "exam": "RIKISBORGARAPROF_A2",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "FOUNDATION",
+    "title": "My daily routine",
+    "prompt": "Describe an ordinary weekday.",
+    "payload": {
+      "stimulus": "Lýstu venjulegum virkum degi hjá þér. Hvenær vaknar þú, hvað borðar þú í morgunmat og hvernig ferð þú í vinnuna eða skólann?",
+      "criteria": [
+        "Mentions times of day",
+        "Describes at least three daily activities",
+        "Uses everyday vocabulary about food and transport",
+        "Sentences are connected with simple linking words"
+      ],
+      "charBand": { "min": 60, "max": 200 }
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CITIZENSHIP",
+    "exam": "RIKISBORGARAPROF_A2",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "CORE",
+    "title": "Email to a doctor's office",
+    "prompt": "Write an email to book an appointment.",
+    "payload": {
+      "stimulus": "Þú þarft að panta tíma hjá heimilislækni. Skrifaðu tölvupóst þar sem þú kynnir þig, segir frá einkennum þínum og spyrð um lausan tíma í næstu viku.",
+      "criteria": [
+        "Polite opening and sign-off",
+        "States the reason for the appointment",
+        "Asks about available times",
+        "Gives contact information"
+      ],
+      "charBand": { "min": 60, "max": 200 }
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CITIZENSHIP",
+    "exam": "RIKISBORGARAPROF_A2",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "CORE",
+    "title": "Shopping list message",
+    "prompt": "Send a message asking for groceries.",
+    "payload": {
+      "stimulus": "Þú ert heima með kvef og biður fjölskyldumeðlim að versla í matinn. Skrifaðu skilaboð með innkaupalista og segðu hvað þið þurfið í kvöldmatinn.",
+      "criteria": [
+        "Lists several grocery items clearly",
+        "Explains what the meal will be",
+        "Uses correct noun forms for food words",
+        "Message is polite and easy to follow"
+      ],
+      "charBand": { "min": 60, "max": 200 }
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CITIZENSHIP",
+    "exam": "RIKISBORGARAPROF_A2",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "CORE",
+    "title": "Describe my home",
+    "prompt": "Write about where you live.",
+    "payload": {
+      "stimulus": "Lýstu heimilinu þínu. Hvað eru mörg herbergi, hvaða herbergi líkar þér best við og af hverju? Er stutt í búð eða strætó?",
+      "criteria": [
+        "Describes rooms of the home",
+        "Gives an opinion with a reason",
+        "Mentions the neighbourhood or nearby services",
+        "Uses adjectives to describe places"
+      ],
+      "charBand": { "min": 60, "max": 200 }
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CITIZENSHIP",
+    "exam": "RIKISBORGARAPROF_A2",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "STRETCH",
+    "title": "Reply to a party invitation",
+    "prompt": "Reply to an invitation and suggest bringing something.",
+    "payload": {
+      "stimulus": "Vinur þinn bauð þér í afmæli um helgina. Skrifaðu svar þar sem þú þiggur boðið, spyrð hvað þú átt að taka með og segir hvenær þú kemur.",
+      "criteria": [
+        "Accepts the invitation clearly",
+        "Asks a relevant question",
+        "Says what time you will arrive",
+        "Tone is warm and appropriate"
+      ],
+      "charBand": { "min": 60, "max": 200 }
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CITIZENSHIP",
+    "exam": "RIKISBORGARAPROF_A2",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "STRETCH",
+    "title": "A short letter about the weather and plans",
+    "prompt": "Write a short letter about your weekend plans.",
+    "payload": {
+      "stimulus": "Skrifaðu stutt bréf til vinar í öðru landi. Segðu frá veðrinu á Íslandi þessa dagana og hvað þú ætlar að gera um helgina.",
+      "criteria": [
+        "Describes the weather with everyday words",
+        "Explains weekend plans in the future tense",
+        "Includes a friendly greeting and closing",
+        "Sentences are varied and connected"
+      ],
+      "charBand": { "min": 60, "max": 200 }
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CITIZENSHIP",
+    "exam": "RIKISBORGARAPROF_A2",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "FOUNDATION",
+    "title": "Introduce yourself",
+    "prompt": "Introduce yourself to the examiner.",
+    "payload": {
+      "stimulus": "Kynntu þig. Segðu hvað þú heitir, hvaðan þú ert, hvar þú býrð núna og hvað þú starfar við eða lærir.",
+      "criteria": [
+        "Gives name and origin clearly",
+        "Says where they live now",
+        "Mentions work or studies",
+        "Speaks in full, simple sentences"
+      ],
+      "minSeconds": 60
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CITIZENSHIP",
+    "exam": "RIKISBORGARAPROF_A2",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "FOUNDATION",
+    "title": "Talk about your family",
+    "prompt": "Describe your family.",
+    "payload": {
+      "stimulus": "Segðu frá fjölskyldunni þinni. Hverjir eru í henni, hvað gera þau og hvað gerið þið stundum saman?",
+      "criteria": [
+        "Names family members and relationships",
+        "Describes what they do",
+        "Mentions a shared activity",
+        "Uses simple connectors between ideas"
+      ],
+      "minSeconds": 60
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CITIZENSHIP",
+    "exam": "RIKISBORGARAPROF_A2",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "CORE",
+    "title": "Asking for directions",
+    "prompt": "Ask a stranger for directions.",
+    "payload": {
+      "stimulus": "Þú ert í miðbænum og finnur ekki sundlaugina. Spurðu vegfaranda til vegar og útskýrðu hvert þú vilt fara.",
+      "criteria": [
+        "Uses a polite way to start the question",
+        "Explains the destination clearly",
+        "Uses direction and place words",
+        "Thanks the person at the end"
+      ],
+      "minSeconds": 60
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CITIZENSHIP",
+    "exam": "RIKISBORGARAPROF_A2",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "CORE",
+    "title": "At the supermarket",
+    "prompt": "Ask a shop assistant for help.",
+    "payload": {
+      "stimulus": "Þú ert í matvöruversluninni og finnur ekki mjólkina. Talaðu við starfsmann, spurðu hvar varan er og hvað hún kostar.",
+      "criteria": [
+        "Asks where a product is located",
+        "Asks about the price",
+        "Uses polite phrases",
+        "Understands and responds naturally"
+      ],
+      "minSeconds": 60
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CITIZENSHIP",
+    "exam": "RIKISBORGARAPROF_A2",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "CORE",
+    "title": "My free time",
+    "prompt": "Talk about your hobbies.",
+    "payload": {
+      "stimulus": "Segðu frá því hvað þú gerir í frítímanum. Hvaða áhugamál hefur þú, hversu oft stundar þú þau og með hverjum?",
+      "criteria": [
+        "Names one or more hobbies",
+        "Says how often they do them",
+        "Explains why they enjoy the activity",
+        "Uses time expressions correctly"
+      ],
+      "minSeconds": 60
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CITIZENSHIP",
+    "exam": "RIKISBORGARAPROF_A2",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "CORE",
+    "title": "A phone call to work",
+    "prompt": "Call your workplace to report you are sick.",
+    "payload": {
+      "stimulus": "Þú ert veik eða veikur og kemst ekki í vinnuna í dag. Hringdu í yfirmann þinn, útskýrðu ástandið og spurðu hvað þú átt að gera.",
+      "criteria": [
+        "Explains the reason for being absent",
+        "Uses polite telephone language",
+        "Asks a follow-up question",
+        "Keeps the message clear and short"
+      ],
+      "minSeconds": 60
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CITIZENSHIP",
+    "exam": "RIKISBORGARAPROF_A2",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "STRETCH",
+    "title": "Describe your town",
+    "prompt": "Describe the place where you live.",
+    "payload": {
+      "stimulus": "Lýstu bænum eða hverfinu þar sem þú býrð. Hvað er hægt að gera þar, hvað líkar þér vel og hvað mætti vera betra?",
+      "criteria": [
+        "Describes local places and services",
+        "Gives a positive opinion with a reason",
+        "Mentions something that could improve",
+        "Speaks fluently with varied vocabulary"
+      ],
+      "minSeconds": 60
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CITIZENSHIP",
+    "exam": "RIKISBORGARAPROF_A2",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "STRETCH",
+    "title": "A plan for the weekend",
+    "prompt": "Talk about your plans for the coming weekend.",
+    "payload": {
+      "stimulus": "Segðu frá því hvað þú ætlar að gera um næstu helgi. Hvað ætlar þú að gera, hvenær og með hverjum, og af hverju hlakkar þú til?",
+      "criteria": [
+        "Describes plans using the future tense",
+        "Gives times and people involved",
+        "Explains feelings about the plans",
+        "Organises ideas in a logical order"
+      ],
+      "minSeconds": 60
+    },
+    "answer": null,
+    "maxPoints": 10
+  }
+]

@@ -43,6 +43,14 @@ const BUNDLE_FILES = [
   "cefr-b1.json",
   "cefr-b2.json",
   "cefr-c1.json",
+  // ≥15/skill top-up supplements (Writing/Speaking on the exams; full ladder on CEFR)
+  "citizenship-productive-2.json",
+  "university-productive-2.json",
+  "cefr-a1-2.json",
+  "cefr-a2-2.json",
+  "cefr-b1-2.json",
+  "cefr-b2-2.json",
+  "cefr-c1-2.json",
 ];
 
 const ITEMS_DIR = path.join(process.cwd(), "src", "data", "items");

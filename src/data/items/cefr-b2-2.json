@@ -1,0 +1,799 @@
+[
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B2",
+    "skill": "READING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "CORE",
+    "title": "Remote work debate",
+    "prompt": "Read the passage and choose the best answer.",
+    "payload": {
+      "passage": "Fjarvinna hefur breytt vinnumarkaðnum meira en margir bjuggust við. Sumir stjórnendur telja að framleiðni hafi aukist þegar starfsfólk fékk að vinna heiman frá sér, á meðan aðrir óttast að tengslin milli samstarfsmanna veikist. Rannsóknir benda til þess að niðurstaðan sé ekki einföld og fari eftir eðli starfsins. Því virðist skynsamlegt að velja blandað fyrirkomulag þar sem fólk vinnur bæði á skrifstofunni og heima.",
+      "question": "Hver er meginniðurstaða textans?",
+      "options": [
+        "Fjarvinna hentar öllum störfum jafn vel.",
+        "Blandað fyrirkomulag virðist skynsamlegast.",
+        "Framleiðni minnkar alltaf við fjarvinnu.",
+        "Stjórnendur eru sammála um kosti fjarvinnu."
+      ]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 1 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B2",
+    "skill": "READING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "CORE",
+    "title": "Local news value",
+    "prompt": "Read the passage and choose the best answer.",
+    "payload": {
+      "passage": "Þegar staðbundnir fjölmiðlar leggja upp laupana missa samfélög mikilvægan vettvang fyrir umræðu um málefni sem varða þau beint. Stórir landsmiðlar fjalla sjaldan um deilur í litlum sveitarfélögum eða ákvarðanir bæjarstjórna. Án slíkrar umfjöllunar getur eftirlit með valdhöfum orðið veikara og kjósendur síður upplýstir. Sumir telja að samfélagsmiðlar fylli tómarúmið, en þar er erfitt að greina áreiðanlegar upplýsingar frá orðrómi.",
+      "question": "Hvaða áhyggjur eru settar fram í textanum?",
+      "options": [
+        "Að landsmiðlar fjalli of mikið um sveitarfélög.",
+        "Að samfélagsmiðlar séu alltaf áreiðanlegir.",
+        "Að eftirlit með valdhöfum geti veikst án staðbundinna miðla.",
+        "Að kjósendur hafi of miklar upplýsingar."
+      ]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 2 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B2",
+    "skill": "READING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "STRETCH",
+    "title": "Tourism pressure",
+    "prompt": "Read the passage and choose the best answer.",
+    "payload": {
+      "passage": "Fjölgun ferðamanna hefur fært þjóðarbúinu miklar tekjur en jafnframt skapað álag á náttúru og innviði. Vinsælir staðir slitna hraðar en áður og íbúar á sumum svæðum kvarta undan hækkandi húsnæðisverði. Stjórnvöld standa frammi fyrir þeirri spurningu hvort takmarka eigi aðgang að viðkvæmum stöðum eða treysta á að gjaldtaka dreifi álaginu. Hvorug leiðin er gallalaus og andstæð sjónarmið takast á í umræðunni.",
+      "question": "Hvað gefur textinn til kynna um lausnirnar tvær?",
+      "options": [
+        "Báðar hafa galla og eru umdeildar.",
+        "Gjaldtaka leysir vandann fullkomlega.",
+        "Takmörkun aðgangs er óþörf.",
+        "Íbúar styðja allir hækkandi húsnæðisverð."
+      ]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 0 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B2",
+    "skill": "READING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "CORE",
+    "title": "Volunteering benefits",
+    "prompt": "Read the passage and choose the best answer.",
+    "payload": {
+      "passage": "Sjálfboðaliðastarf er oft talið gagnast fyrst og fremst þeim sem njóta þjónustunnar. Rannsóknir sýna hins vegar að sjálfboðaliðar sjálfir upplifa gjarnan aukna vellíðan, víðtækara tengslanet og nýja færni sem nýtist á vinnumarkaði. Þótt starfið sé ólaunað getur það því skilað margvíslegum óbeinum ávinningi. Þetta gæti skýrt hvers vegna eftirspurn eftir sjálfboðaliðaverkefnum eykst þrátt fyrir annríki í daglegu lífi.",
+      "question": "Hvaða atriði dregur textinn fram?",
+      "options": [
+        "Sjálfboðaliðastarf gagnast eingöngu öðrum.",
+        "Sjálfboðaliðar geta sjálfir haft óbeinan ávinning af starfinu.",
+        "Sjálfboðaliðastarf dregur úr færni fólks.",
+        "Eftirspurn eftir sjálfboðaliðastarfi fer minnkandi."
+      ]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 1 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B2",
+    "skill": "READING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "STRETCH",
+    "title": "Language and identity",
+    "prompt": "Read the passage and choose the best answer.",
+    "payload": {
+      "passage": "Íslensk tunga stendur frammi fyrir áskorunum í heimi þar sem enska er ríkjandi í tækni og afþreyingu. Sumir óttast að börn noti íslensku sífellt minna og að orðaforðinn rýrni. Aðrir benda á að tungumál hafi alltaf tekið breytingum og að aðlögun sé ekki það sama og hnignun. Umræðan snýst því ekki aðeins um málfræði heldur einnig um sjálfsmynd og menningarlegt öryggi þjóðarinnar.",
+      "question": "Hvernig lýsir textinn umræðunni um íslensku?",
+      "options": [
+        "Sem tæknilegri deilu án tengsla við menningu.",
+        "Sem umræðu sem snertir bæði tungumál og sjálfsmynd.",
+        "Sem óþarfa áhyggjum sem enginn tekur alvarlega.",
+        "Sem sönnun þess að tungumálið sé þegar horfið."
+      ]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 1 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B2",
+    "skill": "READING",
+    "taskType": "TRUE_FALSE",
+    "difficulty": "CORE",
+    "title": "Recycling claim",
+    "prompt": "Decide whether the statement is true (Rétt) or false (Rangt).",
+    "payload": {
+      "passage": "Þótt endurvinnsla sé mikilvæg lausn á úrgangsvanda telja sérfræðingar að hún ein og sér dugi ekki. Þeir leggja áherslu á að draga þurfi úr neyslu og hönnun umbúða frá upphafi. Endurvinnsla verður þá síðasta skrefið en ekki eina úrræðið. Þessi nálgun krefst breytinga bæði hjá framleiðendum og neytendum.",
+      "statement": "Samkvæmt textanum er endurvinnsla ein og sér nægileg lausn á úrgangsvandanum.",
+      "options": ["Rétt", "Rangt"]
+    },
+    "answer": { "type": "TRUE_FALSE", "correctIndex": 1 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B2",
+    "skill": "READING",
+    "taskType": "TRUE_FALSE",
+    "difficulty": "CORE",
+    "title": "Four-day week",
+    "prompt": "Decide whether the statement is true (Rétt) or false (Rangt).",
+    "payload": {
+      "passage": "Tilraunir með fjögurra daga vinnuviku hafa vakið athygli víða um heim. Í mörgum tilfellum hélst framleiðni óbreytt eða jókst, á meðan starfsfólk sagðist minna þreytt. Þó vara sumir við því að niðurstöðurnar eigi ekki endilega við um allar atvinnugreinar. Þjónustustörf með fastan opnunartíma geta til dæmis reynst erfiðari í framkvæmd.",
+      "statement": "Textinn segir að fjögurra daga vinnuvika henti jafn vel öllum atvinnugreinum.",
+      "options": ["Rétt", "Rangt"]
+    },
+    "answer": { "type": "TRUE_FALSE", "correctIndex": 1 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B2",
+    "skill": "READING",
+    "taskType": "MATCHING",
+    "difficulty": "CORE",
+    "title": "Match terms to definitions",
+    "prompt": "Match each term on the left with its correct description on the right.",
+    "payload": {
+      "passage": "Í umræðu um umhverfismál koma oft fyrir hugtök sem rugla má saman. Hér eru nokkur þeirra skýrð stuttlega.",
+      "instructions": "Tengdu hvert hugtak við rétta skýringu.",
+      "left": ["Kolefnisspor", "Endurnýjanleg orka", "Hringrásarhagkerfi"],
+      "right": [
+        "Orka sem endurnýjast, svo sem vatnsafl og vindur.",
+        "Efnahagskerfi þar sem efni eru nýtt aftur og aftur.",
+        "Heildarlosun gróðurhúsalofttegunda af völdum athafna."
+      ]
+    },
+    "answer": { "type": "MATCHING", "pairs": [[0, 2], [1, 0], [2, 1]] },
+    "maxPoints": 3
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B2",
+    "skill": "READING",
+    "taskType": "MATCHING",
+    "difficulty": "STRETCH",
+    "title": "Match roles to tasks",
+    "prompt": "Match each role on the left with its main task on the right.",
+    "payload": {
+      "passage": "Á ritstjórn fjölmiðils gegna ólíkir starfsmenn ólíkum hlutverkum sem saman tryggja vandaða umfjöllun.",
+      "instructions": "Tengdu hvert hlutverk við það verkefni sem á best við.",
+      "left": ["Blaðamaður", "Prófarkalesari", "Ljósmyndari"],
+      "right": [
+        "Yfirfer texta og leiðréttir villur fyrir birtingu.",
+        "Aflar upplýsinga og skrifar fréttir.",
+        "Tekur myndir sem fylgja umfjölluninni."
+      ]
+    },
+    "answer": { "type": "MATCHING", "pairs": [[0, 1], [1, 0], [2, 2]] },
+    "maxPoints": 3
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B2",
+    "skill": "READING",
+    "taskType": "CLOZE",
+    "difficulty": "STRETCH",
+    "title": "Cultural funding cloze",
+    "prompt": "Choose the correct word for each gap.",
+    "payload": {
+      "passage": "Opinber {{1}} til lista og menningar er sífellt umdeild. Þeir sem styðja hana telja að án hennar myndi fjölbreytt menningarlíf {{2}}, enda skila markaðsöflin ekki alltaf því sem samfélagið metur mest.",
+      "gaps": [
+        { "id": 1, "options": ["fjárveiting", "íþrótt", "veðurspá"] },
+        { "id": 2, "options": ["blómstra", "veikjast", "hækka"] }
+      ]
+    },
+    "answer": { "type": "CLOZE", "correct": [{ "id": 1, "index": 0 }, { "id": 2, "index": 1 }] },
+    "maxPoints": 2
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B2",
+    "skill": "LISTENING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "CORE",
+    "title": "Radio: housing panel",
+    "prompt": "Read the transcript and choose the best answer.",
+    "payload": {
+      "transcript": "Í þættinum í dag ræðum við húsnæðismál ungs fólks. Gestur okkar bendir á að leiguverð hafi hækkað hraðar en laun undanfarin ár, sem geri mörgum erfitt að safna fyrir eigin íbúð. Hann telur að fjölga þurfi litlum, hagkvæmum íbúðum frekar en að treysta eingöngu á að markaðurinn leysi vandann af sjálfu sér.",
+      "question": "Hvað leggur gesturinn til?",
+      "options": [
+        "Að hækka leiguverð enn frekar.",
+        "Að byggja fleiri litlar og hagkvæmar íbúðir.",
+        "Að treysta eingöngu á markaðinn.",
+        "Að lækka laun ungs fólks."
+      ]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 1 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B2",
+    "skill": "LISTENING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "CORE",
+    "title": "Lecture: sleep habits",
+    "prompt": "Read the transcript and choose the best answer.",
+    "payload": {
+      "transcript": "Í fyrirlestrinum fjallaði sérfræðingurinn um svefnvenjur. Hún sagði að skjánotkun rétt fyrir svefn geti seinkað því að fólk sofni, því bláa ljósið hafi áhrif á líkamsklukkuna. Ráðið sem hún gaf var einfalt: að leggja símann frá sér að minnsta kosti klukkustund fyrir háttatíma og velja frekar rólega iðju.",
+      "question": "Hvaða ráð gaf sérfræðingurinn?",
+      "options": [
+        "Að nota símann meira fyrir svefn.",
+        "Að sofna strax eftir skjánotkun.",
+        "Að leggja símann frá sér um klukkustund fyrir svefn.",
+        "Að forðast rólega iðju á kvöldin."
+      ]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 2 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B2",
+    "skill": "LISTENING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "STRETCH",
+    "title": "Interview: small business",
+    "prompt": "Read the transcript and choose the best answer.",
+    "payload": {
+      "transcript": "Í viðtalinu lýsti eigandi lítillar bókabúðar því hvernig hún hélt rekstrinum gangandi þrátt fyrir harða samkeppni við netverslanir. Hún sagði að lykillinn hefði verið að bjóða upp á viðburði, upplestra og persónulega þjónustu sem stórar verslanir gætu ekki keppt við. Þannig varð búðin að nokkurs konar samkomustað í hverfinu fremur en aðeins sölustað.",
+      "question": "Hvernig tókst eigandanum að halda rekstrinum gangandi?",
+      "options": [
+        "Með því að lækka verð undir netverslanir.",
+        "Með viðburðum og persónulegri þjónustu.",
+        "Með því að loka búðinni oftar.",
+        "Með því að hætta að selja bækur."
+      ]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 1 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B2",
+    "skill": "LISTENING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "CORE",
+    "title": "Announcement: transport change",
+    "prompt": "Read the transcript and choose the best answer.",
+    "payload": {
+      "transcript": "Athugið að frá og með næstu viku breytist leið strætisvagns númer fjórtán vegna framkvæmda í miðbænum. Vagninn mun ekki stoppa við Ráðhúsið heldur við bókasafnið í staðinn. Farþegar sem þurfa að komast í miðbæinn eru beðnir um að nota leið sex, sem gengur óbreytt. Breytingin gildir í um það bil þrjár vikur.",
+      "question": "Hvað eiga farþegar að gera til að komast í miðbæinn?",
+      "options": [
+        "Nota leið fjórtán eins og áður.",
+        "Bíða við Ráðhúsið.",
+        "Nota leið sex.",
+        "Ganga í þrjár vikur."
+      ]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 2 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B2",
+    "skill": "LISTENING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "STRETCH",
+    "title": "Debate: screen time in schools",
+    "prompt": "Read the transcript and choose the best answer.",
+    "payload": {
+      "transcript": "Í umræðuþættinum tókust tveir kennarar á um notkun spjaldtölva í skólum. Annar taldi að tæknin gerði kennsluna fjölbreyttari og undirbyggi nemendur fyrir framtíðina. Hinn hafði áhyggjur af því að stöðug skjánotkun drægi úr einbeitingu og samskiptum milli nemenda. Bæði voru þó sammála um að tækin ættu að vera verkfæri en ekki markmið í sjálfu sér.",
+      "question": "Um hvað voru kennararnir tveir sammála?",
+      "options": [
+        "Að banna ætti alla tækni í skólum.",
+        "Að tækin ættu að vera verkfæri en ekki markmið.",
+        "Að skjánotkun bæti alltaf einbeitingu.",
+        "Að spjaldtölvur ættu að koma í stað kennara."
+      ]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 1 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B2",
+    "skill": "LISTENING",
+    "taskType": "MCQ_SINGLE",
+    "difficulty": "CORE",
+    "title": "Podcast: food waste",
+    "prompt": "Read the transcript and choose the best answer.",
+    "payload": {
+      "transcript": "Í hlaðvarpinu ræddi gestur um matarsóun á heimilum. Hún sagði að stór hluti þess matar sem hent er sé enn fullkomlega ætur og að oft sé vandinn skipulagsleysi frekar en skortur á vilja. Einfalt ráð sem hún nefndi var að skrifa innkaupalista áður en farið er í búð og skipuleggja máltíðir vikunnar fyrir fram.",
+      "question": "Hvað telur gesturinn vera aðalorsök matarsóunar á heimilum?",
+      "options": [
+        "Að fólk vilji henda mat.",
+        "Skipulagsleysi frekar en skort á vilja.",
+        "Að matur sé of dýr.",
+        "Að búðir séu of langt í burtu."
+      ]
+    },
+    "answer": { "type": "MCQ_SINGLE", "correctIndex": 1 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B2",
+    "skill": "LISTENING",
+    "taskType": "TRUE_FALSE",
+    "difficulty": "CORE",
+    "title": "Weather warning",
+    "prompt": "Decide whether the statement is true (Rétt) or false (Rangt).",
+    "payload": {
+      "transcript": "Veðurstofan hefur gefið út gula viðvörun fyrir suðausturland vegna mikillar rigningar og hvassviðris á morgun. Búist er við að vegir geti orðið hálir og skyggni skert. Vegfarendur eru hvattir til að aka varlega og fylgjast með uppfærðum spám. Viðvörunin tekur gildi klukkan sex að morgni.",
+      "statement": "Viðvörunin gildir fyrir suðausturland.",
+      "options": ["Rétt", "Rangt"]
+    },
+    "answer": { "type": "TRUE_FALSE", "correctIndex": 0 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B2",
+    "skill": "LISTENING",
+    "taskType": "TRUE_FALSE",
+    "difficulty": "CORE",
+    "title": "Museum tour info",
+    "prompt": "Decide whether the statement is true (Rétt) or false (Rangt).",
+    "payload": {
+      "transcript": "Velkomin á safnið. Leiðsögnin í dag hefst klukkan tvö og tekur um það bil fjörutíu og fimm mínútur. Athugið að ljósmyndun án flass er leyfð á neðri hæðinni en bönnuð í sérsýningunni á efri hæð. Í lok leiðsagnarinnar gefst tími fyrir spurningar.",
+      "statement": "Ljósmyndun er leyfð í sérsýningunni á efri hæð.",
+      "options": ["Rétt", "Rangt"]
+    },
+    "answer": { "type": "TRUE_FALSE", "correctIndex": 1 },
+    "maxPoints": 1
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B2",
+    "skill": "LISTENING",
+    "taskType": "MATCHING",
+    "difficulty": "CORE",
+    "title": "Match speakers to opinions",
+    "prompt": "Match each speaker on the left with the opinion they express on the right.",
+    "payload": {
+      "transcript": "Þrír íbúar tjáðu sig um nýja göngugötu í bænum. Anna sagðist ánægð því nú væri öruggara fyrir börn að leika sér. Björn hafði áhyggjur af því að verslanir misstu viðskiptavini sem kæmu akandi. Dísa benti á að loftgæði hefðu batnað eftir að bílum fækkaði.",
+      "instructions": "Tengdu hvern íbúa við skoðun hans.",
+      "left": ["Anna", "Björn", "Dísa"],
+      "right": [
+        "Óttast að verslanir missi viðskiptavini.",
+        "Telur öryggi barna hafa aukist.",
+        "Bendir á betri loftgæði."
+      ]
+    },
+    "answer": { "type": "MATCHING", "pairs": [[0, 1], [1, 0], [2, 2]] },
+    "maxPoints": 3
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B2",
+    "skill": "LISTENING",
+    "taskType": "MATCHING",
+    "difficulty": "STRETCH",
+    "title": "Match days to events",
+    "prompt": "Match each day on the left with the correct event on the right.",
+    "payload": {
+      "transcript": "Hér er dagskrá menningarhátíðarinnar. Á föstudaginn verður opnunartónleikar á torginu. Á laugardaginn stendur yfir handverksmarkaður allan daginn. Á sunnudaginn lýkur hátíðinni með fjölskyldudagskrá og leiksýningu fyrir börn.",
+      "instructions": "Tengdu hvern dag við réttan viðburð.",
+      "left": ["Föstudagur", "Laugardagur", "Sunnudagur"],
+      "right": [
+        "Handverksmarkaður allan daginn.",
+        "Opnunartónleikar á torginu.",
+        "Fjölskyldudagskrá og leiksýning."
+      ]
+    },
+    "answer": { "type": "MATCHING", "pairs": [[0, 1], [1, 0], [2, 2]] },
+    "maxPoints": 3
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B2",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "CORE",
+    "title": "Formal complaint email",
+    "prompt": "Write a formal email in Icelandic.",
+    "payload": {
+      "stimulus": "Skrifaðu formlegan tölvupóst til þjónustuvers netverslunar þar sem þú kvartar yfir vöru sem kom skemmd og biður um úrlausn.",
+      "criteria": ["Formlegt orðalag og kurteisi", "Skýr lýsing á vandanum", "Skýr krafa um úrbætur", "Rétt uppbygging tölvupósts"],
+      "charBand": { "min": 120, "max": 250 }
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B2",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "CORE",
+    "title": "Opinion: public transport",
+    "prompt": "Write an opinion text in Icelandic.",
+    "payload": {
+      "stimulus": "Skrifaðu álitsgrein um hvort auka eigi fjárveitingar til almenningssamgangna í þínu samfélagi. Rökstyddu afstöðu þína.",
+      "criteria": ["Skýr afstaða", "Að minnsta kosti tvö rök", "Skipuleg efnisgrein", "Fjölbreyttur orðaforði"],
+      "charBand": { "min": 120, "max": 250 }
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B2",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "STRETCH",
+    "title": "Argue: social media age limit",
+    "prompt": "Write an argumentative text in Icelandic.",
+    "payload": {
+      "stimulus": "Sumir telja að setja eigi aldurstakmark á samfélagsmiðla. Færðu rök með eða á móti þessari hugmynd.",
+      "criteria": ["Skýr afstaða", "Rökstuðningur með dæmum", "Tenging milli málsgreina", "Málfræðileg fjölbreytni"],
+      "charBand": { "min": 120, "max": 250 }
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B2",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "CORE",
+    "title": "Email to employer",
+    "prompt": "Write a formal email in Icelandic.",
+    "payload": {
+      "stimulus": "Skrifaðu formlegan tölvupóst til yfirmanns þar sem þú óskar eftir sveigjanlegri vinnutíma og útskýrir ástæðurnar.",
+      "criteria": ["Formlegt og kurteist orðalag", "Skýr beiðni", "Sannfærandi rök", "Rétt uppbygging"],
+      "charBand": { "min": 120, "max": 250 }
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B2",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "STRETCH",
+    "title": "Essay: remote work future",
+    "prompt": "Write an opinion essay in Icelandic.",
+    "payload": {
+      "stimulus": "Ritaðu ritgerð um hvort fjarvinna verði ríkjandi vinnufyrirkomulag í framtíðinni. Ræddu kosti og galla.",
+      "criteria": ["Kynning á efninu", "Umfjöllun um kosti og galla", "Rökstudd niðurstaða", "Skýr uppbygging"],
+      "charBand": { "min": 120, "max": 250 }
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B2",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "CORE",
+    "title": "Opinion: local culture funding",
+    "prompt": "Write an opinion text in Icelandic.",
+    "payload": {
+      "stimulus": "Skrifaðu grein um hvort sveitarfélög eigi að styðja fjárhagslega við menningarviðburði. Rökstyddu skoðun þína.",
+      "criteria": ["Skýr afstaða", "Tvö eða fleiri rök", "Dæmi til stuðnings", "Samhengi í texta"],
+      "charBand": { "min": 120, "max": 250 }
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B2",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "STRETCH",
+    "title": "Argue: tourism limits",
+    "prompt": "Write an argumentative text in Icelandic.",
+    "payload": {
+      "stimulus": "Ætti að takmarka fjölda ferðamanna á viðkvæmum náttúrustöðum? Færðu rök fyrir afstöðu þinni.",
+      "criteria": ["Skýr afstaða", "Rök og mótrök", "Sannfærandi niðurstaða", "Fjölbreyttur orðaforði"],
+      "charBand": { "min": 120, "max": 250 }
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B2",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "CORE",
+    "title": "Letter to newspaper",
+    "prompt": "Write a formal letter to the editor in Icelandic.",
+    "payload": {
+      "stimulus": "Skrifaðu aðsent bréf til dagblaðs þar sem þú lýsir áhyggjum af minnkandi grænum svæðum í borginni og leggur til lausnir.",
+      "criteria": ["Formlegt orðalag", "Skýr framsetning vandans", "Raunhæfar tillögur", "Sannfærandi tónn"],
+      "charBand": { "min": 120, "max": 250 }
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B2",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "CORE",
+    "title": "Opinion: language protection",
+    "prompt": "Write an opinion text in Icelandic.",
+    "payload": {
+      "stimulus": "Skrifaðu grein um hvernig hægt sé að styrkja stöðu íslenskunnar meðal ungs fólks. Settu fram afstöðu og hugmyndir.",
+      "criteria": ["Skýr afstaða", "Hagnýtar hugmyndir", "Rökstuðningur", "Samhengi og flæði"],
+      "charBand": { "min": 120, "max": 250 }
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B2",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "STRETCH",
+    "title": "Essay: technology and society",
+    "prompt": "Write an opinion essay in Icelandic.",
+    "payload": {
+      "stimulus": "Ritaðu ritgerð um hvort tækniframfarir hafi haft jákvæð eða neikvæð áhrif á samskipti fólks. Rökstyddu.",
+      "criteria": ["Skýr afstaða", "Umfjöllun um báðar hliðar", "Rökstudd niðurstaða", "Málfræðileg nákvæmni"],
+      "charBand": { "min": 120, "max": 250 }
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B2",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "CORE",
+    "title": "Email: event proposal",
+    "prompt": "Write a semi-formal email in Icelandic.",
+    "payload": {
+      "stimulus": "Skrifaðu tölvupóst til félagsmiðstöðvar þar sem þú leggur til nýjan viðburð fyrir ungt fólk og útskýrir hvers vegna hann myndi gagnast samfélaginu.",
+      "criteria": ["Skýr tillaga", "Rök fyrir gagnsemi", "Kurteist orðalag", "Rétt uppbygging pósts"],
+      "charBand": { "min": 120, "max": 250 }
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B2",
+    "skill": "WRITING",
+    "taskType": "WRITING_PROMPT",
+    "difficulty": "STRETCH",
+    "title": "Argue: four-day week",
+    "prompt": "Write an argumentative text in Icelandic.",
+    "payload": {
+      "stimulus": "Ætti að taka upp fjögurra daga vinnuviku á Íslandi? Færðu rök fyrir eða á móti með dæmum.",
+      "criteria": ["Skýr afstaða", "Rök með dæmum", "Mótrök tekin fyrir", "Sannfærandi niðurstaða"],
+      "charBand": { "min": 120, "max": 250 }
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B2",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "CORE",
+    "title": "View: public transport",
+    "prompt": "Speak in Icelandic for at least 90 seconds.",
+    "payload": {
+      "stimulus": "Segðu frá skoðun þinni á því hvort samfélög ættu að leggja meiri áherslu á almenningssamgöngur en einkabíla. Rökstyddu.",
+      "criteria": ["Skýr afstaða", "Rökstuðningur með dæmum", "Samfellt tal", "Fjölbreyttur orðaforði"],
+      "minSeconds": 90
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B2",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "CORE",
+    "title": "View: social media",
+    "prompt": "Speak in Icelandic for at least 90 seconds.",
+    "payload": {
+      "stimulus": "Ræddu hvernig samfélagsmiðlar hafa áhrif á daglegt líf fólks, bæði til góðs og ills, og settu fram þína afstöðu.",
+      "criteria": ["Skýr afstaða", "Bæði kostir og gallar", "Samhengi í máli", "Eðlilegur talhraði"],
+      "minSeconds": 90
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B2",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "STRETCH",
+    "title": "Argue: environment vs economy",
+    "prompt": "Speak in Icelandic for at least 90 seconds.",
+    "payload": {
+      "stimulus": "Færðu rök fyrir því hvernig samfélög geta jafnvægt umhverfisvernd og efnahagsvöxt. Taktu skýra afstöðu.",
+      "criteria": ["Skýr afstaða", "Rök og mótrök", "Samfellt og skipulagt tal", "Blæbrigðaríkur orðaforði"],
+      "minSeconds": 90
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B2",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "CORE",
+    "title": "View: work-life balance",
+    "prompt": "Speak in Icelandic for at least 90 seconds.",
+    "payload": {
+      "stimulus": "Segðu frá því hvernig fólk getur náð betra jafnvægi milli vinnu og einkalífs og hvers vegna það skiptir máli.",
+      "criteria": ["Skýr afstaða", "Hagnýtar hugmyndir", "Samfellt tal", "Rétt beiting málfræði"],
+      "minSeconds": 90
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B2",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "STRETCH",
+    "title": "Argue: cultural funding",
+    "prompt": "Speak in Icelandic for at least 90 seconds.",
+    "payload": {
+      "stimulus": "Ætti hið opinbera að fjármagna listir og menningu? Rökstyddu afstöðu þína með dæmum.",
+      "criteria": ["Skýr afstaða", "Sannfærandi rök", "Skipulögð framsetning", "Fjölbreyttur orðaforði"],
+      "minSeconds": 90
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B2",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "CORE",
+    "title": "View: media reliability",
+    "prompt": "Speak in Icelandic for at least 90 seconds.",
+    "payload": {
+      "stimulus": "Ræddu hvernig fólk getur metið hvort fréttir séu áreiðanlegar og hvers vegna það er mikilvægt í samfélaginu.",
+      "criteria": ["Skýr afstaða", "Hagnýt dæmi", "Samhengi í máli", "Eðlilegt flæði"],
+      "minSeconds": 90
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B2",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "STRETCH",
+    "title": "Argue: tourism impact",
+    "prompt": "Speak in Icelandic for at least 90 seconds.",
+    "payload": {
+      "stimulus": "Hefur fjölgun ferðamanna verið jákvæð eða neikvæð fyrir íslenskt samfélag? Rökstyddu afstöðu þína.",
+      "criteria": ["Skýr afstaða", "Rök með dæmum", "Mótrök íhuguð", "Blæbrigðaríkt mál"],
+      "minSeconds": 90
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B2",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "CORE",
+    "title": "View: volunteering",
+    "prompt": "Speak in Icelandic for at least 90 seconds.",
+    "payload": {
+      "stimulus": "Segðu frá því hvers vegna sjálfboðaliðastarf getur verið gagnlegt bæði fyrir einstaklinginn og samfélagið.",
+      "criteria": ["Skýr afstaða", "Rök og dæmi", "Samfellt tal", "Fjölbreyttur orðaforði"],
+      "minSeconds": 90
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B2",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "STRETCH",
+    "title": "Argue: screens in schools",
+    "prompt": "Speak in Icelandic for at least 90 seconds.",
+    "payload": {
+      "stimulus": "Ætti að nota spjaldtölvur og skjái meira eða minna í skólum? Taktu skýra afstöðu og rökstyddu hana.",
+      "criteria": ["Skýr afstaða", "Rök með dæmum", "Skipulagt tal", "Rétt málfræði"],
+      "minSeconds": 90
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B2",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "CORE",
+    "title": "View: healthy habits",
+    "prompt": "Speak in Icelandic for at least 90 seconds.",
+    "payload": {
+      "stimulus": "Ræddu hvernig fólk getur tileinkað sér heilbrigðari lífsstíl í annasömu daglegu lífi og hvað hindrar það helst.",
+      "criteria": ["Skýr afstaða", "Hagnýtar hugmyndir", "Samhengi í máli", "Eðlilegur talhraði"],
+      "minSeconds": 90
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B2",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "STRETCH",
+    "title": "Argue: language and English",
+    "prompt": "Speak in Icelandic for at least 90 seconds.",
+    "payload": {
+      "stimulus": "Ógnar aukin notkun ensku stöðu íslenskunnar, eða er hún eðlileg þróun? Rökstyddu afstöðu þína.",
+      "criteria": ["Skýr afstaða", "Rök og mótrök", "Skipulögð framsetning", "Blæbrigðaríkur orðaforði"],
+      "minSeconds": 90
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B2",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "CORE",
+    "title": "View: green spaces",
+    "prompt": "Speak in Icelandic for at least 90 seconds.",
+    "payload": {
+      "stimulus": "Segðu frá því hvers vegna græn svæði í borgum eru mikilvæg og hvernig hægt væri að fjölga þeim.",
+      "criteria": ["Skýr afstaða", "Rök með dæmum", "Samfellt tal", "Fjölbreyttur orðaforði"],
+      "minSeconds": 90
+    },
+    "answer": null,
+    "maxPoints": 10
+  },
+  {
+    "track": "CEFR",
+    "exam": "CEFR_B2",
+    "skill": "SPEAKING",
+    "taskType": "SPEAKING_PROMPT",
+    "difficulty": "STRETCH",
+    "title": "Argue: consumption and waste",
+    "prompt": "Speak in Icelandic for at least 90 seconds.",
+    "payload": {
+      "stimulus": "Hvernig geta einstaklingar og fyrirtæki dregið úr sóun og ofneyslu? Taktu afstöðu og rökstyddu hana.",
+      "criteria": ["Skýr afstaða", "Hagnýtar lausnir", "Skipulagt tal", "Rétt beiting málfræði"],
+      "minSeconds": 90
+    },
+    "answer": null,
+    "maxPoints": 10
+  }
+]
