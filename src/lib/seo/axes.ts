@@ -22,7 +22,13 @@ export interface SeoHub { slug: string; name: string; region: string; profile: s
 
 export const UNIVERSITIES = universitiesJson as SeoUniversity[];
 export const ROLES = rolesJson as SeoRole[];
-export const COUNTRIES = countriesJson as SeoCountry[]; // origins only (Iceland excluded)
+// Origins only: 196 = the 197-country axis minus Iceland itself. Until 2026-07-15
+// this comment was false — Iceland WAS in the list, so the matrix advertised "Study
+// in Iceland from Iceland" (the label was localized, the fact was not) — and Portugal
+// was absent entirely, inherited from almi-portuguese's copy where dropping PT was
+// correct because PT was its own self.
+// See scripts/seo/countries-axis-gate.mjs, which now fails the build on both.
+export const COUNTRIES = countriesJson as SeoCountry[];
 export const SUBJECTS = subjectsJson as SeoSubject[];
 export const HUBS = hubsJson as SeoHub[];
 
