@@ -5,6 +5,7 @@ import type {
   IcelandicExam,
   IcelandicSkill,
   IcelandicTaskType,
+  CefrLevel,
   ObjectiveAnswer,
 } from "@/lib/is/types";
 
@@ -14,6 +15,9 @@ export interface RunnerItem {
   exam: IcelandicExam;
   skill: IcelandicSkill;
   taskType: IcelandicTaskType;
+  /** CEFR level this task is pitched at — carried so the runner can band readiness
+   *  from at-goal tasks only, and the productive grader can judge at the right level. */
+  cefr?: CefrLevel;
   payload: unknown;
   answer: ObjectiveAnswer | null;
   maxPoints: number;
@@ -71,6 +75,9 @@ export async function gradeProductive(body: {
   exam: IcelandicExam;
   skill: IcelandicSkill;
   taskType: IcelandicTaskType;
+  /** The level THIS task is pitched at — the grade route judges the answer at this
+   *  level (via almi-data's levelInstruction), never at the exam's display label. */
+  cefr?: CefrLevel;
   title: string;
   prompt: string;
   criteria: string[];

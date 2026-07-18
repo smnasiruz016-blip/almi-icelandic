@@ -14,6 +14,7 @@ import type {
   IcelandicSkill,
   IcelandicTaskType,
   IcelandicDifficulty,
+  CefrLevel,
   ObjectiveAnswer,
 } from "./types";
 
@@ -24,6 +25,9 @@ export interface IcelandicItemSeed {
   skill: IcelandicSkill;
   taskType: IcelandicTaskType;
   difficulty: IcelandicDifficulty;
+  /** The CEFR level this task is pitched at (optional). Feeds the goal-readiness band
+   *  and the level-aware AI grader. Absent = UNDECLARED (never counted as at-goal). */
+  cefr?: CefrLevel;
   title: string;
   prompt: string;
   payload: unknown;

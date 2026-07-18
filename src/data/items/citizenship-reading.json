@@ -5,6 +5,7 @@
     "skill": "READING",
     "taskType": "MCQ_SINGLE",
     "difficulty": "FOUNDATION",
+    "cefr": "A2",
     "title": "Bréf frá sveitarfélaginu",
     "prompt": "Read the notice from the municipality and choose the correct answer.",
     "payload": {
@@ -21,6 +22,7 @@
     "skill": "READING",
     "taskType": "MCQ_SINGLE",
     "difficulty": "CORE",
+    "cefr": "A2",
     "title": "Tilkynning frá heilsugæslunni",
     "prompt": "Read the notice from the health clinic and choose the correct answer.",
     "payload": {
@@ -37,6 +39,7 @@
     "skill": "READING",
     "taskType": "MCQ_SINGLE",
     "difficulty": "FOUNDATION",
+    "cefr": "A2",
     "title": "Skilti í búðinni",
     "prompt": "Read the supermarket sign and choose the correct answer.",
     "payload": {
@@ -53,6 +56,7 @@
     "skill": "READING",
     "taskType": "MCQ_SINGLE",
     "difficulty": "CORE",
+    "cefr": "A2",
     "title": "Breyting á strætóleið",
     "prompt": "Read the note about the bus route and choose the correct answer.",
     "payload": {
@@ -69,6 +73,7 @@
     "skill": "READING",
     "taskType": "MCQ_SINGLE",
     "difficulty": "CORE",
+    "cefr": "A2",
     "title": "Skilaboð á vinnustað",
     "prompt": "Read the message from the workplace and choose the correct answer.",
     "payload": {
@@ -85,6 +90,7 @@
     "skill": "READING",
     "taskType": "MCQ_SINGLE",
     "difficulty": "FOUNDATION",
+    "cefr": "A2",
     "title": "Fréttabréf leikskólans",
     "prompt": "Read the children's-school newsletter and choose the correct answer.",
     "payload": {
@@ -101,6 +107,7 @@
     "skill": "READING",
     "taskType": "TRUE_FALSE",
     "difficulty": "CORE",
+    "cefr": "A2",
     "title": "Þvottahúsið í kjallaranum",
     "prompt": "Read the notice for tenants and decide if the statement is true (Rétt) or false (Rangt).",
     "payload": {
@@ -117,6 +124,7 @@
     "skill": "READING",
     "taskType": "TRUE_FALSE",
     "difficulty": "FOUNDATION",
+    "cefr": "A2",
     "title": "Á bókasafninu",
     "prompt": "Read the library notice and decide if the statement is true (Rétt) or false (Rangt).",
     "payload": {
@@ -133,6 +141,7 @@
     "skill": "READING",
     "taskType": "TRUE_FALSE",
     "difficulty": "CORE",
+    "cefr": "A2",
     "title": "Reglur í sundlauginni",
     "prompt": "Read the swimming pool rules and decide if the statement is true (Rétt) or false (Rangt).",
     "payload": {
@@ -149,6 +158,7 @@
     "skill": "READING",
     "taskType": "TRUE_FALSE",
     "difficulty": "CORE",
+    "cefr": "A2",
     "title": "Opnunartími apóteksins",
     "prompt": "Read the pharmacy notice and decide if the statement is true (Rétt) or false (Rangt).",
     "payload": {
@@ -165,6 +175,7 @@
     "skill": "READING",
     "taskType": "CLOZE",
     "difficulty": "FOUNDATION",
+    "cefr": "A1",
     "title": "Að panta tíma hjá lækni",
     "prompt": "Choose the word that best fits each gap.",
     "payload": {
@@ -183,6 +194,7 @@
     "skill": "READING",
     "taskType": "CLOZE",
     "difficulty": "CORE",
+    "cefr": "A1",
     "title": "Dagurinn minn",
     "prompt": "Choose the word that best fits each gap.",
     "payload": {
@@ -202,6 +214,7 @@
     "skill": "READING",
     "taskType": "CLOZE",
     "difficulty": "CORE",
+    "cefr": "A2",
     "title": "Að skrá barn í skóla",
     "prompt": "Choose the word that best fits each gap.",
     "payload": {
@@ -220,6 +233,7 @@
     "skill": "READING",
     "taskType": "ORDERING",
     "difficulty": "CORE",
+    "cefr": "A2",
     "title": "Að nota þvottahúsið",
     "prompt": "Put the steps in the correct order.",
     "payload": {
@@ -241,6 +255,7 @@
     "skill": "READING",
     "taskType": "ORDERING",
     "difficulty": "STRETCH",
+    "cefr": "A2",
     "title": "Að panta tíma á netinu",
     "prompt": "Put the steps in the correct order.",
     "payload": {

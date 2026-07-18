@@ -5,6 +5,7 @@
     "skill": "WRITING",
     "taskType": "WRITING_PROMPT",
     "difficulty": "FOUNDATION",
+    "cefr": "A1",
     "title": "Fylltu út skráningareyðublað",
     "prompt": "Complete a short registration form for a library card. Write full sentences with the requested information about yourself.",
     "payload": {
@@ -25,6 +26,7 @@
     "skill": "WRITING",
     "taskType": "WRITING_PROMPT",
     "difficulty": "FOUNDATION",
+    "cefr": "A2",
     "title": "Skilaboð til kennarans",
     "prompt": "Write a short note to your Icelandic teacher explaining why you were absent from class yesterday.",
     "payload": {
@@ -45,6 +47,7 @@
     "skill": "WRITING",
     "taskType": "WRITING_PROMPT",
     "difficulty": "CORE",
+    "cefr": "A2",
     "title": "Afboða tíma hjá lækni",
     "prompt": "Write a short message to the health clinic to cancel your appointment and ask for a new time.",
     "payload": {
@@ -66,6 +69,7 @@
     "skill": "WRITING",
     "taskType": "WRITING_PROMPT",
     "difficulty": "FOUNDATION",
+    "cefr": "A2",
     "title": "Miði til nágrannans",
     "prompt": "Write a short note to your neighbour asking a small favour while you are away.",
     "payload": {
@@ -86,6 +90,7 @@
     "skill": "WRITING",
     "taskType": "WRITING_PROMPT",
     "difficulty": "CORE",
+    "cefr": "A2",
     "title": "Tölvupóstur til sveitarfélagsins",
     "prompt": "Write a simple email to the municipality asking about opening hours of the service desk.",
     "payload": {
@@ -107,6 +112,7 @@
     "skill": "WRITING",
     "taskType": "WRITING_PROMPT",
     "difficulty": "CORE",
+    "cefr": "A2",
     "title": "Skilaboð til vinnufélaga",
     "prompt": "Write a short message to a colleague to say you will be late for work and why.",
     "payload": {
@@ -127,6 +133,7 @@
     "skill": "WRITING",
     "taskType": "WRITING_PROMPT",
     "difficulty": "STRETCH",
+    "cefr": "A2",
     "title": "Kvörtun til húseiganda",
     "prompt": "Write a short message to your landlord to report a simple problem in the flat.",
     "payload": {
@@ -148,6 +155,7 @@
     "skill": "WRITING",
     "taskType": "WRITING_PROMPT",
     "difficulty": "STRETCH",
+    "cefr": "A2",
     "title": "Boð til afmælis",
     "prompt": "Write a short invitation to a friend to come to a small birthday gathering at your home.",
     "payload": {
@@ -169,6 +177,7 @@
     "skill": "SPEAKING",
     "taskType": "SPEAKING_PROMPT",
     "difficulty": "FOUNDATION",
+    "cefr": "A1",
     "title": "Kynntu þig",
     "prompt": "Introduce yourself out loud. Speak in simple Icelandic sentences.",
     "payload": {
@@ -189,6 +198,7 @@
     "skill": "SPEAKING",
     "taskType": "SPEAKING_PROMPT",
     "difficulty": "FOUNDATION",
+    "cefr": "A1",
     "title": "Fjölskyldan þín",
     "prompt": "Talk about your family. Describe who they are in simple sentences.",
     "payload": {
@@ -209,6 +219,7 @@
     "skill": "SPEAKING",
     "taskType": "SPEAKING_PROMPT",
     "difficulty": "CORE",
+    "cefr": "A2",
     "title": "Vinnan þín",
     "prompt": "Talk about your work or what you do during the week.",
     "payload": {
@@ -230,6 +241,7 @@
     "skill": "SPEAKING",
     "taskType": "SPEAKING_PROMPT",
     "difficulty": "CORE",
+    "cefr": "A2",
     "title": "Spurðu til vegar",
     "prompt": "Ask a stranger politely for directions to a place in town.",
     "payload": {
@@ -251,6 +263,7 @@
     "skill": "SPEAKING",
     "taskType": "SPEAKING_PROMPT",
     "difficulty": "CORE",
+    "cefr": "A2",
     "title": "Dagurinn þinn",
     "prompt": "Describe your daily routine from morning to evening.",
     "payload": {
@@ -271,6 +284,7 @@
     "skill": "SPEAKING",
     "taskType": "SPEAKING_PROMPT",
     "difficulty": "STRETCH",
+    "cefr": "A2",
     "title": "Vandamál á heilsugæslunni",
     "prompt": "Explain a simple health problem to a nurse at the clinic.",
     "payload": {
@@ -292,6 +306,7 @@
     "skill": "SPEAKING",
     "taskType": "SPEAKING_PROMPT",
     "difficulty": "STRETCH",
+    "cefr": "A2",
     "title": "Verslun í búðinni",
     "prompt": "Explain to a shop assistant that you want to return an item and why.",
     "payload": {

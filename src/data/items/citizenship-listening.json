@@ -5,6 +5,7 @@
     "skill": "LISTENING",
     "taskType": "MCQ_SINGLE",
     "difficulty": "FOUNDATION",
+    "cefr": "A2",
     "title": "Skilaboð frá heilsugæslunni",
     "prompt": "Listen to the voicemail from the health clinic and choose the correct answer.",
     "payload": {
@@ -26,6 +27,7 @@
     "skill": "LISTENING",
     "taskType": "MCQ_SINGLE",
     "difficulty": "FOUNDATION",
+    "cefr": "A2",
     "title": "Tilkynning í strætó",
     "prompt": "Listen to the bus announcement and choose the correct answer.",
     "payload": {
@@ -47,6 +49,7 @@
     "skill": "LISTENING",
     "taskType": "TRUE_FALSE",
     "difficulty": "FOUNDATION",
+    "cefr": "A1",
     "title": "Áminning um að sækja barn",
     "prompt": "Listen to the school reminder and decide if the statement is true (Rétt) or false (Rangt).",
     "payload": {
@@ -63,6 +66,7 @@
     "skill": "LISTENING",
     "taskType": "MCQ_SINGLE",
     "difficulty": "CORE",
+    "cefr": "A2",
     "title": "Fyrirmæli á vinnustað",
     "prompt": "Listen to the workplace instruction and choose the correct answer.",
     "payload": {
@@ -84,6 +88,7 @@
     "skill": "LISTENING",
     "taskType": "MCQ_SINGLE",
     "difficulty": "CORE",
+    "cefr": "A2",
     "title": "Skilaboð frá sveitarfélaginu",
     "prompt": "Listen to the message from the municipality and choose the correct answer.",
     "payload": {
@@ -105,6 +110,7 @@
     "skill": "LISTENING",
     "taskType": "TRUE_FALSE",
     "difficulty": "CORE",
+    "cefr": "A1",
     "title": "Samtal í búð",
     "prompt": "Listen to the short dialogue at a shop and decide if the statement is true (Rétt) or false (Rangt).",
     "payload": {
@@ -121,6 +127,7 @@
     "skill": "LISTENING",
     "taskType": "MCQ_SINGLE",
     "difficulty": "FOUNDATION",
+    "cefr": "A2",
     "title": "Veðurspá í útvarpi",
     "prompt": "Listen to the weather forecast and choose the correct answer.",
     "payload": {
@@ -142,6 +149,7 @@
     "skill": "LISTENING",
     "taskType": "MCQ_SINGLE",
     "difficulty": "CORE",
+    "cefr": "A2",
     "title": "Skilaboð frá tannlækni",
     "prompt": "Listen to the voicemail from the dentist and choose the correct answer.",
     "payload": {
@@ -163,6 +171,7 @@
     "skill": "LISTENING",
     "taskType": "TRUE_FALSE",
     "difficulty": "FOUNDATION",
+    "cefr": "A2",
     "title": "Tilkynning í sundlaug",
     "prompt": "Listen to the swimming pool announcement and decide if the statement is true (Rétt) or false (Rangt).",
     "payload": {
@@ -179,6 +188,7 @@
     "skill": "LISTENING",
     "taskType": "MCQ_SINGLE",
     "difficulty": "STRETCH",
+    "cefr": "A2",
     "title": "Skilaboð frá bankanum",
     "prompt": "Listen to the message from the bank and choose the correct answer.",
     "payload": {
@@ -200,6 +210,7 @@
     "skill": "LISTENING",
     "taskType": "TRUE_FALSE",
     "difficulty": "CORE",
+    "cefr": "A2",
     "title": "Áminning frá skólanum",
     "prompt": "Listen to the school message and decide if the statement is true (Rétt) or false (Rangt).",
     "payload": {
@@ -216,6 +227,7 @@
     "skill": "LISTENING",
     "taskType": "MCQ_SINGLE",
     "difficulty": "CORE",
+    "cefr": "A1",
     "title": "Samtal á kaffihúsi",
     "prompt": "Listen to the short dialogue at a café and choose the correct answer.",
     "payload": {
@@ -237,6 +249,7 @@
     "skill": "LISTENING",
     "taskType": "MATCHING",
     "difficulty": "CORE",
+    "cefr": "A2",
     "title": "Hver gerir hvað á morgun?",
     "prompt": "Listen as three family members say what they will do tomorrow, then match each person to their plan.",
     "payload": {
@@ -259,6 +272,7 @@
     "skill": "LISTENING",
     "taskType": "MATCHING",
     "difficulty": "STRETCH",
+    "cefr": "A1",
     "title": "Opnunartímar í þjónustuveri",
     "prompt": "Listen to the recorded opening hours, then match each place to the time it opens.",
     "payload": {
@@ -281,6 +295,7 @@
     "skill": "LISTENING",
     "taskType": "MATCHING",
     "difficulty": "CORE",
+    "cefr": "A1",
     "title": "Innkaupalisti fjölskyldunnar",
     "prompt": "Listen as the speaker says which shop each item comes from, then match each item to its shop.",
     "payload": {
