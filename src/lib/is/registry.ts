@@ -11,6 +11,7 @@ import type {
   CefrExam,
   IcelandicSkill,
   LanguageSkill,
+  CefrLevel,
 } from "./types";
 
 export interface ExamMeta {
@@ -19,6 +20,12 @@ export interface ExamMeta {
   slug: string; // URL slug
   name: string; // display name
   cefr: string; // CEFR level label
+  // The single CEFR level a learner's readiness for THIS exam is banded against —
+  // its verified at-goal standard. Distinct from `cefr` (a display string). Absent when
+  // this exam's own standard has not been verified and set yet — an absent goal means
+  // the runner reports "no estimate yet", never a band built from unlevelled tasks.
+  // Feeds almi-data's splitByLevel: only at-goal tasks count toward the band.
+  goalCefr?: CefrLevel;
   blurb: string; // one-line description
   skills: IcelandicSkill[];
   lead?: boolean; // citizenship-relevant (Ríkisborgarapróf) — the lead hook
@@ -47,7 +54,7 @@ export const SKILL_LABELS: Record<IcelandicSkill, { is: string; en: string }> = 
 // citizenship — but confirm the current residency rule with Útlendingastofnun.
 export const CITIZENSHIP_EXAMS: ExamMeta[] = [
   {
-    exam: "RIKISBORGARAPROF_A2", track: "CITIZENSHIP", slug: "rikisborgaraprof", name: "Ríkisborgarapróf", cefr: "A2",
+    exam: "RIKISBORGARAPROF_A2", track: "CITIZENSHIP", slug: "rikisborgaraprof", name: "Ríkisborgarapróf", cefr: "A2", goalCefr: "A2",
     blurb: "The Icelandic language test for citizenship — A2 across Reading, Listening, Writing and Speaking.",
     skills: ["READING", "LISTENING", "WRITING", "SPEAKING"], lead: true, mockMinutes: 120,
   },

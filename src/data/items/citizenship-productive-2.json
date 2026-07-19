@@ -5,6 +5,7 @@
     "skill": "WRITING",
     "taskType": "WRITING_PROMPT",
     "difficulty": "FOUNDATION",
+    "cefr": "A2",
     "title": "A note to a neighbour",
     "prompt": "Write a short note to your neighbour.",
     "payload": {
@@ -26,6 +27,7 @@
     "skill": "WRITING",
     "taskType": "WRITING_PROMPT",
     "difficulty": "FOUNDATION",
+    "cefr": "A1",
     "title": "My daily routine",
     "prompt": "Describe an ordinary weekday.",
     "payload": {
@@ -47,6 +49,7 @@
     "skill": "WRITING",
     "taskType": "WRITING_PROMPT",
     "difficulty": "CORE",
+    "cefr": "A2",
     "title": "Email to a doctor's office",
     "prompt": "Write an email to book an appointment.",
     "payload": {
@@ -68,6 +71,7 @@
     "skill": "WRITING",
     "taskType": "WRITING_PROMPT",
     "difficulty": "CORE",
+    "cefr": "A2",
     "title": "Shopping list message",
     "prompt": "Send a message asking for groceries.",
     "payload": {
@@ -89,6 +93,7 @@
     "skill": "WRITING",
     "taskType": "WRITING_PROMPT",
     "difficulty": "CORE",
+    "cefr": "A2",
     "title": "Describe my home",
     "prompt": "Write about where you live.",
     "payload": {
@@ -110,6 +115,7 @@
     "skill": "WRITING",
     "taskType": "WRITING_PROMPT",
     "difficulty": "STRETCH",
+    "cefr": "A2",
     "title": "Reply to a party invitation",
     "prompt": "Reply to an invitation and suggest bringing something.",
     "payload": {
@@ -131,6 +137,7 @@
     "skill": "WRITING",
     "taskType": "WRITING_PROMPT",
     "difficulty": "STRETCH",
+    "cefr": "A2",
     "title": "A short letter about the weather and plans",
     "prompt": "Write a short letter about your weekend plans.",
     "payload": {
@@ -152,6 +159,7 @@
     "skill": "SPEAKING",
     "taskType": "SPEAKING_PROMPT",
     "difficulty": "FOUNDATION",
+    "cefr": "A1",
     "title": "Introduce yourself",
     "prompt": "Introduce yourself to the examiner.",
     "payload": {
@@ -173,6 +181,7 @@
     "skill": "SPEAKING",
     "taskType": "SPEAKING_PROMPT",
     "difficulty": "FOUNDATION",
+    "cefr": "A2",
     "title": "Talk about your family",
     "prompt": "Describe your family.",
     "payload": {
@@ -194,6 +203,7 @@
     "skill": "SPEAKING",
     "taskType": "SPEAKING_PROMPT",
     "difficulty": "CORE",
+    "cefr": "A2",
     "title": "Asking for directions",
     "prompt": "Ask a stranger for directions.",
     "payload": {
@@ -215,6 +225,7 @@
     "skill": "SPEAKING",
     "taskType": "SPEAKING_PROMPT",
     "difficulty": "CORE",
+    "cefr": "A2",
     "title": "At the supermarket",
     "prompt": "Ask a shop assistant for help.",
     "payload": {
@@ -236,6 +247,7 @@
     "skill": "SPEAKING",
     "taskType": "SPEAKING_PROMPT",
     "difficulty": "CORE",
+    "cefr": "A2",
     "title": "My free time",
     "prompt": "Talk about your hobbies.",
     "payload": {
@@ -257,6 +269,7 @@
     "skill": "SPEAKING",
     "taskType": "SPEAKING_PROMPT",
     "difficulty": "CORE",
+    "cefr": "A2",
     "title": "A phone call to work",
     "prompt": "Call your workplace to report you are sick.",
     "payload": {
@@ -278,6 +291,7 @@
     "skill": "SPEAKING",
     "taskType": "SPEAKING_PROMPT",
     "difficulty": "STRETCH",
+    "cefr": "A2",
     "title": "Describe your town",
     "prompt": "Describe the place where you live.",
     "payload": {
@@ -299,6 +313,7 @@
     "skill": "SPEAKING",
     "taskType": "SPEAKING_PROMPT",
     "difficulty": "STRETCH",
+    "cefr": "A2",
     "title": "A plan for the weekend",
     "prompt": "Talk about your plans for the coming weekend.",
     "payload": {
