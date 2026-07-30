@@ -17,7 +17,10 @@
         "Það gliðnar um tvo metra á ári."
       ]
     },
-    "answer": { "type": "MCQ_SINGLE", "correctIndex": 1 },
+    "answer": {
+      "type": "MCQ_SINGLE",
+      "correctIndex": 1
+    },
     "maxPoints": 1
   },
   {
@@ -34,11 +37,14 @@
       "options": [
         "Nákvæmum lýsingum á tilfinningum persóna.",
         "Fortíðarþrá lesenda nútímans.",
-        "Hófstilltum stíl sem lætur lesandann fylla í eyðurnar.",
-        "Löngum og ítarlegum samtölum persóna."
+        "Löngum og ítarlegum samtölum persóna.",
+        "Hófstilltum stíl sem lætur lesandann fylla í eyðurnar."
       ]
     },
-    "answer": { "type": "MCQ_SINGLE", "correctIndex": 2 },
+    "answer": {
+      "type": "MCQ_SINGLE",
+      "correctIndex": 3
+    },
     "maxPoints": 1
   },
   {
@@ -51,10 +57,16 @@
     "prompt": "Listen to the academic announcement, then decide whether the statement is true (Rétt) or false (Rangt).",
     "payload": {
       "transcript": "Athugið eftirfarandi breytingu á prófatöflu. Lokapróf í málvísindum, sem upphaflega var boðað fimmtudaginn tuttugasta og þriðja, hefur verið fært fram til mánudagsins tuttugasta og sjöunda vegna árekstrar við annað próf. Prófið verður áfram haldið í stofu hundrað og tvö í Árnagarði og hefst klukkan níu að morgni. Nemendur sem hafa sótt um lengri próftíma vegna sérþarfa þurfa ekki að endurnýja umsókn sína; hún flyst sjálfkrafa yfir á nýja dagsetningu.",
-      "question": "Nemendur með samþykktan lengri próftíma verða að sækja um hann að nýju fyrir nýju dagsetninguna.",
-      "options": ["Rétt", "Rangt"]
+      "question": "Prófið hefst klukkan níu að morgni í stofu hundrað og tvö í Árnagarði.",
+      "options": [
+        "Rétt",
+        "Rangt"
+      ]
     },
-    "answer": { "type": "TRUE_FALSE", "correctIndex": 1 },
+    "answer": {
+      "type": "TRUE_FALSE",
+      "correctIndex": 0
+    },
     "maxPoints": 1
   },
   {
@@ -69,13 +81,16 @@
       "transcript": "Þegar kvótakerfið var tekið upp á níunda áratugnum var markmiðið tvíþætt: annars vegar að koma í veg fyrir ofveiði og hins vegar að auka hagkvæmni í greininni. Fiskifræðilega hefur kerfið að mörgu leyti skilað árangri, því stofnar sem áður voru í hættu hafa víða náð sér á strik. Á hinn bóginn hefur það haft óvæntar félagslegar afleiðingar. Þegar veiðiheimildir söfnuðust á færri hendur misstu mörg minni sjávarþorp lífsviðurværi sitt á fáeinum árum. Þannig stöndum við frammi fyrir klassískri togstreitu milli hagkvæmni og byggðajafnvægis.",
       "question": "Hvaða óvæntu afleiðingu kvótakerfisins leggur fyrirlesarinn áherslu á?",
       "options": [
-        "Að fiskstofnar hafi hrunið alls staðar.",
         "Að veiðiheimildir hafi safnast á færri hendur og veikt minni sjávarþorp.",
+        "Að fiskstofnar hafi hrunið alls staðar.",
         "Að hagkvæmni greinarinnar hafi minnkað verulega.",
         "Að ofveiði hafi aukist eftir upptöku kerfisins."
       ]
     },
-    "answer": { "type": "MCQ_SINGLE", "correctIndex": 1 },
+    "answer": {
+      "type": "MCQ_SINGLE",
+      "correctIndex": 0
+    },
     "maxPoints": 1
   },
   {
@@ -89,10 +104,35 @@
     "payload": {
       "transcript": "Katla: Ég er að skoða hvernig hitastig sjávar við Ísland hefur breyst síðustu hundrað árin og hvaða áhrif það hefur á göngur þorsksins. Ég vinn mikið með mælingar frá Hafrannsóknastofnun. — Baldur: Mitt verkefni snýst um beygingu sagnorða í fornu máli og hvernig hún hefur einfaldast í nútímaíslensku. Ég ber saman handrit frá þrettándu öld við nýlega texta. — Sóley: Ég rannsaka hvernig fjármálakreppan árið tvö þúsund og átta breytti trausti almennings til banka, og styðst við skoðanakannanir sem gerðar voru bæði fyrir og eftir hrunið.",
       "instructions": "Tengdu hvern nemanda við rétt fræðasvið.",
-      "left": ["Katla", "Baldur", "Sóley"],
-      "right": ["Haffræði", "Málfræði", "Félagsvísindi", "Stjörnufræði"]
+      "left": [
+        "Katla",
+        "Baldur",
+        "Sóley"
+      ],
+      "right": [
+        "Félagsvísindi",
+        "Stjörnufræði",
+        "Málfræði",
+        "Haffræði"
+      ]
     },
-    "answer": { "type": "MATCHING", "pairs": [[0, 0], [1, 1], [2, 2]] },
+    "answer": {
+      "type": "MATCHING",
+      "pairs": [
+        [
+          0,
+          3
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          0
+        ]
+      ]
+    },
     "maxPoints": 3
   },
   {
@@ -106,9 +146,15 @@
     "payload": {
       "transcript": "Það er útbreiddur misskilningur að miðaldahandritin íslensku hafi eingöngu verið rituð í klaustrum af lærðum munkum. Vissulega áttu klaustrin sinn þátt, en stór hluti handritanna varð til á venjulegum sveitabæjum, þar sem heilu fjölskyldurnar tóku þátt í að afrita texta á vetrarkvöldum. Þessi heimilisiðja skýrir að hluta hvers vegna svo mikið af fornum texta varðveittist á Íslandi miðað við önnur Norðurlönd, þar sem ritmenningin var bundnari við kirkju og hirð.",
       "question": "Samkvæmt fyrirlesaranum urðu íslensku miðaldahandritin eingöngu til í klaustrum.",
-      "options": ["Rétt", "Rangt"]
+      "options": [
+        "Rangt",
+        "Rétt"
+      ]
     },
-    "answer": { "type": "TRUE_FALSE", "correctIndex": 1 },
+    "answer": {
+      "type": "TRUE_FALSE",
+      "correctIndex": 0
+    },
     "maxPoints": 1
   },
   {
@@ -124,12 +170,15 @@
       "question": "Hvaða þversagnakenndu tengsl lýsir fyrirlesarinn?",
       "options": [
         "Að aukin eldvirkni valdi því að jöklar stækki.",
-        "Að rýrnun jökla geti ýtt undir aukna eldvirkni.",
         "Að hlýnun hafi engin áhrif á íslenska jökla.",
-        "Að þrýstingur á möttulinn aukist þegar ís bráðnar."
+        "Að þrýstingur á möttulinn aukist þegar ís bráðnar.",
+        "Að rýrnun jökla geti ýtt undir aukna eldvirkni."
       ]
     },
-    "answer": { "type": "MCQ_SINGLE", "correctIndex": 1 },
+    "answer": {
+      "type": "MCQ_SINGLE",
+      "correctIndex": 3
+    },
     "maxPoints": 1
   },
   {
@@ -145,12 +194,15 @@
       "question": "Hvað reyndist nemandanum erfiðast við námið?",
       "options": [
         "Veðrið og myrkrið á veturna.",
-        "Hversu sjálfstætt námið er.",
         "Að finna húsnæði nálægt skólanum.",
+        "Hversu sjálfstætt námið er.",
         "Tungumálið í umræðutímum."
       ]
     },
-    "answer": { "type": "MCQ_SINGLE", "correctIndex": 1 },
+    "answer": {
+      "type": "MCQ_SINGLE",
+      "correctIndex": 2
+    },
     "maxPoints": 1
   },
   {
@@ -164,15 +216,35 @@
     "payload": {
       "transcript": "Fyrst má nefna Halldór Laxness, sem hlaut Nóbelsverðlaunin árið nítján hundruð fimmtíu og fimm og er þekktastur fyrir stórar samfélagsádeilur í skáldsöguformi. Þá kemur Jónas Hallgrímsson, skáld nítjándu aldar, sem er iðulega talinn hafa endurnýjað íslenska ljóðagerð og lagt drjúgan skerf til náttúruvísinda um leið. Loks nefni ég Svövu Jakobsdóttur, sem varð þekkt á síðari hluta tuttugustu aldar fyrir smásögur þar sem hversdagsleikinn rennur saman við hið óraunverulega, oft með beittri ádeilu á stöðu kvenna.",
       "instructions": "Tengdu hvern höfund við það sem hann er þekktastur fyrir.",
-      "left": ["Halldór Laxness", "Jónas Hallgrímsson", "Svava Jakobsdóttir"],
+      "left": [
+        "Halldór Laxness",
+        "Jónas Hallgrímsson",
+        "Svava Jakobsdóttir"
+      ],
       "right": [
-        "Nóbelsverðlaunahafi þekktur fyrir samfélagsádeilur",
         "Skáld sem endurnýjaði ljóðagerð og fékkst við náttúruvísindi",
         "Smásögur þar sem hversdagurinn og hið óraunverulega renna saman",
-        "Miðaldasagnaritari sem skráði konungasögur"
+        "Miðaldasagnaritari sem skráði konungasögur",
+        "Nóbelsverðlaunahafi þekktur fyrir samfélagsádeilur"
       ]
     },
-    "answer": { "type": "MATCHING", "pairs": [[0, 0], [1, 1], [2, 2]] },
+    "answer": {
+      "type": "MATCHING",
+      "pairs": [
+        [
+          0,
+          3
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          2,
+          1
+        ]
+      ]
+    },
     "maxPoints": 3
   },
   {
@@ -185,10 +257,16 @@
     "prompt": "Listen to the excerpt on renewable energy, then decide whether the statement is true (Rétt) or false (Rangt).",
     "payload": {
       "transcript": "Ísland er oft nefnt sem fyrirmynd í nýtingu endurnýjanlegrar orku, enda kemur nánast öll raforka landsins frá vatnsafli og jarðvarma. En við megum ekki gleyma því að jarðvarmavirkjun er ekki með öllu án umhverfisáhrifa. Við vinnsluna losnar til dæmis brennisteinsvetni og lítilræði af koltvísýringi, og ef of mikið er sótt í jarðhitasvæði getur þrýstingur þess fallið hraðar en það nær að endurnýjast. Sjálfbær nýting krefst þess því að við göngum ekki hraðar á auðlindina en hún þolir.",
-      "question": "Samkvæmt fyrirlesaranum er jarðvarmavirkjun algjörlega laus við umhverfisáhrif.",
-      "options": ["Rétt", "Rangt"]
+      "question": "Samkvæmt fyrirlesaranum losnar brennisteinsvetni við vinnslu jarðvarma.",
+      "options": [
+        "Rangt",
+        "Rétt"
+      ]
     },
-    "answer": { "type": "TRUE_FALSE", "correctIndex": 1 },
+    "answer": {
+      "type": "TRUE_FALSE",
+      "correctIndex": 1
+    },
     "maxPoints": 1
   },
   {
@@ -203,13 +281,16 @@
       "transcript": "Ein stærsta áskorun íslenskunnar á tuttugustu og fyrstu öld er ekki lánsorð úr ensku, eins og margir óttast, heldur svokölluð stafræn tunga. Þegar snjalltæki, raddstýring og leitarvélar skilja ekki íslensku freistast fólk, og einkum ungt fólk, til að skipta yfir í ensku þegar það notar tæknina. Þess vegna hefur verið ráðist í umfangsmikið máltækniverkefni: að byggja upp gagnasöfn og hugbúnað svo að vélar geti lesið, skilið og talað íslensku. Málið lifir ekki af á tilfinningum einum saman; það þarf að virka í tækjunum sem við notum daglega.",
       "question": "Hvað telur fyrirlesarinn vera stærstu ógnina við íslenskuna?",
       "options": [
-        "Lánsorð úr ensku í daglegu tali.",
         "Að tæknin skilji ekki íslensku og fólk skipti því yfir í ensku.",
+        "Lánsorð úr ensku í daglegu tali.",
         "Að of fáir læri að lesa forn handrit.",
         "Að skólar kenni ekki lengur málfræði."
       ]
     },
-    "answer": { "type": "MCQ_SINGLE", "correctIndex": 1 },
+    "answer": {
+      "type": "MCQ_SINGLE",
+      "correctIndex": 0
+    },
     "maxPoints": 1
   },
   {
@@ -230,7 +311,10 @@
         "Til að skila verkefninu inn saman."
       ]
     },
-    "answer": { "type": "MCQ_SINGLE", "correctIndex": 1 },
+    "answer": {
+      "type": "MCQ_SINGLE",
+      "correctIndex": 1
+    },
     "maxPoints": 1
   },
   {
@@ -244,15 +328,35 @@
     "payload": {
       "transcript": "Í þjóðfræði leggjum við áherslu á að skoða siði, sagnir og hversdagsmenningu fólks, allt frá gömlum þjóðtrúm til nútímahátíða. Í umhverfis- og auðlindafræði fléttum við saman náttúruvísindi og samfélagsleg sjónarmið til að greina hvernig best sé að nýta auðlindir án þess að ganga á þær. Loks er það tölvunarfræðin, þar sem áherslan er á forritun, reiknirit og hönnun hugbúnaðar, og þar útskrifast nemendur oft beint í störf hjá tæknifyrirtækjum.",
       "instructions": "Tengdu hverja námsleið við megináherslu hennar.",
-      "left": ["Þjóðfræði", "Umhverfis- og auðlindafræði", "Tölvunarfræði"],
+      "left": [
+        "Þjóðfræði",
+        "Umhverfis- og auðlindafræði",
+        "Tölvunarfræði"
+      ],
       "right": [
-        "Siðir, sagnir og hversdagsmenning",
         "Sjálfbær nýting auðlinda á mörkum náttúru og samfélags",
         "Forritun, reiknirit og hugbúnaðarhönnun",
-        "Meðferð sjúklinga og lýðheilsa"
+        "Meðferð sjúklinga og lýðheilsa",
+        "Siðir, sagnir og hversdagsmenning"
       ]
     },
-    "answer": { "type": "MATCHING", "pairs": [[0, 0], [1, 1], [2, 2]] },
+    "answer": {
+      "type": "MATCHING",
+      "pairs": [
+        [
+          0,
+          3
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          2,
+          1
+        ]
+      ]
+    },
     "maxPoints": 3
   },
   {
@@ -266,9 +370,15 @@
     "payload": {
       "transcript": "Kæru nemendur, á próftímabilinu breytist opnunartími Þjóðarbókhlöðunnar. Frá og með næstu viku verður safnið opið til miðnættis alla virka daga og til klukkan sex á laugardögum. Þó viljum við minna á að lesstofurnar á þriðju hæð eru einungis ætlaðar til hljóðláts lestrar; öll hópavinna og samræður skulu fara fram í rýmunum á fyrstu hæð. Þeir sem þurfa að taka frá hópaherbergi geta gert það á heimasíðu safnsins með allt að viku fyrirvara.",
       "question": "Hópavinna og samræður eru leyfðar á lesstofunum á þriðju hæð.",
-      "options": ["Rétt", "Rangt"]
+      "options": [
+        "Rétt",
+        "Rangt"
+      ]
     },
-    "answer": { "type": "TRUE_FALSE", "correctIndex": 1 },
+    "answer": {
+      "type": "TRUE_FALSE",
+      "correctIndex": 1
+    },
     "maxPoints": 1
   },
   {
@@ -284,12 +394,15 @@
       "question": "Hvaða leiðréttingu leggur fyrirlesarinn áherslu á varðandi Alþingi til forna?",
       "options": [
         "Að það hafi verið stofnað mun síðar en talið er.",
-        "Að það hafi verið samkoma goða fremur en þing með kjörnum fulltrúum.",
         "Að það hafi haft öflugt framkvæmdavald frá upphafi.",
+        "Að það hafi verið samkoma goða fremur en þing með kjörnum fulltrúum.",
         "Að það hafi aldrei komið saman á Þingvöllum."
       ]
     },
-    "answer": { "type": "MCQ_SINGLE", "correctIndex": 1 },
+    "answer": {
+      "type": "MCQ_SINGLE",
+      "correctIndex": 2
+    },
     "maxPoints": 1
   }
 ]

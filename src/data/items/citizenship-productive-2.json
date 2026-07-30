@@ -16,7 +16,10 @@
         "Explains where the key is",
         "Simple present and future tense used correctly"
       ],
-      "charBand": { "min": 60, "max": 200 }
+      "charBand": {
+        "min": 60,
+        "max": 200
+      }
     },
     "answer": null,
     "maxPoints": 10
@@ -38,7 +41,10 @@
         "Uses everyday vocabulary about food and transport",
         "Sentences are connected with simple linking words"
       ],
-      "charBand": { "min": 60, "max": 200 }
+      "charBand": {
+        "min": 60,
+        "max": 200
+      }
     },
     "answer": null,
     "maxPoints": 10
@@ -60,7 +66,10 @@
         "Asks about available times",
         "Gives contact information"
       ],
-      "charBand": { "min": 60, "max": 200 }
+      "charBand": {
+        "min": 60,
+        "max": 200
+      }
     },
     "answer": null,
     "maxPoints": 10
@@ -82,7 +91,10 @@
         "Uses correct noun forms for food words",
         "Message is polite and easy to follow"
       ],
-      "charBand": { "min": 60, "max": 200 }
+      "charBand": {
+        "min": 60,
+        "max": 200
+      }
     },
     "answer": null,
     "maxPoints": 10
@@ -104,7 +116,10 @@
         "Mentions the neighbourhood or nearby services",
         "Uses adjectives to describe places"
       ],
-      "charBand": { "min": 60, "max": 200 }
+      "charBand": {
+        "min": 60,
+        "max": 200
+      }
     },
     "answer": null,
     "maxPoints": 10
@@ -126,7 +141,10 @@
         "Says what time you will arrive",
         "Tone is warm and appropriate"
       ],
-      "charBand": { "min": 60, "max": 200 }
+      "charBand": {
+        "min": 60,
+        "max": 200
+      }
     },
     "answer": null,
     "maxPoints": 10
@@ -148,7 +166,10 @@
         "Includes a friendly greeting and closing",
         "Sentences are varied and connected"
       ],
-      "charBand": { "min": 60, "max": 200 }
+      "charBand": {
+        "min": 60,
+        "max": 200
+      }
     },
     "answer": null,
     "maxPoints": 10

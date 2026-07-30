@@ -12,12 +12,15 @@
       "question": "Af hverju flutti Elín til Akureyrar?",
       "options": [
         "Hún fékk miklu betri laun þar.",
-        "Hana langaði til að prófa eitthvað nýtt.",
         "Öll fjölskyldan hennar býr á Akureyri.",
-        "Hún fann enga vinnu í Reykjavík."
+        "Hún fann enga vinnu í Reykjavík.",
+        "Hana langaði til að prófa eitthvað nýtt."
       ]
     },
-    "answer": { "type": "MCQ_SINGLE", "correctIndex": 1 },
+    "answer": {
+      "type": "MCQ_SINGLE",
+      "correctIndex": 3
+    },
     "maxPoints": 1
   },
   {
@@ -31,9 +34,15 @@
     "payload": {
       "passage": "Sundlaugin í hverfinu er opin alla virka daga frá klukkan sex á morgnana til tíu á kvöldin. Um helgar opnar hún klukkan átta og lokar klukkan sex síðdegis. Á rauðum dögum er laugin lokuð.",
       "question": "Sundlaugin opnar klukkan sex á laugardögum.",
-      "options": ["Rétt", "Rangt"]
+      "options": [
+        "Rangt",
+        "Rétt"
+      ]
     },
-    "answer": { "type": "TRUE_FALSE", "correctIndex": 1 },
+    "answer": {
+      "type": "TRUE_FALSE",
+      "correctIndex": 0
+    },
     "maxPoints": 1
   },
   {
@@ -47,15 +56,37 @@
     "payload": {
       "passage": "Þegar ég var yngri {{1}} ég oft í sveit til ömmu minnar á sumrin. Núna {{2}} ég helst að heimsækja hana um jólin því ég hef svo mikið að gera á sumrin.",
       "gaps": [
-        { "id": 1, "options": ["fer", "fór", "farið", "færi"] },
-        { "id": 2, "options": ["reyni", "reyna", "reynt", "reyndi"] }
+        {
+          "id": 1,
+          "options": [
+            "fer",
+            "fór",
+            "farið",
+            "færi"
+          ]
+        },
+        {
+          "id": 2,
+          "options": [
+            "reyni",
+            "reyna",
+            "reynt",
+            "reyndi"
+          ]
+        }
       ]
     },
     "answer": {
       "type": "CLOZE",
       "correct": [
-        { "id": 1, "index": 1 },
-        { "id": 2, "index": 0 }
+        {
+          "id": 1,
+          "index": 1
+        },
+        {
+          "id": 2,
+          "index": 0
+        }
       ]
     },
     "maxPoints": 2
@@ -71,13 +102,21 @@
     "payload": {
       "instructions": "Raðaðu setningunum í rétta tímaröð þannig að sagan verði rökrétt.",
       "items": [
-        "Anna vaknaði klukkan sjö og fékk sér morgunmat.",
-        "Eftir vinnu fór hún út í búð og keypti í matinn.",
         "Hún hjólaði í vinnuna og byrjaði að vinna klukkan níu.",
-        "Um kvöldið eldaði hún kvöldmat og slakaði á heima."
+        "Um kvöldið eldaði hún kvöldmat og slakaði á heima.",
+        "Anna vaknaði klukkan sjö og fékk sér morgunmat.",
+        "Eftir vinnu fór hún út í búð og keypti í matinn."
       ]
     },
-    "answer": { "type": "ORDERING", "order": [0, 2, 1, 3] },
+    "answer": {
+      "type": "ORDERING",
+      "order": [
+        2,
+        0,
+        3,
+        1
+      ]
+    },
     "maxPoints": 1
   },
   {
@@ -91,17 +130,34 @@
     "payload": {
       "passage": "Þrír vinir ræða helgina. Jón ætlar að fara í fjallgöngu ef veðrið verður gott. Sara ætlar að vera heima og klára bókina sem hún byrjaði á í síðustu viku. Kári ætlar að keyra austur og heimsækja foreldra sína úti á landi.",
       "instructions": "Tengdu hvern vin við það sem hann ætlar að gera um helgina.",
-      "left": ["Jón", "Sara", "Kári"],
+      "left": [
+        "Jón",
+        "Sara",
+        "Kári"
+      ],
       "right": [
-        "Lesa bók heima.",
-        "Ganga á fjall.",
+        "Heimsækja fjölskylduna úti á landi.",
         "Fara í sund með börnunum.",
-        "Heimsækja fjölskylduna úti á landi."
+        "Lesa bók heima.",
+        "Ganga á fjall."
       ]
     },
     "answer": {
       "type": "MATCHING",
-      "pairs": [[0, 1], [1, 0], [2, 3]]
+      "pairs": [
+        [
+          0,
+          3
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          0
+        ]
+      ]
     },
     "maxPoints": 3
   },
@@ -118,12 +174,15 @@
       "question": "Hvenær á viðkomandi bókaðan tíma?",
       "options": [
         "Á miðvikudaginn klukkan þrjú.",
-        "Á fimmtudaginn klukkan hálf þrjú.",
         "Á fimmtudaginn klukkan hálf fjögur.",
+        "Á fimmtudaginn klukkan hálf þrjú.",
         "Á miðvikudaginn klukkan hálf þrjú."
       ]
     },
-    "answer": { "type": "MCQ_SINGLE", "correctIndex": 1 },
+    "answer": {
+      "type": "MCQ_SINGLE",
+      "correctIndex": 2
+    },
     "maxPoints": 1
   },
   {
@@ -137,9 +196,15 @@
     "payload": {
       "transcript": "Á morgun verður skýjað um allt land. Í fyrramálið gæti rignt á Suðurlandi en það léttir til síðdegis. Hiti verður á milli fimm og átta stig. Á Norðurlandi verður þurrt en frekar kalt.",
       "question": "Samkvæmt spánni verður sól allan daginn á Suðurlandi.",
-      "options": ["Rétt", "Rangt"]
+      "options": [
+        "Rangt",
+        "Rétt"
+      ]
     },
-    "answer": { "type": "TRUE_FALSE", "correctIndex": 1 },
+    "answer": {
+      "type": "TRUE_FALSE",
+      "correctIndex": 0
+    },
     "maxPoints": 1
   },
   {
@@ -155,12 +220,15 @@
       "question": "Hvað ættu þeir sem eru að flýta sér að gera?",
       "options": [
         "Bíða í tuttugu mínútur eftir leið fimm.",
-        "Taka leið fimmtíu og fimm frá stæði númer þrjú.",
         "Hringja á leigubíl til flugvallarins.",
-        "Fara heim og koma aftur seinna."
+        "Fara heim og koma aftur seinna.",
+        "Taka leið fimmtíu og fimm frá stæði númer þrjú."
       ]
     },
-    "answer": { "type": "MCQ_SINGLE", "correctIndex": 1 },
+    "answer": {
+      "type": "MCQ_SINGLE",
+      "correctIndex": 3
+    },
     "maxPoints": 1
   },
   {
@@ -174,12 +242,34 @@
     "payload": {
       "transcript": "Ég ætla að segja ykkur frá fjölskyldunni minni. Pabbi minn er kokkur og vinnur á veitingastað í miðbænum. Mamma er hjúkrunarfræðingur og vinnur á spítalanum. Systir mín, hún Freyja, er nýbyrjuð sem kennari í grunnskóla.",
       "instructions": "Tengdu hvern fjölskyldumeðlim við starfið hans.",
-      "left": ["Pabbi", "Mamma", "Freyja"],
-      "right": ["Kennari", "Kokkur", "Hjúkrunarfræðingur", "Lögreglumaður"]
+      "left": [
+        "Pabbi",
+        "Mamma",
+        "Freyja"
+      ],
+      "right": [
+        "Kokkur",
+        "Kennari",
+        "Lögreglumaður",
+        "Hjúkrunarfræðingur"
+      ]
     },
     "answer": {
       "type": "MATCHING",
-      "pairs": [[0, 1], [1, 2], [2, 0]]
+      "pairs": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          1
+        ]
+      ]
     },
     "maxPoints": 3
   },
@@ -194,9 +284,15 @@
     "payload": {
       "transcript": "Hæ, þetta er Gunnar. Ég ætlaði bara að láta þig vita að ég verð aðeins seinn í kvöldmatinn, kannski korter yfir sjö í staðinn fyrir sjö. Sjáumst þá, bless!",
       "question": "Gunnar kemur fyrr en klukkan sjö.",
-      "options": ["Rétt", "Rangt"]
+      "options": [
+        "Rétt",
+        "Rangt"
+      ]
     },
-    "answer": { "type": "TRUE_FALSE", "correctIndex": 1 },
+    "answer": {
+      "type": "TRUE_FALSE",
+      "correctIndex": 1
+    },
     "maxPoints": 1
   },
   {
@@ -215,7 +311,10 @@
         "Explains what they enjoyed most and gives a reason or opinion",
         "Links ideas with connectors such as og, en, því or svo"
       ],
-      "charBand": { "min": 80, "max": 180 }
+      "charBand": {
+        "min": 80,
+        "max": 180
+      }
     },
     "answer": null,
     "maxPoints": 0
@@ -236,7 +335,10 @@
         "Makes one concrete suggestion for improvement",
         "Keeps a polite tone and organises ideas into short paragraphs"
       ],
-      "charBand": { "min": 80, "max": 180 }
+      "charBand": {
+        "min": 80,
+        "max": 180
+      }
     },
     "answer": null,
     "maxPoints": 0
@@ -257,7 +359,10 @@
         "Uses time expressions to organise the text",
         "Writes in connected sentences rather than a list"
       ],
-      "charBand": { "min": 80, "max": 180 }
+      "charBand": {
+        "min": 80,
+        "max": 180
+      }
     },
     "answer": null,
     "maxPoints": 0

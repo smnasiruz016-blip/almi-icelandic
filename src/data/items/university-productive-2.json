@@ -15,7 +15,10 @@
         "Uses connectors to structure the argument",
         "Maintains an academic register"
       ],
-      "charBand": { "min": 60, "max": 200 }
+      "charBand": {
+        "min": 60,
+        "max": 200
+      }
     },
     "answer": null,
     "maxPoints": 10
@@ -36,7 +39,10 @@
         "Draws a reasoned inference",
         "Organises ideas coherently"
       ],
-      "charBand": { "min": 60, "max": 200 }
+      "charBand": {
+        "min": 60,
+        "max": 200
+      }
     },
     "answer": null,
     "maxPoints": 10
@@ -57,7 +63,10 @@
         "Proposes a concrete new deadline",
         "Tone stays respectful and precise"
       ],
-      "charBand": { "min": 60, "max": 200 }
+      "charBand": {
+        "min": 60,
+        "max": 200
+      }
     },
     "answer": null,
     "maxPoints": 10
@@ -78,7 +87,10 @@
         "Gives a justified evaluation",
         "Uses comparative and contrastive language"
       ],
-      "charBand": { "min": 60, "max": 200 }
+      "charBand": {
+        "min": 60,
+        "max": 200
+      }
     },
     "answer": null,
     "maxPoints": 10
@@ -99,7 +111,10 @@
         "Links causes to solutions logically",
         "Demonstrates control of abstract vocabulary"
       ],
-      "charBand": { "min": 60, "max": 200 }
+      "charBand": {
+        "min": 60,
+        "max": 200
+      }
     },
     "answer": null,
     "maxPoints": 10
@@ -120,7 +135,10 @@
         "Supports reasoning with an example",
         "Uses hedging and academic phrasing"
       ],
-      "charBand": { "min": 60, "max": 200 }
+      "charBand": {
+        "min": 60,
+        "max": 200
+      }
     },
     "answer": null,
     "maxPoints": 10
@@ -141,7 +159,10 @@
         "Outlines a possible approach",
         "Writes with coherence and precision"
       ],
-      "charBand": { "min": 60, "max": 200 }
+      "charBand": {
+        "min": 60,
+        "max": 200
+      }
     },
     "answer": null,
     "maxPoints": 10
