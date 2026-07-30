@@ -11,13 +11,16 @@
       "passage": "Íslensk málstefna hefur lengi byggt á þeirri hugmynd að tungumálið sé sameiginleg eign þjóðarinnar og að rækta beri það með nýyrðasmíð fremur en að taka upp erlend tökuorð. Á síðustu áratugum hefur þó tæknivæðingin sett stefnuna í nýtt samhengi, því snjalltæki og hugbúnaður tala oftar en ekki ensku. Sumir fræðimenn telja að stafræn tilvist tungumálsins ráði úrslitum um framtíð þess, jafnvel meira en fjöldi talenda. Aðrir benda á að íslenskan hafi áður staðist ágang danskrar stjórnsýslu og latínu kirkjunnar án þess að glata sérkennum sínum. Deilan snýst því ekki aðeins um orðaforða heldur um hvort samfélagið hafi vilja til að nýta málið á öllum sviðum daglegs lífs.",
       "question": "Hvað telja sumir fræðimenn ráða mestu um framtíð íslenskunnar samkvæmt textanum?",
       "options": [
-        "Stafræn tilvist tungumálsins",
         "Fjöldi þeirra sem tala málið",
+        "Stafræn tilvist tungumálsins",
         "Áhrif dönsku stjórnsýslunnar",
         "Notkun latínu í kirkjunni"
       ]
     },
-    "answer": { "type": "MCQ_SINGLE", "correctIndex": 0 },
+    "answer": {
+      "type": "MCQ_SINGLE",
+      "correctIndex": 1
+    },
     "maxPoints": 1
   },
   {
@@ -32,13 +35,16 @@
       "passage": "Jarðvarmi hefur mótað íslenskt efnahagslíf með þeim hætti sem fáar aðrar þjóðir þekkja. Ódýr og endurnýjanleg orka hefur laðað að orkufrekan iðnað á borð við álbræðslur, sem lengi voru taldar hornsteinn útflutnings. Á seinni árum hafa gagnaver bæst í hópinn og nýtt sömu orkulindir til að knýja netþjóna erlendra fyrirtækja. Gagnrýnendur benda þó á að slík starfsemi skapi tiltölulega fá störf miðað við þá orku sem hún notar. Þeir spyrja hvort skynsamlegra væri að beina orkunni að nýsköpun sem byggir á hugviti fremur en hráu afli. Umræðan endurspeglar dýpri spurningu um hvers konar hagkerfi þjóðin vill byggja til framtíðar.",
       "question": "Hvaða gagnrýni er sett fram á gagnaver í textanum?",
       "options": [
-        "Þau menga meira en álbræðslur",
         "Þau skapa fá störf miðað við orkunotkun",
+        "Þau menga meira en álbræðslur",
         "Þau nota erlenda starfsmenn eingöngu",
         "Þau greiða ekki fyrir orkuna"
       ]
     },
-    "answer": { "type": "MCQ_SINGLE", "correctIndex": 1 },
+    "answer": {
+      "type": "MCQ_SINGLE",
+      "correctIndex": 0
+    },
     "maxPoints": 1
   },
   {
@@ -55,11 +61,14 @@
       "options": [
         "Þær eru nú taldar hlutlausar sögulegar heimildir",
         "Þær eru einkum notaðar í sjálfstæðisbaráttu",
-        "Áherslan hefur færst yfir á bókmenntalegt gildi þeirra",
-        "Þær hafa misst virðingu meðal fræðimanna"
+        "Þær hafa misst virðingu meðal fræðimanna",
+        "Áherslan hefur færst yfir á bókmenntalegt gildi þeirra"
       ]
     },
-    "answer": { "type": "MCQ_SINGLE", "correctIndex": 2 },
+    "answer": {
+      "type": "MCQ_SINGLE",
+      "correctIndex": 3
+    },
     "maxPoints": 1
   },
   {
@@ -74,13 +83,16 @@
       "passage": "Þéttbýlismyndun á höfuðborgarsvæðinu hefur kallað á endurskoðun á því hvernig borgir eiga að vaxa. Lengi vel réð bílamiðuð skipulagsstefna ríkjum og hverfin dreifðust víða um landrými. Nú er þrýstingur á að þétta byggð, stytta vegalengdir og efla almenningssamgöngur til að draga úr losun. Andstæðingar þéttingar óttast að grænum svæðum fækki og að húsnæðisverð hækki þegar eftirspurn eftir miðlægum lóðum eykst. Talsmenn hennar svara því til að vel skipulögð þétting geti raunar bætt lífsgæði með fjölbreyttara mannlífi og styttri ferðatíma. Niðurstaðan veltur á því hvort stjórnvöld nái að samræma ólík markmið í heildstæðri stefnu.",
       "question": "Hvað óttast andstæðingar þéttingar byggðar samkvæmt textanum?",
       "options": [
-        "Að almenningssamgöngur versni",
         "Að grænum svæðum fækki og húsnæðisverð hækki",
+        "Að almenningssamgöngur versni",
         "Að ferðatími lengist verulega",
         "Að bílum fjölgi í miðborginni"
       ]
     },
-    "answer": { "type": "MCQ_SINGLE", "correctIndex": 1 },
+    "answer": {
+      "type": "MCQ_SINGLE",
+      "correctIndex": 0
+    },
     "maxPoints": 1
   },
   {
@@ -96,12 +108,15 @@
       "question": "Hver er megintogstreitan sem textinn lýsir?",
       "options": [
         "Milli innlendra og erlendra nemenda",
-        "Milli kennara og stjórnenda",
         "Milli fjölda nemenda og gæða menntunar",
+        "Milli kennara og stjórnenda",
         "Milli fræðigreina og verknáms"
       ]
     },
-    "answer": { "type": "MCQ_SINGLE", "correctIndex": 2 },
+    "answer": {
+      "type": "MCQ_SINGLE",
+      "correctIndex": 1
+    },
     "maxPoints": 1
   },
   {
@@ -116,7 +131,10 @@
       "passage": "Kvótakerfið í sjávarútvegi var innleitt til að sporna gegn ofveiði og tryggja sjálfbæra nýtingu fiskistofna. Kerfið úthlutar aflaheimildum sem ganga kaupum og sölum á markaði, og hefur það aukið hagkvæmni greinarinnar til muna. Á móti kemur að aflaheimildir hafa safnast á færri hendur og mörg sjávarþorp hafa misst þann grundvöll sem þau byggðu á. Deilan um réttlæti kerfisins hefur því staðið óslitið í áratugi. Stuðningsmenn benda á að stofnar hafi styrkst en andstæðingar telja að þjóðin fái ekki sanngjarnan hlut af sameiginlegri auðlind.",
       "question": "Samkvæmt textanum hefur kvótakerfið dregið úr samþjöppun aflaheimilda."
     },
-    "answer": { "type": "TRUE_FALSE", "correctIndex": 1 },
+    "answer": {
+      "type": "TRUE_FALSE",
+      "correctIndex": 1
+    },
     "maxPoints": 1
   },
   {
@@ -131,7 +149,10 @@
       "passage": "Eftirlit með eldvirkni á Íslandi hefur tekið stakkaskiptum með tilkomu þéttriðins nets jarðskjálftamæla og GPS-stöðva. Vísindamenn geta nú fylgst með kvikuhreyfingum í rauntíma og greint aðdraganda goss með meiri nákvæmni en áður. Þrátt fyrir tæknina er ómögulegt að segja fyrir um nákvæma tímasetningu eldgoss með fullri vissu. Spálíkön byggja á líkindum fremur en afdráttarlausum niðurstöðum og óvissan er órjúfanlegur hluti starfsins. Almannavarnir reiða sig því á blöndu af mælingum, reynslu og varúðarráðstöfunum þegar ákvarðanir um rýmingu eru teknar.",
       "question": "Samkvæmt textanum geta vísindamenn nú spáð fyrir um nákvæma tímasetningu eldgosa með fullri vissu."
     },
-    "answer": { "type": "TRUE_FALSE", "correctIndex": 1 },
+    "answer": {
+      "type": "TRUE_FALSE",
+      "correctIndex": 1
+    },
     "maxPoints": 1
   },
   {
@@ -151,12 +172,28 @@
         "Framfærslutrygging"
       ],
       "right": [
+        "Lágmarksstuðningur sem tryggir grunnframfærslu einstaklinga",
         "Opinber þjónusta sem stendur öllum til boða óháð efnahag",
-        "Skattkerfi sem minnkar bilið milli hárra og lágra tekna",
-        "Lágmarksstuðningur sem tryggir grunnframfærslu einstaklinga"
+        "Skattkerfi sem minnkar bilið milli hárra og lágra tekna"
       ]
     },
-    "answer": { "type": "MATCHING", "pairs": [[0, 0], [1, 1], [2, 2]] },
+    "answer": {
+      "type": "MATCHING",
+      "pairs": [
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          0
+        ]
+      ]
+    },
     "maxPoints": 3
   },
   {
@@ -176,12 +213,28 @@
         "Mótvægisaðgerðir"
       ],
       "right": [
+        "Aðgerðir sem draga beint úr losun gróðurhúsalofttegunda",
         "Jafnvægi þar sem losun gróðurhúsalofttegunda er jöfnuð með bindingu",
-        "Ráðstafanir til að búa samfélög undir óumflýjanlegar afleiðingar hlýnunar",
-        "Aðgerðir sem draga beint úr losun gróðurhúsalofttegunda"
+        "Ráðstafanir til að búa samfélög undir óumflýjanlegar afleiðingar hlýnunar"
       ]
     },
-    "answer": { "type": "MATCHING", "pairs": [[0, 0], [1, 1], [2, 2]] },
+    "answer": {
+      "type": "MATCHING",
+      "pairs": [
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          0
+        ]
+      ]
+    },
     "maxPoints": 3
   },
   {
@@ -197,15 +250,37 @@
       "gaps": [
         {
           "id": 1,
-          "options": ["mælikvarðinn", "hornsteinn", "gallinn", "afleiðingin"]
+          "options": [
+            "mælikvarðinn",
+            "hornsteinn",
+            "gallinn",
+            "afleiðingin"
+          ]
         },
         {
           "id": 2,
-          "options": ["andstaða", "tregða", "vilji", "efi"]
+          "options": [
+            "vilji",
+            "andstaða",
+            "tregða",
+            "efi"
+          ]
         }
       ]
     },
-    "answer": { "type": "CLOZE", "correct": [{ "id": 1, "index": 1 }, { "id": 2, "index": 2 }] },
+    "answer": {
+      "type": "CLOZE",
+      "correct": [
+        {
+          "id": 1,
+          "index": 1
+        },
+        {
+          "id": 2,
+          "index": 0
+        }
+      ]
+    },
     "maxPoints": 2
   },
   {
@@ -220,13 +295,16 @@
       "transcript": "Í erindi sínu fjallaði prófessorinn um það hvernig samkeppnissjóðir hafa breytt vinnubrögðum vísindamanna. Hún benti á að umsóknarferlið sé orðið svo tímafrekt að margir eyði stórum hluta ársins í að skrifa umsóknir fremur en að stunda rannsóknir. Að hennar mati verðlaunar kerfið þá sem kunna að selja hugmyndir sínar fremur en þá sem vinna vandaðasta grunnrannsóknina. Hún lagði þó áherslu á að hún væri ekki andvíg samkeppni sem slíkri, heldur teldi hún jafnvægið hafa raskast. Í lokin kallaði hún eftir stöðugra grunnfjármagni sem gæfi rannsakendum svigrúm til langtímaverkefna.",
       "question": "Hvað telur prófessorinn helsta gallann á samkeppnissjóðum?",
       "options": [
-        "Að þeir veiti of lítið fé",
         "Að umsóknarferlið taki tíma frá rannsóknum",
+        "Að þeir veiti of lítið fé",
         "Að þeir útiloki unga vísindamenn",
         "Að þeir styðji aðeins erlend verkefni"
       ]
     },
-    "answer": { "type": "MCQ_SINGLE", "correctIndex": 1 },
+    "answer": {
+      "type": "MCQ_SINGLE",
+      "correctIndex": 0
+    },
     "maxPoints": 1
   },
   {
@@ -242,12 +320,15 @@
       "question": "Um hvað voru gestirnir báðir sammála?",
       "options": [
         "Að banna ætti frekari fjölgun ferðamanna",
-        "Að komugjald myndi fæla alla frá",
         "Að stýring vaxtarins væri lykilatriðið",
+        "Að komugjald myndi fæla alla frá",
         "Að ferðaþjónustan skaðaði hagkerfið"
       ]
     },
-    "answer": { "type": "MCQ_SINGLE", "correctIndex": 2 },
+    "answer": {
+      "type": "MCQ_SINGLE",
+      "correctIndex": 1
+    },
     "maxPoints": 1
   },
   {
@@ -263,12 +344,15 @@
       "question": "Hvers vegna er erfitt fyrir stjórnmálamenn að forgangsraða forvörnum að mati læknisins?",
       "options": [
         "Forvarnir eru of dýrar í framkvæmd",
-        "Ávinningurinn kemur ekki fram fyrr en löngu síðar",
         "Almenningur er andvígur forvörnum",
-        "Forvarnir virka sjaldan sem skyldi"
+        "Forvarnir virka sjaldan sem skyldi",
+        "Ávinningurinn kemur ekki fram fyrr en löngu síðar"
       ]
     },
-    "answer": { "type": "MCQ_SINGLE", "correctIndex": 1 },
+    "answer": {
+      "type": "MCQ_SINGLE",
+      "correctIndex": 3
+    },
     "maxPoints": 1
   },
   {
@@ -284,12 +368,15 @@
       "question": "Hvaða lausn leggur fjölmiðlafræðingurinn áherslu á?",
       "options": [
         "Ritskoðun á samfélagsmiðlum",
-        "Bann við reikniritum",
         "Aukna miðlalæsi almennings",
+        "Bann við reikniritum",
         "Að leggja samfélagsmiðla niður"
       ]
     },
-    "answer": { "type": "MCQ_SINGLE", "correctIndex": 2 },
+    "answer": {
+      "type": "MCQ_SINGLE",
+      "correctIndex": 1
+    },
     "maxPoints": 1
   },
   {
@@ -305,12 +392,15 @@
       "question": "Hver er megináhyggja hagfræðingsins varðandi sjálfvirkni?",
       "options": [
         "Að öll störf muni hverfa",
-        "Hraði breytinganna og hvort menntakerfið fylgi eftir",
         "Að vélar verði mönnum snjallari",
-        "Að ný störf verði ekki til"
+        "Að ný störf verði ekki til",
+        "Hraði breytinganna og hvort menntakerfið fylgi eftir"
       ]
     },
-    "answer": { "type": "MCQ_SINGLE", "correctIndex": 1 },
+    "answer": {
+      "type": "MCQ_SINGLE",
+      "correctIndex": 3
+    },
     "maxPoints": 1
   },
   {
@@ -331,7 +421,10 @@
         "Að listir ættu einungis að lúta markaðnum"
       ]
     },
-    "answer": { "type": "MCQ_SINGLE", "correctIndex": 2 },
+    "answer": {
+      "type": "MCQ_SINGLE",
+      "correctIndex": 2
+    },
     "maxPoints": 1
   },
   {
@@ -346,7 +439,10 @@
       "transcript": "Í fréttaskýringu var farið yfir stöðuna á húsnæðismarkaði. Sérfræðingurinn útskýrði að framboð á nýjum íbúðum hefði ekki haldið í við fólksfjölgun undanfarin ár, sem hefði ýtt undir verðhækkanir. Hann sagði að byggingaraðilar hefðu að miklu leyti einbeitt sér að dýrari eignum þar sem framlegð væri meiri, á meðan skortur væri einkum á hagkvæmu húsnæði fyrir ungt fólk og tekjulægri hópa. Að hans mati þyrfti samræmt átak sveitarfélaga og ríkis til að auka framboð í þeim flokki. Hann varaði við því að án slíkra aðgerða myndi ójöfnuður á markaði halda áfram að aukast.",
       "question": "Samkvæmt fréttaskýringunni hefur skorturinn einkum verið á hagkvæmu húsnæði fyrir tekjulægri hópa."
     },
-    "answer": { "type": "TRUE_FALSE", "correctIndex": 0 },
+    "answer": {
+      "type": "TRUE_FALSE",
+      "correctIndex": 0
+    },
     "maxPoints": 1
   },
   {
@@ -361,7 +457,10 @@
       "transcript": "Í viðtali sagði jöklafræðingur frá niðurstöðum langtímamælinga á íslenskum jöklum. Hún útskýrði að jöklarnir hefðu hopað verulega á síðustu áratugum og að rúmmál þeirra minnkaði ár frá ári. Hún tók þó fram að hraði bráðnunarinnar væri ekki jafn milli ára, því veðurfar hvers sumars réði miklu um ástandið. Þrátt fyrir árlegar sveiflur væri heildarþróunin ótvíræð og í takt við hlýnun jarðar. Hún benti á að bráðnun jöklanna hefði ekki aðeins umhverfisleg áhrif heldur einnig menningarleg, því landslagið sem þjóðin þekkir sé að breytast fyrir augum hennar.",
       "question": "Samkvæmt jöklafræðingnum er hraði bráðnunarinnar nákvæmlega sá sami milli ára."
     },
-    "answer": { "type": "TRUE_FALSE", "correctIndex": 1 },
+    "answer": {
+      "type": "TRUE_FALSE",
+      "correctIndex": 1
+    },
     "maxPoints": 1
   },
   {
@@ -381,12 +480,28 @@
         "Sigrún"
       ],
       "right": [
-        "Fjarvinna getur breytt búsetumynstri",
         "Grunnþjónusta í heimabyggð er forsenda búsetu",
-        "Lifandi menningarlíf laðar ungt fólk að"
+        "Lifandi menningarlíf laðar ungt fólk að",
+        "Fjarvinna getur breytt búsetumynstri"
       ]
     },
-    "answer": { "type": "MATCHING", "pairs": [[0, 0], [1, 1], [2, 2]] },
+    "answer": {
+      "type": "MATCHING",
+      "pairs": [
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          2,
+          1
+        ]
+      ]
+    },
     "maxPoints": 3
   },
   {
@@ -406,12 +521,28 @@
         "Vindorka"
       ],
       "right": [
-        "Hægt að stýra eftir eftirspurn",
         "Stöðugur grunnur allan ársins hring",
-        "Sveiflukennd og háð veðri"
+        "Sveiflukennd og háð veðri",
+        "Hægt að stýra eftir eftirspurn"
       ]
     },
-    "answer": { "type": "MATCHING", "pairs": [[0, 0], [1, 1], [2, 2]] },
+    "answer": {
+      "type": "MATCHING",
+      "pairs": [
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          2,
+          1
+        ]
+      ]
+    },
     "maxPoints": 3
   },
   {
@@ -430,7 +561,10 @@
         "Blæbrigðaríkur orðaforði á C1-stigi",
         "Mótrök tekin fyrir og þeim svarað"
       ],
-      "charBand": { "min": 200, "max": 400 }
+      "charBand": {
+        "min": 200,
+        "max": 400
+      }
     },
     "answer": null,
     "maxPoints": 10
@@ -451,7 +585,10 @@
         "Nákvæm notkun tengiorða",
         "Fjölbreytt setningagerð"
       ],
-      "charBand": { "min": 200, "max": 400 }
+      "charBand": {
+        "min": 200,
+        "max": 400
+      }
     },
     "answer": null,
     "maxPoints": 10
@@ -472,7 +609,10 @@
         "Dæmi sem styðja fullyrðingar",
         "Vandaður frágangur og málfar"
       ],
-      "charBand": { "min": 200, "max": 400 }
+      "charBand": {
+        "min": 200,
+        "max": 400
+      }
     },
     "answer": null,
     "maxPoints": 10
@@ -493,7 +633,10 @@
         "Meðvitund um afleiðingar stefnunnar",
         "C1-orðaforði um menntamál"
       ],
-      "charBand": { "min": 200, "max": 400 }
+      "charBand": {
+        "min": 200,
+        "max": 400
+      }
     },
     "answer": null,
     "maxPoints": 10
@@ -514,7 +657,10 @@
         "Rökleg tenging milli fullyrðinga",
         "Blæbrigðarík framsetning"
       ],
-      "charBand": { "min": 200, "max": 400 }
+      "charBand": {
+        "min": 200,
+        "max": 400
+      }
     },
     "answer": null,
     "maxPoints": 10
@@ -535,7 +681,10 @@
         "Notkun viðeigandi hugtaka",
         "Skýr efnisgreinaskipting"
       ],
-      "charBand": { "min": 200, "max": 400 }
+      "charBand": {
+        "min": 200,
+        "max": 400
+      }
     },
     "answer": null,
     "maxPoints": 10
@@ -556,7 +705,10 @@
         "Mótrökum svarað málefnalega",
         "Öruggt vald á formlegu málfari"
       ],
-      "charBand": { "min": 200, "max": 400 }
+      "charBand": {
+        "min": 200,
+        "max": 400
+      }
     },
     "answer": null,
     "maxPoints": 10
@@ -577,7 +729,10 @@
         "Raunhæf dæmi eða afleiðingar",
         "Fjölbreyttur og nákvæmur orðaforði"
       ],
-      "charBand": { "min": 200, "max": 400 }
+      "charBand": {
+        "min": 200,
+        "max": 400
+      }
     },
     "answer": null,
     "maxPoints": 10
@@ -598,7 +753,10 @@
         "Umfjöllun um mögulega annmarka",
         "Rökrétt bygging og málfarslegt öryggi"
       ],
-      "charBand": { "min": 200, "max": 400 }
+      "charBand": {
+        "min": 200,
+        "max": 400
+      }
     },
     "answer": null,
     "maxPoints": 10
@@ -619,7 +777,10 @@
         "Meðvitund um menningarlegt gildi",
         "Nákvæm og blæbrigðarík framsetning"
       ],
-      "charBand": { "min": 200, "max": 400 }
+      "charBand": {
+        "min": 200,
+        "max": 400
+      }
     },
     "answer": null,
     "maxPoints": 10
@@ -640,7 +801,10 @@
         "Tenging við samfélagslegan ávinning",
         "Vandað formlegt málfar"
       ],
-      "charBand": { "min": 200, "max": 400 }
+      "charBand": {
+        "min": 200,
+        "max": 400
+      }
     },
     "answer": null,
     "maxPoints": 10
@@ -661,7 +825,10 @@
         "Meðvitund um ólíka lesendahópa",
         "Blæbrigðarík og formleg framsetning"
       ],
-      "charBand": { "min": 200, "max": 400 }
+      "charBand": {
+        "min": 200,
+        "max": 400
+      }
     },
     "answer": null,
     "maxPoints": 10

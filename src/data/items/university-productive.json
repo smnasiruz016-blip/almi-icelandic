@@ -16,7 +16,10 @@
         "Uses formal academic register and logical connectors (til dæmis, hins vegar, þar af leiðandi)",
         "Shows accurate control of Icelandic case marking and verb agreement at B2/C1 level"
       ],
-      "charBand": { "min": 150, "max": 300 }
+      "charBand": {
+        "min": 150,
+        "max": 300
+      }
     },
     "answer": null,
     "maxPoints": 0
@@ -38,7 +41,10 @@
         "Maintains polite, formal register throughout with correct use of þér/formal forms where appropriate",
         "Organises the message into coherent paragraphs with accurate spelling of Icelandic special characters"
       ],
-      "charBand": { "min": 150, "max": 300 }
+      "charBand": {
+        "min": 150,
+        "max": 300
+      }
     },
     "answer": null,
     "maxPoints": 0
@@ -60,7 +66,10 @@
         "Preserves the logical relationship between cause and effect from the original",
         "Demonstrates paraphrasing skill with accurate B2/C1 vocabulary and syntax"
       ],
-      "charBand": { "min": 150, "max": 300 }
+      "charBand": {
+        "min": 150,
+        "max": 300
+      }
     },
     "answer": null,
     "maxPoints": 0
@@ -82,7 +91,10 @@
         "Uses persuasive but sincere academic tone without empty cliché",
         "Shows cohesive paragraph structure and accurate Icelandic grammar at B2/C1 level"
       ],
-      "charBand": { "min": 150, "max": 300 }
+      "charBand": {
+        "min": 150,
+        "max": 300
+      }
     },
     "answer": null,
     "maxPoints": 0
@@ -104,7 +116,10 @@
         "Distinguishes clearly between describing data and interpreting it",
         "Uses precise numerical and comparative vocabulary with correct Icelandic number and case forms"
       ],
-      "charBand": { "min": 150, "max": 300 }
+      "charBand": {
+        "min": 150,
+        "max": 300
+      }
     },
     "answer": null,
     "maxPoints": 0
@@ -126,7 +141,10 @@
         "Structures the essay with an introduction, body and brief conclusion",
         "Employs academic connectors and accurate subordinate clause construction in Icelandic"
       ],
-      "charBand": { "min": 150, "max": 300 }
+      "charBand": {
+        "min": 150,
+        "max": 300
+      }
     },
     "answer": null,
     "maxPoints": 0
@@ -148,7 +166,10 @@
         "Maintains respectful, formal register and appropriate opening and closing",
         "Demonstrates control of past-tense narration and formal Icelandic phrasing at B2/C1 level"
       ],
-      "charBand": { "min": 150, "max": 300 }
+      "charBand": {
+        "min": 150,
+        "max": 300
+      }
     },
     "answer": null,
     "maxPoints": 0
@@ -170,7 +191,10 @@
         "Keeps an objective tone in the summary section",
         "Uses reporting verbs (heldur fram, bendir á, telur) and accurate Icelandic syntax"
       ],
-      "charBand": { "min": 150, "max": 300 }
+      "charBand": {
+        "min": 150,
+        "max": 300
+      }
     },
     "answer": null,
     "maxPoints": 0

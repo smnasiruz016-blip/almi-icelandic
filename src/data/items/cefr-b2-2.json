@@ -17,7 +17,10 @@
         "Stjórnendur eru sammála um kosti fjarvinnu."
       ]
     },
-    "answer": { "type": "MCQ_SINGLE", "correctIndex": 1 },
+    "answer": {
+      "type": "MCQ_SINGLE",
+      "correctIndex": 1
+    },
     "maxPoints": 1
   },
   {
@@ -33,12 +36,15 @@
       "question": "Hvaða áhyggjur eru settar fram í textanum?",
       "options": [
         "Að landsmiðlar fjalli of mikið um sveitarfélög.",
-        "Að samfélagsmiðlar séu alltaf áreiðanlegir.",
         "Að eftirlit með valdhöfum geti veikst án staðbundinna miðla.",
+        "Að samfélagsmiðlar séu alltaf áreiðanlegir.",
         "Að kjósendur hafi of miklar upplýsingar."
       ]
     },
-    "answer": { "type": "MCQ_SINGLE", "correctIndex": 2 },
+    "answer": {
+      "type": "MCQ_SINGLE",
+      "correctIndex": 1
+    },
     "maxPoints": 1
   },
   {
@@ -53,13 +59,16 @@
       "passage": "Fjölgun ferðamanna hefur fært þjóðarbúinu miklar tekjur en jafnframt skapað álag á náttúru og innviði. Vinsælir staðir slitna hraðar en áður og íbúar á sumum svæðum kvarta undan hækkandi húsnæðisverði. Stjórnvöld standa frammi fyrir þeirri spurningu hvort takmarka eigi aðgang að viðkvæmum stöðum eða treysta á að gjaldtaka dreifi álaginu. Hvorug leiðin er gallalaus og andstæð sjónarmið takast á í umræðunni.",
       "question": "Hvað gefur textinn til kynna um lausnirnar tvær?",
       "options": [
-        "Báðar hafa galla og eru umdeildar.",
         "Gjaldtaka leysir vandann fullkomlega.",
         "Takmörkun aðgangs er óþörf.",
+        "Báðar hafa galla og eru umdeildar.",
         "Íbúar styðja allir hækkandi húsnæðisverð."
       ]
     },
-    "answer": { "type": "MCQ_SINGLE", "correctIndex": 0 },
+    "answer": {
+      "type": "MCQ_SINGLE",
+      "correctIndex": 2
+    },
     "maxPoints": 1
   },
   {
@@ -75,12 +84,15 @@
       "question": "Hvaða atriði dregur textinn fram?",
       "options": [
         "Sjálfboðaliðastarf gagnast eingöngu öðrum.",
-        "Sjálfboðaliðar geta sjálfir haft óbeinan ávinning af starfinu.",
         "Sjálfboðaliðastarf dregur úr færni fólks.",
-        "Eftirspurn eftir sjálfboðaliðastarfi fer minnkandi."
+        "Eftirspurn eftir sjálfboðaliðastarfi fer minnkandi.",
+        "Sjálfboðaliðar geta sjálfir haft óbeinan ávinning af starfinu."
       ]
     },
-    "answer": { "type": "MCQ_SINGLE", "correctIndex": 1 },
+    "answer": {
+      "type": "MCQ_SINGLE",
+      "correctIndex": 3
+    },
     "maxPoints": 1
   },
   {
@@ -95,13 +107,16 @@
       "passage": "Íslensk tunga stendur frammi fyrir áskorunum í heimi þar sem enska er ríkjandi í tækni og afþreyingu. Sumir óttast að börn noti íslensku sífellt minna og að orðaforðinn rýrni. Aðrir benda á að tungumál hafi alltaf tekið breytingum og að aðlögun sé ekki það sama og hnignun. Umræðan snýst því ekki aðeins um málfræði heldur einnig um sjálfsmynd og menningarlegt öryggi þjóðarinnar.",
       "question": "Hvernig lýsir textinn umræðunni um íslensku?",
       "options": [
-        "Sem tæknilegri deilu án tengsla við menningu.",
         "Sem umræðu sem snertir bæði tungumál og sjálfsmynd.",
+        "Sem tæknilegri deilu án tengsla við menningu.",
         "Sem óþarfa áhyggjum sem enginn tekur alvarlega.",
         "Sem sönnun þess að tungumálið sé þegar horfið."
       ]
     },
-    "answer": { "type": "MCQ_SINGLE", "correctIndex": 1 },
+    "answer": {
+      "type": "MCQ_SINGLE",
+      "correctIndex": 0
+    },
     "maxPoints": 1
   },
   {
@@ -115,9 +130,15 @@
     "payload": {
       "passage": "Þótt endurvinnsla sé mikilvæg lausn á úrgangsvanda telja sérfræðingar að hún ein og sér dugi ekki. Þeir leggja áherslu á að draga þurfi úr neyslu og hönnun umbúða frá upphafi. Endurvinnsla verður þá síðasta skrefið en ekki eina úrræðið. Þessi nálgun krefst breytinga bæði hjá framleiðendum og neytendum.",
       "statement": "Samkvæmt textanum er endurvinnsla ein og sér nægileg lausn á úrgangsvandanum.",
-      "options": ["Rétt", "Rangt"]
+      "options": [
+        "Rangt",
+        "Rétt"
+      ]
     },
-    "answer": { "type": "TRUE_FALSE", "correctIndex": 1 },
+    "answer": {
+      "type": "TRUE_FALSE",
+      "correctIndex": 0
+    },
     "maxPoints": 1
   },
   {
@@ -131,9 +152,15 @@
     "payload": {
       "passage": "Tilraunir með fjögurra daga vinnuviku hafa vakið athygli víða um heim. Í mörgum tilfellum hélst framleiðni óbreytt eða jókst, á meðan starfsfólk sagðist minna þreytt. Þó vara sumir við því að niðurstöðurnar eigi ekki endilega við um allar atvinnugreinar. Þjónustustörf með fastan opnunartíma geta til dæmis reynst erfiðari í framkvæmd.",
       "statement": "Textinn segir að fjögurra daga vinnuvika henti jafn vel öllum atvinnugreinum.",
-      "options": ["Rétt", "Rangt"]
+      "options": [
+        "Rangt",
+        "Rétt"
+      ]
     },
-    "answer": { "type": "TRUE_FALSE", "correctIndex": 1 },
+    "answer": {
+      "type": "TRUE_FALSE",
+      "correctIndex": 0
+    },
     "maxPoints": 1
   },
   {
@@ -147,14 +174,34 @@
     "payload": {
       "passage": "Í umræðu um umhverfismál koma oft fyrir hugtök sem rugla má saman. Hér eru nokkur þeirra skýrð stuttlega.",
       "instructions": "Tengdu hvert hugtak við rétta skýringu.",
-      "left": ["Kolefnisspor", "Endurnýjanleg orka", "Hringrásarhagkerfi"],
+      "left": [
+        "Kolefnisspor",
+        "Endurnýjanleg orka",
+        "Hringrásarhagkerfi"
+      ],
       "right": [
-        "Orka sem endurnýjast, svo sem vatnsafl og vindur.",
         "Efnahagskerfi þar sem efni eru nýtt aftur og aftur.",
-        "Heildarlosun gróðurhúsalofttegunda af völdum athafna."
+        "Heildarlosun gróðurhúsalofttegunda af völdum athafna.",
+        "Orka sem endurnýjast, svo sem vatnsafl og vindur."
       ]
     },
-    "answer": { "type": "MATCHING", "pairs": [[0, 2], [1, 0], [2, 1]] },
+    "answer": {
+      "type": "MATCHING",
+      "pairs": [
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          0
+        ]
+      ]
+    },
     "maxPoints": 3
   },
   {
@@ -168,14 +215,34 @@
     "payload": {
       "passage": "Á ritstjórn fjölmiðils gegna ólíkir starfsmenn ólíkum hlutverkum sem saman tryggja vandaða umfjöllun.",
       "instructions": "Tengdu hvert hlutverk við það verkefni sem á best við.",
-      "left": ["Blaðamaður", "Prófarkalesari", "Ljósmyndari"],
+      "left": [
+        "Blaðamaður",
+        "Prófarkalesari",
+        "Ljósmyndari"
+      ],
       "right": [
-        "Yfirfer texta og leiðréttir villur fyrir birtingu.",
         "Aflar upplýsinga og skrifar fréttir.",
-        "Tekur myndir sem fylgja umfjölluninni."
+        "Tekur myndir sem fylgja umfjölluninni.",
+        "Yfirfer texta og leiðréttir villur fyrir birtingu."
       ]
     },
-    "answer": { "type": "MATCHING", "pairs": [[0, 1], [1, 0], [2, 2]] },
+    "answer": {
+      "type": "MATCHING",
+      "pairs": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          1
+        ]
+      ]
+    },
     "maxPoints": 3
   },
   {
@@ -189,11 +256,37 @@
     "payload": {
       "passage": "Opinber {{1}} til lista og menningar er sífellt umdeild. Þeir sem styðja hana telja að án hennar myndi fjölbreytt menningarlíf {{2}}, enda skila markaðsöflin ekki alltaf því sem samfélagið metur mest.",
       "gaps": [
-        { "id": 1, "options": ["fjárveiting", "íþrótt", "veðurspá"] },
-        { "id": 2, "options": ["blómstra", "veikjast", "hækka"] }
+        {
+          "id": 1,
+          "options": [
+            "íþrótt",
+            "fjárveiting",
+            "veðurspá"
+          ]
+        },
+        {
+          "id": 2,
+          "options": [
+            "veikjast",
+            "blómstra",
+            "hækka"
+          ]
+        }
       ]
     },
-    "answer": { "type": "CLOZE", "correct": [{ "id": 1, "index": 0 }, { "id": 2, "index": 1 }] },
+    "answer": {
+      "type": "CLOZE",
+      "correct": [
+        {
+          "id": 1,
+          "index": 1
+        },
+        {
+          "id": 2,
+          "index": 0
+        }
+      ]
+    },
     "maxPoints": 2
   },
   {
@@ -209,12 +302,15 @@
       "question": "Hvað leggur gesturinn til?",
       "options": [
         "Að hækka leiguverð enn frekar.",
-        "Að byggja fleiri litlar og hagkvæmar íbúðir.",
         "Að treysta eingöngu á markaðinn.",
-        "Að lækka laun ungs fólks."
+        "Að lækka laun ungs fólks.",
+        "Að byggja fleiri litlar og hagkvæmar íbúðir."
       ]
     },
-    "answer": { "type": "MCQ_SINGLE", "correctIndex": 1 },
+    "answer": {
+      "type": "MCQ_SINGLE",
+      "correctIndex": 3
+    },
     "maxPoints": 1
   },
   {
@@ -235,7 +331,10 @@
         "Að forðast rólega iðju á kvöldin."
       ]
     },
-    "answer": { "type": "MCQ_SINGLE", "correctIndex": 2 },
+    "answer": {
+      "type": "MCQ_SINGLE",
+      "correctIndex": 2
+    },
     "maxPoints": 1
   },
   {
@@ -251,12 +350,15 @@
       "question": "Hvernig tókst eigandanum að halda rekstrinum gangandi?",
       "options": [
         "Með því að lækka verð undir netverslanir.",
-        "Með viðburðum og persónulegri þjónustu.",
         "Með því að loka búðinni oftar.",
-        "Með því að hætta að selja bækur."
+        "Með því að hætta að selja bækur.",
+        "Með viðburðum og persónulegri þjónustu."
       ]
     },
-    "answer": { "type": "MCQ_SINGLE", "correctIndex": 1 },
+    "answer": {
+      "type": "MCQ_SINGLE",
+      "correctIndex": 3
+    },
     "maxPoints": 1
   },
   {
@@ -271,13 +373,16 @@
       "transcript": "Athugið að frá og með næstu viku breytist leið strætisvagns númer fjórtán vegna framkvæmda í miðbænum. Vagninn mun ekki stoppa við Ráðhúsið heldur við bókasafnið í staðinn. Farþegar sem þurfa að komast í miðbæinn eru beðnir um að nota leið sex, sem gengur óbreytt. Breytingin gildir í um það bil þrjár vikur.",
       "question": "Hvað eiga farþegar að gera til að komast í miðbæinn?",
       "options": [
+        "Nota leið sex.",
         "Nota leið fjórtán eins og áður.",
         "Bíða við Ráðhúsið.",
-        "Nota leið sex.",
         "Ganga í þrjár vikur."
       ]
     },
-    "answer": { "type": "MCQ_SINGLE", "correctIndex": 2 },
+    "answer": {
+      "type": "MCQ_SINGLE",
+      "correctIndex": 0
+    },
     "maxPoints": 1
   },
   {
@@ -298,7 +403,10 @@
         "Að spjaldtölvur ættu að koma í stað kennara."
       ]
     },
-    "answer": { "type": "MCQ_SINGLE", "correctIndex": 1 },
+    "answer": {
+      "type": "MCQ_SINGLE",
+      "correctIndex": 1
+    },
     "maxPoints": 1
   },
   {
@@ -313,13 +421,16 @@
       "transcript": "Í hlaðvarpinu ræddi gestur um matarsóun á heimilum. Hún sagði að stór hluti þess matar sem hent er sé enn fullkomlega ætur og að oft sé vandinn skipulagsleysi frekar en skortur á vilja. Einfalt ráð sem hún nefndi var að skrifa innkaupalista áður en farið er í búð og skipuleggja máltíðir vikunnar fyrir fram.",
       "question": "Hvað telur gesturinn vera aðalorsök matarsóunar á heimilum?",
       "options": [
-        "Að fólk vilji henda mat.",
         "Skipulagsleysi frekar en skort á vilja.",
+        "Að fólk vilji henda mat.",
         "Að matur sé of dýr.",
         "Að búðir séu of langt í burtu."
       ]
     },
-    "answer": { "type": "MCQ_SINGLE", "correctIndex": 1 },
+    "answer": {
+      "type": "MCQ_SINGLE",
+      "correctIndex": 0
+    },
     "maxPoints": 1
   },
   {
@@ -333,9 +444,15 @@
     "payload": {
       "transcript": "Veðurstofan hefur gefið út gula viðvörun fyrir suðausturland vegna mikillar rigningar og hvassviðris á morgun. Búist er við að vegir geti orðið hálir og skyggni skert. Vegfarendur eru hvattir til að aka varlega og fylgjast með uppfærðum spám. Viðvörunin tekur gildi klukkan sex að morgni.",
       "statement": "Viðvörunin gildir fyrir suðausturland.",
-      "options": ["Rétt", "Rangt"]
+      "options": [
+        "Rangt",
+        "Rétt"
+      ]
     },
-    "answer": { "type": "TRUE_FALSE", "correctIndex": 0 },
+    "answer": {
+      "type": "TRUE_FALSE",
+      "correctIndex": 1
+    },
     "maxPoints": 1
   },
   {
@@ -349,9 +466,15 @@
     "payload": {
       "transcript": "Velkomin á safnið. Leiðsögnin í dag hefst klukkan tvö og tekur um það bil fjörutíu og fimm mínútur. Athugið að ljósmyndun án flass er leyfð á neðri hæðinni en bönnuð í sérsýningunni á efri hæð. Í lok leiðsagnarinnar gefst tími fyrir spurningar.",
       "statement": "Ljósmyndun er leyfð í sérsýningunni á efri hæð.",
-      "options": ["Rétt", "Rangt"]
+      "options": [
+        "Rangt",
+        "Rétt"
+      ]
     },
-    "answer": { "type": "TRUE_FALSE", "correctIndex": 1 },
+    "answer": {
+      "type": "TRUE_FALSE",
+      "correctIndex": 0
+    },
     "maxPoints": 1
   },
   {
@@ -365,14 +488,34 @@
     "payload": {
       "transcript": "Þrír íbúar tjáðu sig um nýja göngugötu í bænum. Anna sagðist ánægð því nú væri öruggara fyrir börn að leika sér. Björn hafði áhyggjur af því að verslanir misstu viðskiptavini sem kæmu akandi. Dísa benti á að loftgæði hefðu batnað eftir að bílum fækkaði.",
       "instructions": "Tengdu hvern íbúa við skoðun hans.",
-      "left": ["Anna", "Björn", "Dísa"],
+      "left": [
+        "Anna",
+        "Björn",
+        "Dísa"
+      ],
       "right": [
-        "Óttast að verslanir missi viðskiptavini.",
         "Telur öryggi barna hafa aukist.",
-        "Bendir á betri loftgæði."
+        "Bendir á betri loftgæði.",
+        "Óttast að verslanir missi viðskiptavini."
       ]
     },
-    "answer": { "type": "MATCHING", "pairs": [[0, 1], [1, 0], [2, 2]] },
+    "answer": {
+      "type": "MATCHING",
+      "pairs": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          1
+        ]
+      ]
+    },
     "maxPoints": 3
   },
   {
@@ -386,14 +529,34 @@
     "payload": {
       "transcript": "Hér er dagskrá menningarhátíðarinnar. Á föstudaginn verður opnunartónleikar á torginu. Á laugardaginn stendur yfir handverksmarkaður allan daginn. Á sunnudaginn lýkur hátíðinni með fjölskyldudagskrá og leiksýningu fyrir börn.",
       "instructions": "Tengdu hvern dag við réttan viðburð.",
-      "left": ["Föstudagur", "Laugardagur", "Sunnudagur"],
+      "left": [
+        "Föstudagur",
+        "Laugardagur",
+        "Sunnudagur"
+      ],
       "right": [
-        "Handverksmarkaður allan daginn.",
         "Opnunartónleikar á torginu.",
-        "Fjölskyldudagskrá og leiksýning."
+        "Fjölskyldudagskrá og leiksýning.",
+        "Handverksmarkaður allan daginn."
       ]
     },
-    "answer": { "type": "MATCHING", "pairs": [[0, 1], [1, 0], [2, 2]] },
+    "answer": {
+      "type": "MATCHING",
+      "pairs": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          1
+        ]
+      ]
+    },
     "maxPoints": 3
   },
   {
@@ -406,8 +569,16 @@
     "prompt": "Write a formal email in Icelandic.",
     "payload": {
       "stimulus": "Skrifaðu formlegan tölvupóst til þjónustuvers netverslunar þar sem þú kvartar yfir vöru sem kom skemmd og biður um úrlausn.",
-      "criteria": ["Formlegt orðalag og kurteisi", "Skýr lýsing á vandanum", "Skýr krafa um úrbætur", "Rétt uppbygging tölvupósts"],
-      "charBand": { "min": 120, "max": 250 }
+      "criteria": [
+        "Formlegt orðalag og kurteisi",
+        "Skýr lýsing á vandanum",
+        "Skýr krafa um úrbætur",
+        "Rétt uppbygging tölvupósts"
+      ],
+      "charBand": {
+        "min": 120,
+        "max": 250
+      }
     },
     "answer": null,
     "maxPoints": 10
@@ -422,8 +593,16 @@
     "prompt": "Write an opinion text in Icelandic.",
     "payload": {
       "stimulus": "Skrifaðu álitsgrein um hvort auka eigi fjárveitingar til almenningssamgangna í þínu samfélagi. Rökstyddu afstöðu þína.",
-      "criteria": ["Skýr afstaða", "Að minnsta kosti tvö rök", "Skipuleg efnisgrein", "Fjölbreyttur orðaforði"],
-      "charBand": { "min": 120, "max": 250 }
+      "criteria": [
+        "Skýr afstaða",
+        "Að minnsta kosti tvö rök",
+        "Skipuleg efnisgrein",
+        "Fjölbreyttur orðaforði"
+      ],
+      "charBand": {
+        "min": 120,
+        "max": 250
+      }
     },
     "answer": null,
     "maxPoints": 10
@@ -438,8 +617,16 @@
     "prompt": "Write an argumentative text in Icelandic.",
     "payload": {
       "stimulus": "Sumir telja að setja eigi aldurstakmark á samfélagsmiðla. Færðu rök með eða á móti þessari hugmynd.",
-      "criteria": ["Skýr afstaða", "Rökstuðningur með dæmum", "Tenging milli málsgreina", "Málfræðileg fjölbreytni"],
-      "charBand": { "min": 120, "max": 250 }
+      "criteria": [
+        "Skýr afstaða",
+        "Rökstuðningur með dæmum",
+        "Tenging milli málsgreina",
+        "Málfræðileg fjölbreytni"
+      ],
+      "charBand": {
+        "min": 120,
+        "max": 250
+      }
     },
     "answer": null,
     "maxPoints": 10
@@ -454,8 +641,16 @@
     "prompt": "Write a formal email in Icelandic.",
     "payload": {
       "stimulus": "Skrifaðu formlegan tölvupóst til yfirmanns þar sem þú óskar eftir sveigjanlegri vinnutíma og útskýrir ástæðurnar.",
-      "criteria": ["Formlegt og kurteist orðalag", "Skýr beiðni", "Sannfærandi rök", "Rétt uppbygging"],
-      "charBand": { "min": 120, "max": 250 }
+      "criteria": [
+        "Formlegt og kurteist orðalag",
+        "Skýr beiðni",
+        "Sannfærandi rök",
+        "Rétt uppbygging"
+      ],
+      "charBand": {
+        "min": 120,
+        "max": 250
+      }
     },
     "answer": null,
     "maxPoints": 10
@@ -470,8 +665,16 @@
     "prompt": "Write an opinion essay in Icelandic.",
     "payload": {
       "stimulus": "Ritaðu ritgerð um hvort fjarvinna verði ríkjandi vinnufyrirkomulag í framtíðinni. Ræddu kosti og galla.",
-      "criteria": ["Kynning á efninu", "Umfjöllun um kosti og galla", "Rökstudd niðurstaða", "Skýr uppbygging"],
-      "charBand": { "min": 120, "max": 250 }
+      "criteria": [
+        "Kynning á efninu",
+        "Umfjöllun um kosti og galla",
+        "Rökstudd niðurstaða",
+        "Skýr uppbygging"
+      ],
+      "charBand": {
+        "min": 120,
+        "max": 250
+      }
     },
     "answer": null,
     "maxPoints": 10
@@ -486,8 +689,16 @@
     "prompt": "Write an opinion text in Icelandic.",
     "payload": {
       "stimulus": "Skrifaðu grein um hvort sveitarfélög eigi að styðja fjárhagslega við menningarviðburði. Rökstyddu skoðun þína.",
-      "criteria": ["Skýr afstaða", "Tvö eða fleiri rök", "Dæmi til stuðnings", "Samhengi í texta"],
-      "charBand": { "min": 120, "max": 250 }
+      "criteria": [
+        "Skýr afstaða",
+        "Tvö eða fleiri rök",
+        "Dæmi til stuðnings",
+        "Samhengi í texta"
+      ],
+      "charBand": {
+        "min": 120,
+        "max": 250
+      }
     },
     "answer": null,
     "maxPoints": 10
@@ -502,8 +713,16 @@
     "prompt": "Write an argumentative text in Icelandic.",
     "payload": {
       "stimulus": "Ætti að takmarka fjölda ferðamanna á viðkvæmum náttúrustöðum? Færðu rök fyrir afstöðu þinni.",
-      "criteria": ["Skýr afstaða", "Rök og mótrök", "Sannfærandi niðurstaða", "Fjölbreyttur orðaforði"],
-      "charBand": { "min": 120, "max": 250 }
+      "criteria": [
+        "Skýr afstaða",
+        "Rök og mótrök",
+        "Sannfærandi niðurstaða",
+        "Fjölbreyttur orðaforði"
+      ],
+      "charBand": {
+        "min": 120,
+        "max": 250
+      }
     },
     "answer": null,
     "maxPoints": 10
@@ -518,8 +737,16 @@
     "prompt": "Write a formal letter to the editor in Icelandic.",
     "payload": {
       "stimulus": "Skrifaðu aðsent bréf til dagblaðs þar sem þú lýsir áhyggjum af minnkandi grænum svæðum í borginni og leggur til lausnir.",
-      "criteria": ["Formlegt orðalag", "Skýr framsetning vandans", "Raunhæfar tillögur", "Sannfærandi tónn"],
-      "charBand": { "min": 120, "max": 250 }
+      "criteria": [
+        "Formlegt orðalag",
+        "Skýr framsetning vandans",
+        "Raunhæfar tillögur",
+        "Sannfærandi tónn"
+      ],
+      "charBand": {
+        "min": 120,
+        "max": 250
+      }
     },
     "answer": null,
     "maxPoints": 10
@@ -534,8 +761,16 @@
     "prompt": "Write an opinion text in Icelandic.",
     "payload": {
       "stimulus": "Skrifaðu grein um hvernig hægt sé að styrkja stöðu íslenskunnar meðal ungs fólks. Settu fram afstöðu og hugmyndir.",
-      "criteria": ["Skýr afstaða", "Hagnýtar hugmyndir", "Rökstuðningur", "Samhengi og flæði"],
-      "charBand": { "min": 120, "max": 250 }
+      "criteria": [
+        "Skýr afstaða",
+        "Hagnýtar hugmyndir",
+        "Rökstuðningur",
+        "Samhengi og flæði"
+      ],
+      "charBand": {
+        "min": 120,
+        "max": 250
+      }
     },
     "answer": null,
     "maxPoints": 10
@@ -550,8 +785,16 @@
     "prompt": "Write an opinion essay in Icelandic.",
     "payload": {
       "stimulus": "Ritaðu ritgerð um hvort tækniframfarir hafi haft jákvæð eða neikvæð áhrif á samskipti fólks. Rökstyddu.",
-      "criteria": ["Skýr afstaða", "Umfjöllun um báðar hliðar", "Rökstudd niðurstaða", "Málfræðileg nákvæmni"],
-      "charBand": { "min": 120, "max": 250 }
+      "criteria": [
+        "Skýr afstaða",
+        "Umfjöllun um báðar hliðar",
+        "Rökstudd niðurstaða",
+        "Málfræðileg nákvæmni"
+      ],
+      "charBand": {
+        "min": 120,
+        "max": 250
+      }
     },
     "answer": null,
     "maxPoints": 10
@@ -566,8 +809,16 @@
     "prompt": "Write a semi-formal email in Icelandic.",
     "payload": {
       "stimulus": "Skrifaðu tölvupóst til félagsmiðstöðvar þar sem þú leggur til nýjan viðburð fyrir ungt fólk og útskýrir hvers vegna hann myndi gagnast samfélaginu.",
-      "criteria": ["Skýr tillaga", "Rök fyrir gagnsemi", "Kurteist orðalag", "Rétt uppbygging pósts"],
-      "charBand": { "min": 120, "max": 250 }
+      "criteria": [
+        "Skýr tillaga",
+        "Rök fyrir gagnsemi",
+        "Kurteist orðalag",
+        "Rétt uppbygging pósts"
+      ],
+      "charBand": {
+        "min": 120,
+        "max": 250
+      }
     },
     "answer": null,
     "maxPoints": 10
@@ -582,8 +833,16 @@
     "prompt": "Write an argumentative text in Icelandic.",
     "payload": {
       "stimulus": "Ætti að taka upp fjögurra daga vinnuviku á Íslandi? Færðu rök fyrir eða á móti með dæmum.",
-      "criteria": ["Skýr afstaða", "Rök með dæmum", "Mótrök tekin fyrir", "Sannfærandi niðurstaða"],
-      "charBand": { "min": 120, "max": 250 }
+      "criteria": [
+        "Skýr afstaða",
+        "Rök með dæmum",
+        "Mótrök tekin fyrir",
+        "Sannfærandi niðurstaða"
+      ],
+      "charBand": {
+        "min": 120,
+        "max": 250
+      }
     },
     "answer": null,
     "maxPoints": 10
@@ -598,7 +857,12 @@
     "prompt": "Speak in Icelandic for at least 90 seconds.",
     "payload": {
       "stimulus": "Segðu frá skoðun þinni á því hvort samfélög ættu að leggja meiri áherslu á almenningssamgöngur en einkabíla. Rökstyddu.",
-      "criteria": ["Skýr afstaða", "Rökstuðningur með dæmum", "Samfellt tal", "Fjölbreyttur orðaforði"],
+      "criteria": [
+        "Skýr afstaða",
+        "Rökstuðningur með dæmum",
+        "Samfellt tal",
+        "Fjölbreyttur orðaforði"
+      ],
       "minSeconds": 90
     },
     "answer": null,
@@ -614,7 +878,12 @@
     "prompt": "Speak in Icelandic for at least 90 seconds.",
     "payload": {
       "stimulus": "Ræddu hvernig samfélagsmiðlar hafa áhrif á daglegt líf fólks, bæði til góðs og ills, og settu fram þína afstöðu.",
-      "criteria": ["Skýr afstaða", "Bæði kostir og gallar", "Samhengi í máli", "Eðlilegur talhraði"],
+      "criteria": [
+        "Skýr afstaða",
+        "Bæði kostir og gallar",
+        "Samhengi í máli",
+        "Eðlilegur talhraði"
+      ],
       "minSeconds": 90
     },
     "answer": null,
@@ -630,7 +899,12 @@
     "prompt": "Speak in Icelandic for at least 90 seconds.",
     "payload": {
       "stimulus": "Færðu rök fyrir því hvernig samfélög geta jafnvægt umhverfisvernd og efnahagsvöxt. Taktu skýra afstöðu.",
-      "criteria": ["Skýr afstaða", "Rök og mótrök", "Samfellt og skipulagt tal", "Blæbrigðaríkur orðaforði"],
+      "criteria": [
+        "Skýr afstaða",
+        "Rök og mótrök",
+        "Samfellt og skipulagt tal",
+        "Blæbrigðaríkur orðaforði"
+      ],
       "minSeconds": 90
     },
     "answer": null,
@@ -646,7 +920,12 @@
     "prompt": "Speak in Icelandic for at least 90 seconds.",
     "payload": {
       "stimulus": "Segðu frá því hvernig fólk getur náð betra jafnvægi milli vinnu og einkalífs og hvers vegna það skiptir máli.",
-      "criteria": ["Skýr afstaða", "Hagnýtar hugmyndir", "Samfellt tal", "Rétt beiting málfræði"],
+      "criteria": [
+        "Skýr afstaða",
+        "Hagnýtar hugmyndir",
+        "Samfellt tal",
+        "Rétt beiting málfræði"
+      ],
       "minSeconds": 90
     },
     "answer": null,
@@ -662,7 +941,12 @@
     "prompt": "Speak in Icelandic for at least 90 seconds.",
     "payload": {
       "stimulus": "Ætti hið opinbera að fjármagna listir og menningu? Rökstyddu afstöðu þína með dæmum.",
-      "criteria": ["Skýr afstaða", "Sannfærandi rök", "Skipulögð framsetning", "Fjölbreyttur orðaforði"],
+      "criteria": [
+        "Skýr afstaða",
+        "Sannfærandi rök",
+        "Skipulögð framsetning",
+        "Fjölbreyttur orðaforði"
+      ],
       "minSeconds": 90
     },
     "answer": null,
@@ -678,7 +962,12 @@
     "prompt": "Speak in Icelandic for at least 90 seconds.",
     "payload": {
       "stimulus": "Ræddu hvernig fólk getur metið hvort fréttir séu áreiðanlegar og hvers vegna það er mikilvægt í samfélaginu.",
-      "criteria": ["Skýr afstaða", "Hagnýt dæmi", "Samhengi í máli", "Eðlilegt flæði"],
+      "criteria": [
+        "Skýr afstaða",
+        "Hagnýt dæmi",
+        "Samhengi í máli",
+        "Eðlilegt flæði"
+      ],
       "minSeconds": 90
     },
     "answer": null,
@@ -694,7 +983,12 @@
     "prompt": "Speak in Icelandic for at least 90 seconds.",
     "payload": {
       "stimulus": "Hefur fjölgun ferðamanna verið jákvæð eða neikvæð fyrir íslenskt samfélag? Rökstyddu afstöðu þína.",
-      "criteria": ["Skýr afstaða", "Rök með dæmum", "Mótrök íhuguð", "Blæbrigðaríkt mál"],
+      "criteria": [
+        "Skýr afstaða",
+        "Rök með dæmum",
+        "Mótrök íhuguð",
+        "Blæbrigðaríkt mál"
+      ],
       "minSeconds": 90
     },
     "answer": null,
@@ -710,7 +1004,12 @@
     "prompt": "Speak in Icelandic for at least 90 seconds.",
     "payload": {
       "stimulus": "Segðu frá því hvers vegna sjálfboðaliðastarf getur verið gagnlegt bæði fyrir einstaklinginn og samfélagið.",
-      "criteria": ["Skýr afstaða", "Rök og dæmi", "Samfellt tal", "Fjölbreyttur orðaforði"],
+      "criteria": [
+        "Skýr afstaða",
+        "Rök og dæmi",
+        "Samfellt tal",
+        "Fjölbreyttur orðaforði"
+      ],
       "minSeconds": 90
     },
     "answer": null,
@@ -726,7 +1025,12 @@
     "prompt": "Speak in Icelandic for at least 90 seconds.",
     "payload": {
       "stimulus": "Ætti að nota spjaldtölvur og skjái meira eða minna í skólum? Taktu skýra afstöðu og rökstyddu hana.",
-      "criteria": ["Skýr afstaða", "Rök með dæmum", "Skipulagt tal", "Rétt málfræði"],
+      "criteria": [
+        "Skýr afstaða",
+        "Rök með dæmum",
+        "Skipulagt tal",
+        "Rétt málfræði"
+      ],
       "minSeconds": 90
     },
     "answer": null,
@@ -742,7 +1046,12 @@
     "prompt": "Speak in Icelandic for at least 90 seconds.",
     "payload": {
       "stimulus": "Ræddu hvernig fólk getur tileinkað sér heilbrigðari lífsstíl í annasömu daglegu lífi og hvað hindrar það helst.",
-      "criteria": ["Skýr afstaða", "Hagnýtar hugmyndir", "Samhengi í máli", "Eðlilegur talhraði"],
+      "criteria": [
+        "Skýr afstaða",
+        "Hagnýtar hugmyndir",
+        "Samhengi í máli",
+        "Eðlilegur talhraði"
+      ],
       "minSeconds": 90
     },
     "answer": null,
@@ -758,7 +1067,12 @@
     "prompt": "Speak in Icelandic for at least 90 seconds.",
     "payload": {
       "stimulus": "Ógnar aukin notkun ensku stöðu íslenskunnar, eða er hún eðlileg þróun? Rökstyddu afstöðu þína.",
-      "criteria": ["Skýr afstaða", "Rök og mótrök", "Skipulögð framsetning", "Blæbrigðaríkur orðaforði"],
+      "criteria": [
+        "Skýr afstaða",
+        "Rök og mótrök",
+        "Skipulögð framsetning",
+        "Blæbrigðaríkur orðaforði"
+      ],
       "minSeconds": 90
     },
     "answer": null,
@@ -774,7 +1088,12 @@
     "prompt": "Speak in Icelandic for at least 90 seconds.",
     "payload": {
       "stimulus": "Segðu frá því hvers vegna græn svæði í borgum eru mikilvæg og hvernig hægt væri að fjölga þeim.",
-      "criteria": ["Skýr afstaða", "Rök með dæmum", "Samfellt tal", "Fjölbreyttur orðaforði"],
+      "criteria": [
+        "Skýr afstaða",
+        "Rök með dæmum",
+        "Samfellt tal",
+        "Fjölbreyttur orðaforði"
+      ],
       "minSeconds": 90
     },
     "answer": null,
@@ -790,7 +1109,12 @@
     "prompt": "Speak in Icelandic for at least 90 seconds.",
     "payload": {
       "stimulus": "Hvernig geta einstaklingar og fyrirtæki dregið úr sóun og ofneyslu? Taktu afstöðu og rökstyddu hana.",
-      "criteria": ["Skýr afstaða", "Hagnýtar lausnir", "Skipulagt tal", "Rétt beiting málfræði"],
+      "criteria": [
+        "Skýr afstaða",
+        "Hagnýtar lausnir",
+        "Skipulagt tal",
+        "Rétt beiting málfræði"
+      ],
       "minSeconds": 90
     },
     "answer": null,

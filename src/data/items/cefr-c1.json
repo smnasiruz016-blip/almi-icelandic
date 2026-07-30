@@ -11,13 +11,16 @@
       "passage": "Íslensk málstefna hefur löngum einkennst af togstreitu milli tveggja ólíkra sjónarmiða. Annars vegar er hrein varðveislustefna sem leggur áherslu á nýyrðasmíð og hafnar tökuorðum, hins vegar frjálslyndara viðhorf sem lítur á aðlögun erlends orðaforða sem eðlilegan þátt í þróun lifandi tungumáls. Þótt opinber stefna hallist fremur að hinu fyrrnefnda hefur daglegt mál almennings iðulega farið sínar eigin leiðir, óháð fyrirmælum málnefnda.",
       "question": "Hvað einkennir, að mati höfundar, samband opinberrar málstefnu og daglegs máls?",
       "options": [
-        "Daglegt mál fylgir ekki alltaf opinberum fyrirmælum",
         "Almenningur hafnar undantekningarlaust öllum tökuorðum",
         "Málnefndir ráða alfarið orðavali fólks",
+        "Daglegt mál fylgir ekki alltaf opinberum fyrirmælum",
         "Varðveislustefnan hefur með öllu horfið úr opinberri stefnu"
       ]
     },
-    "answer": { "type": "MCQ_SINGLE", "correctIndex": 0 },
+    "answer": {
+      "type": "MCQ_SINGLE",
+      "correctIndex": 2
+    },
     "maxPoints": 1
   },
   {
@@ -31,9 +34,15 @@
     "payload": {
       "passage": "Lengi vel töldu fræðimenn að Íslendingasögurnar væru áreiðanlegar heimildir um atburði tíundu og elleftu aldar. Á tuttugustu öld urðu þó til efasemdir; svonefnd bókfestukenning hélt því fram að sögurnar væru fyrst og fremst listaverk þrettándu aldar, samdar af höfundum sem nýttu sér munnlega geymd en mótuðu efnið af listfengi fremur en sagnfræðilegri nákvæmni.",
       "question": "Samkvæmt bókfestukenningunni eru Íslendingasögurnar umfram allt listaverk þrettándu aldar.",
-      "options": ["Rétt", "Rangt"]
+      "options": [
+        "Rétt",
+        "Rangt"
+      ]
     },
-    "answer": { "type": "TRUE_FALSE", "correctIndex": 0 },
+    "answer": {
+      "type": "TRUE_FALSE",
+      "correctIndex": 0
+    },
     "maxPoints": 1
   },
   {
@@ -47,11 +56,37 @@
     "payload": {
       "passage": "Þrátt fyrir {{1}} hagvöxt síðustu missera hafa stjórnvöld varað við því að verðbólga kunni að {{2}} upp á ný ef launahækkanir verða umfram framleiðniaukningu.",
       "gaps": [
-        { "id": 1, "options": ["stöðugan", "stöðugum", "stöðugur"] },
-        { "id": 2, "options": ["blossa", "blossar", "blossað"] }
+        {
+          "id": 1,
+          "options": [
+            "stöðugan",
+            "stöðugum",
+            "stöðugur"
+          ]
+        },
+        {
+          "id": 2,
+          "options": [
+            "blossar",
+            "blossa",
+            "blossað"
+          ]
+        }
       ]
     },
-    "answer": { "type": "CLOZE", "correct": [ { "id": 1, "index": 0 }, { "id": 2, "index": 0 } ] },
+    "answer": {
+      "type": "CLOZE",
+      "correct": [
+        {
+          "id": 1,
+          "index": 0
+        },
+        {
+          "id": 2,
+          "index": 1
+        }
+      ]
+    },
     "maxPoints": 2
   },
   {
@@ -65,15 +100,35 @@
     "payload": {
       "passage": "Í íslenskri menningarsögu koma þrír ólíkir frumkvöðlar við sögu. Halldór Laxness endurnýjaði skáldsöguformið og hlaut Nóbelsverðlaunin í bókmenntum. Jónas Hallgrímsson lagði grunn að íslenskri náttúruljóðahefð og smíðaði fjölda nýyrða á sviði vísinda. Vigdís Finnbogadóttir varð fyrst kvenna þjóðkjörinn forseti og beitti sér síðar fyrir tungumálum á alþjóðavettvangi.",
       "instructions": "Tengdu hverja manneskju við framlag hennar.",
-      "left": ["Halldór Laxness", "Jónas Hallgrímsson", "Vigdís Finnbogadóttir"],
+      "left": [
+        "Halldór Laxness",
+        "Jónas Hallgrímsson",
+        "Vigdís Finnbogadóttir"
+      ],
       "right": [
-        "Endurnýjun skáldsögunnar og Nóbelsverðlaun",
-        "Náttúruljóð og nýyrði í vísindum",
         "Fyrsti þjóðkjörni kvenforsetinn",
-        "Þýðing Biblíunnar á íslensku"
+        "Endurnýjun skáldsögunnar og Nóbelsverðlaun",
+        "Þýðing Biblíunnar á íslensku",
+        "Náttúruljóð og nýyrði í vísindum"
       ]
     },
-    "answer": { "type": "MATCHING", "pairs": [[0, 0], [1, 1], [2, 2]] },
+    "answer": {
+      "type": "MATCHING",
+      "pairs": [
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          0
+        ]
+      ]
+    },
     "maxPoints": 3
   },
   {
@@ -87,14 +142,23 @@
     "payload": {
       "instructions": "Raðaðu setningunum þannig að úr verði rökrétt og samfelld málsgrein um hop jökla.",
       "items": [
-        "Jöklar á Íslandi hafa hopað verulega undanfarna áratugi.",
         "Þegar jöklarnir bráðna hækkar sjávarborð og landslag breytist.",
         "Niðurstöður mælinganna eru mikilvægar fyrir spár um framtíðina.",
-        "Meginorsökin er hlýnun andrúmsloftsins af völdum manna.",
-        "Vísindamenn fylgjast því náið með rúmmáli jöklanna á hverju ári."
+        "Jöklar á Íslandi hafa hopað verulega undanfarna áratugi.",
+        "Vísindamenn fylgjast því náið með rúmmáli jöklanna á hverju ári.",
+        "Meginorsökin er hlýnun andrúmsloftsins af völdum manna."
       ]
     },
-    "answer": { "type": "ORDERING", "order": [0, 3, 1, 4, 2] },
+    "answer": {
+      "type": "ORDERING",
+      "order": [
+        2,
+        4,
+        0,
+        3,
+        1
+      ]
+    },
     "maxPoints": 1
   },
   {
@@ -115,7 +179,10 @@
         "Í rekstri jarðvarmavirkjana"
       ]
     },
-    "answer": { "type": "MCQ_SINGLE", "correctIndex": 0 },
+    "answer": {
+      "type": "MCQ_SINGLE",
+      "correctIndex": 0
+    },
     "maxPoints": 1
   },
   {
@@ -130,13 +197,16 @@
       "transcript": "Viðmælandi: Auðvitað styð ég verndun hálendisins, það gerum við öll í orði kveðnu. En við megum ekki gleyma því að sömu ósnortnu víðernin geyma þá orku sem gæti staðið undir grænni atvinnuuppbyggingu um land allt. Spurningin er ekki hvort við eigum að vernda náttúruna, heldur hversu dýru verði.",
       "question": "Hvaða afstöðu gefur viðmælandinn helst í skyn?",
       "options": [
-        "Að vega þurfi verndun náttúrunnar á móti efnahagslegum ávinningi",
         "Að hálendið eigi að vernda án nokkurra undantekninga",
         "Að náttúruvernd skipti í raun engu máli",
+        "Að vega þurfi verndun náttúrunnar á móti efnahagslegum ávinningi",
         "Að öll orkuvinnsla sé í eðli sínu óæskileg"
       ]
     },
-    "answer": { "type": "MCQ_SINGLE", "correctIndex": 0 },
+    "answer": {
+      "type": "MCQ_SINGLE",
+      "correctIndex": 2
+    },
     "maxPoints": 1
   },
   {
@@ -150,9 +220,15 @@
     "payload": {
       "transcript": "Í nýrri skýrslu Hagstofunnar kemur fram að aðflutningur fólks til landsins hafi aldrei verið meiri en á síðasta ári. Á sama tíma bendir skýrslan á að brottflutningur íslenskra ríkisborgara hafi einnig aukist lítillega, þótt hann vegi hvergi nærri upp á móti aðflutningnum. Heildaráhrifin eru því veruleg fólksfjölgun.",
       "question": "Samkvæmt skýrslunni vegur brottflutningur Íslendinga upp á móti aðflutningi fólks til landsins.",
-      "options": ["Rétt", "Rangt"]
+      "options": [
+        "Rangt",
+        "Rétt"
+      ]
     },
-    "answer": { "type": "TRUE_FALSE", "correctIndex": 1 },
+    "answer": {
+      "type": "TRUE_FALSE",
+      "correctIndex": 0
+    },
     "maxPoints": 1
   },
   {
@@ -166,11 +242,37 @@
     "payload": {
       "transcript": "Kæru samstarfsmenn. Ég vil {{1}} ykkur öllum fyrir framúrskarandi vinnu á liðnu ári. Þrátt fyrir krefjandi aðstæður tókst okkur að ná {{2}} ársins, og það er ykkur að þakka.",
       "gaps": [
-        { "id": 1, "options": ["þakka", "þakkar", "þakkað"] },
-        { "id": 2, "options": ["markmiðum", "markmið", "markmiða"] }
+        {
+          "id": 1,
+          "options": [
+            "þakka",
+            "þakkar",
+            "þakkað"
+          ]
+        },
+        {
+          "id": 2,
+          "options": [
+            "markmið",
+            "markmiðum",
+            "markmiða"
+          ]
+        }
       ]
     },
-    "answer": { "type": "CLOZE", "correct": [ { "id": 1, "index": 0 }, { "id": 2, "index": 0 } ] },
+    "answer": {
+      "type": "CLOZE",
+      "correct": [
+        {
+          "id": 1,
+          "index": 0
+        },
+        {
+          "id": 2,
+          "index": 1
+        }
+      ]
+    },
     "maxPoints": 2
   },
   {
@@ -184,15 +286,35 @@
     "payload": {
       "transcript": "Í pallborðinu tjáðu sig þrír sérfræðingar. Hagfræðingurinn taldi að lækka ætti vexti til að örva fjárfestingu. Umhverfisfræðingurinn lagði áherslu á að binda kolefni með endurheimt votlendis. Félagsfræðingurinn benti á að ójöfnuður færi vaxandi og kallaði eftir styrkari velferðarkerfum.",
       "instructions": "Tengdu hvern sérfræðing við það sjónarmið sem hann setti fram.",
-      "left": ["Hagfræðingurinn", "Umhverfisfræðingurinn", "Félagsfræðingurinn"],
+      "left": [
+        "Hagfræðingurinn",
+        "Umhverfisfræðingurinn",
+        "Félagsfræðingurinn"
+      ],
       "right": [
-        "Lækkun vaxta til að örva fjárfestingu",
-        "Endurheimt votlendis til að binda kolefni",
         "Styrkari velferðarkerfi gegn ójöfnuði",
-        "Aukinn útflutningur sjávarafurða"
+        "Aukinn útflutningur sjávarafurða",
+        "Lækkun vaxta til að örva fjárfestingu",
+        "Endurheimt votlendis til að binda kolefni"
       ]
     },
-    "answer": { "type": "MATCHING", "pairs": [[0, 0], [1, 1], [2, 2]] },
+    "answer": {
+      "type": "MATCHING",
+      "pairs": [
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          0
+        ]
+      ]
+    },
     "maxPoints": 3
   },
   {
@@ -211,7 +333,10 @@
         "Uses cohesive devices and precise, varied vocabulary appropriate to C1",
         "Acknowledges and responds to a plausible counter-argument"
       ],
-      "charBand": { "min": 250, "max": 450 }
+      "charBand": {
+        "min": 250,
+        "max": 450
+      }
     },
     "answer": null,
     "maxPoints": 0
@@ -232,7 +357,10 @@
         "Proposes a concrete alternative solution",
         "Maintains a persuasive yet respectful tone throughout"
       ],
-      "charBand": { "min": 250, "max": 450 }
+      "charBand": {
+        "min": 250,
+        "max": 450
+      }
     },
     "answer": null,
     "maxPoints": 0
@@ -253,7 +381,10 @@
         "Reaches a justified overall judgement",
         "Uses precise evaluative vocabulary and idiomatic expression"
       ],
-      "charBand": { "min": 220, "max": 400 }
+      "charBand": {
+        "min": 220,
+        "max": 400
+      }
     },
     "answer": null,
     "maxPoints": 0

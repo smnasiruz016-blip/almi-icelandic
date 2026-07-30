@@ -15,7 +15,10 @@
         "Writes in complete simple sentences, not just single words",
         "Uses correct basic word order (subject before verb)"
       ],
-      "charBand": { "min": 40, "max": 120 }
+      "charBand": {
+        "min": 40,
+        "max": 120
+      }
     },
     "answer": null,
     "maxPoints": 0
@@ -36,7 +39,10 @@
         "Gives one clear reason for the absence",
         "Asks for the material or homework that was missed"
       ],
-      "charBand": { "min": 40, "max": 120 }
+      "charBand": {
+        "min": 40,
+        "max": 120
+      }
     },
     "answer": null,
     "maxPoints": 0
@@ -58,7 +64,10 @@
         "Uses a greeting and gives own name",
         "Uses correct present or future time expressions"
       ],
-      "charBand": { "min": 40, "max": 120 }
+      "charBand": {
+        "min": 40,
+        "max": 120
+      }
     },
     "answer": null,
     "maxPoints": 0
@@ -79,7 +88,10 @@
         "Says roughly how long you will be away",
         "Uses a polite greeting and a thank-you"
       ],
-      "charBand": { "min": 40, "max": 120 }
+      "charBand": {
+        "min": 40,
+        "max": 120
+      }
     },
     "answer": null,
     "maxPoints": 0
@@ -101,7 +113,10 @@
         "Gives own name so they can reply",
         "Keeps a polite, formal tone"
       ],
-      "charBand": { "min": 40, "max": 120 }
+      "charBand": {
+        "min": 40,
+        "max": 120
+      }
     },
     "answer": null,
     "maxPoints": 0
@@ -122,7 +137,10 @@
         "Gives one clear reason",
         "Uses a friendly, informal but polite tone"
       ],
-      "charBand": { "min": 40, "max": 120 }
+      "charBand": {
+        "min": 40,
+        "max": 120
+      }
     },
     "answer": null,
     "maxPoints": 0
@@ -144,7 +162,10 @@
         "Politely asks for it to be fixed",
         "Uses a greeting and own name"
       ],
-      "charBand": { "min": 40, "max": 120 }
+      "charBand": {
+        "min": 40,
+        "max": 120
+      }
     },
     "answer": null,
     "maxPoints": 0
@@ -166,7 +187,10 @@
         "Asks the friend to reply whether they can come",
         "Uses a friendly greeting and closing"
       ],
-      "charBand": { "min": 40, "max": 120 }
+      "charBand": {
+        "min": 40,
+        "max": 120
+      }
     },
     "answer": null,
     "maxPoints": 0
