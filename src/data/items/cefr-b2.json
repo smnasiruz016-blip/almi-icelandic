@@ -33,10 +33,10 @@
     "prompt": "Read the internal policy notice and decide whether the statement is true (Rétt) or false (Rangt).",
     "payload": {
       "passage": "Frá og með næstu mánaðamótum tekur gildi ný stefna um fjarvinnu hjá fyrirtækinu. Starfsfólki verður heimilt að vinna heiman frá sér allt að þremur dögum í viku, að því gefnu að næsti yfirmaður samþykki fyrirkomulagið og að viðkomandi mæti á sameiginlega teymisfundi á þriðjudögum. Nýir starfsmenn á reynslutíma þurfa þó að vera á staðnum alla virka daga fyrstu þrjá mánuðina. Stefnan verður endurskoðuð að hálfu ári liðnu í ljósi reynslunnar.",
-      "question": "Nýir starfsmenn á reynslutíma mega vinna heiman frá sér þrjá daga í viku strax frá upphafi.",
+      "question": "Starfsfólk þarf samþykki næsta yfirmanns til að vinna heiman frá sér.",
       "options": [
-        "Rétt",
-        "Rangt"
+        "Rangt",
+        "Rétt"
       ]
     },
     "answer": {

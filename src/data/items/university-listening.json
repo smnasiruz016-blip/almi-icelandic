@@ -57,10 +57,10 @@
     "prompt": "Listen to the academic announcement, then decide whether the statement is true (Rétt) or false (Rangt).",
     "payload": {
       "transcript": "Athugið eftirfarandi breytingu á prófatöflu. Lokapróf í málvísindum, sem upphaflega var boðað fimmtudaginn tuttugasta og þriðja, hefur verið fært fram til mánudagsins tuttugasta og sjöunda vegna árekstrar við annað próf. Prófið verður áfram haldið í stofu hundrað og tvö í Árnagarði og hefst klukkan níu að morgni. Nemendur sem hafa sótt um lengri próftíma vegna sérþarfa þurfa ekki að endurnýja umsókn sína; hún flyst sjálfkrafa yfir á nýja dagsetningu.",
-      "question": "Nemendur með samþykktan lengri próftíma verða að sækja um hann að nýju fyrir nýju dagsetninguna.",
+      "question": "Prófið hefst klukkan níu að morgni í stofu hundrað og tvö í Árnagarði.",
       "options": [
-        "Rangt",
-        "Rétt"
+        "Rétt",
+        "Rangt"
       ]
     },
     "answer": {
@@ -257,10 +257,10 @@
     "prompt": "Listen to the excerpt on renewable energy, then decide whether the statement is true (Rétt) or false (Rangt).",
     "payload": {
       "transcript": "Ísland er oft nefnt sem fyrirmynd í nýtingu endurnýjanlegrar orku, enda kemur nánast öll raforka landsins frá vatnsafli og jarðvarma. En við megum ekki gleyma því að jarðvarmavirkjun er ekki með öllu án umhverfisáhrifa. Við vinnsluna losnar til dæmis brennisteinsvetni og lítilræði af koltvísýringi, og ef of mikið er sótt í jarðhitasvæði getur þrýstingur þess fallið hraðar en það nær að endurnýjast. Sjálfbær nýting krefst þess því að við göngum ekki hraðar á auðlindina en hún þolir.",
-      "question": "Samkvæmt fyrirlesaranum er jarðvarmavirkjun algjörlega laus við umhverfisáhrif.",
+      "question": "Samkvæmt fyrirlesaranum losnar brennisteinsvetni við vinnslu jarðvarma.",
       "options": [
-        "Rétt",
-        "Rangt"
+        "Rangt",
+        "Rétt"
       ]
     },
     "answer": {

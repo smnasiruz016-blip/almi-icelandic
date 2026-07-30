@@ -129,11 +129,11 @@
     "prompt": "Decide whether the statement is true (Rétt) or false (Rangt).",
     "payload": {
       "passage": "Þótt endurvinnsla sé mikilvæg lausn á úrgangsvanda telja sérfræðingar að hún ein og sér dugi ekki. Þeir leggja áherslu á að draga þurfi úr neyslu og hönnun umbúða frá upphafi. Endurvinnsla verður þá síðasta skrefið en ekki eina úrræðið. Þessi nálgun krefst breytinga bæði hjá framleiðendum og neytendum.",
-      "statement": "Samkvæmt textanum er endurvinnsla ein og sér nægileg lausn á úrgangsvandanum.",
       "options": [
-        "Rangt",
-        "Rétt"
-      ]
+        "Rétt",
+        "Rangt"
+      ],
+      "question": "Samkvæmt textanum þarf einnig að draga úr neyslu og huga að hönnun umbúða frá upphafi."
     },
     "answer": {
       "type": "TRUE_FALSE",
@@ -151,11 +151,11 @@
     "prompt": "Decide whether the statement is true (Rétt) or false (Rangt).",
     "payload": {
       "passage": "Tilraunir með fjögurra daga vinnuviku hafa vakið athygli víða um heim. Í mörgum tilfellum hélst framleiðni óbreytt eða jókst, á meðan starfsfólk sagðist minna þreytt. Þó vara sumir við því að niðurstöðurnar eigi ekki endilega við um allar atvinnugreinar. Þjónustustörf með fastan opnunartíma geta til dæmis reynst erfiðari í framkvæmd.",
-      "statement": "Textinn segir að fjögurra daga vinnuvika henti jafn vel öllum atvinnugreinum.",
       "options": [
         "Rangt",
         "Rétt"
-      ]
+      ],
+      "question": "Textinn segir að fjögurra daga vinnuvika henti jafn vel öllum atvinnugreinum."
     },
     "answer": {
       "type": "TRUE_FALSE",
@@ -443,11 +443,11 @@
     "prompt": "Decide whether the statement is true (Rétt) or false (Rangt).",
     "payload": {
       "transcript": "Veðurstofan hefur gefið út gula viðvörun fyrir suðausturland vegna mikillar rigningar og hvassviðris á morgun. Búist er við að vegir geti orðið hálir og skyggni skert. Vegfarendur eru hvattir til að aka varlega og fylgjast með uppfærðum spám. Viðvörunin tekur gildi klukkan sex að morgni.",
-      "statement": "Viðvörunin gildir fyrir suðausturland.",
       "options": [
         "Rangt",
         "Rétt"
-      ]
+      ],
+      "question": "Viðvörunin gildir fyrir suðausturland."
     },
     "answer": {
       "type": "TRUE_FALSE",
@@ -465,11 +465,11 @@
     "prompt": "Decide whether the statement is true (Rétt) or false (Rangt).",
     "payload": {
       "transcript": "Velkomin á safnið. Leiðsögnin í dag hefst klukkan tvö og tekur um það bil fjörutíu og fimm mínútur. Athugið að ljósmyndun án flass er leyfð á neðri hæðinni en bönnuð í sérsýningunni á efri hæð. Í lok leiðsagnarinnar gefst tími fyrir spurningar.",
-      "statement": "Ljósmyndun er leyfð í sérsýningunni á efri hæð.",
       "options": [
         "Rangt",
         "Rétt"
-      ]
+      ],
+      "question": "Ljósmyndun er leyfð í sérsýningunni á efri hæð."
     },
     "answer": {
       "type": "TRUE_FALSE",
