@@ -4,7 +4,8 @@ import Link from "next/link";
 // Honest requirements explainer: what Icelandic you need for citizenship —
 // Ríkisborgarapróf at A2 — and how to PREPARE for it. Framed as honest
 // preparation, never as beating or getting around Útlendingastofnun. ISR.
-export const revalidate = 2592000;
+// HOLDING 2026-08-09 — was `2592000` (30-day ISR). No recurring regeneration under holding.
+export const revalidate = false;
 
 const SITE = "https://almiicelandic.almiworld.com";
 const PATH = "/requirements/iceland/rikisborgaraprof-citizenship";
