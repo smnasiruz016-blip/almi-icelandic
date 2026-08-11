@@ -5,7 +5,6 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { requireUser } from "@/lib/auth";
 import { examBySlug, SKILL_LABELS } from "@/lib/is/registry";
-import { isFreeSkill } from "@/lib/is/types";
 import type { IcelandicSkill, IcelandicTrack } from "@/lib/is/types";
 
 const TRACK_LABEL: Record<IcelandicTrack, string> = {
@@ -46,7 +45,6 @@ export default async function ExamPage({
         <h2 className="text-lg font-semibold text-almi-ink">Practise by skill</h2>
         <div className="mt-4 grid gap-4 sm:grid-cols-2">
           {exam.skills.map((skill: IcelandicSkill) => {
-            const free = isFreeSkill(skill);
             const label = SKILL_LABELS[skill];
             return (
               <Link
@@ -56,15 +54,6 @@ export default async function ExamPage({
               >
                 <div className="flex items-baseline justify-between gap-3">
                   <h3 className="text-base font-semibold text-almi-ink">{label.en}</h3>
-                  {free ? (
-                    <span className="rounded-full bg-almi-teal/15 px-2 py-0.5 text-[11px] font-bold uppercase tracking-wide text-almi-teal">
-                      Free
-                    </span>
-                  ) : (
-                    <span className="rounded-full bg-almi-coral px-2 py-0.5 text-[11px] font-bold uppercase tracking-wide text-almi-ink">
-                      Pro
-                    </span>
-                  )}
                 </div>
                 <p className="mt-1 text-sm text-almi-text-muted">{label.is}</p>
                 <p className="mt-3 text-sm font-semibold text-almi-coral">Practise →</p>
