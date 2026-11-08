@@ -68,7 +68,7 @@ const CITIZENSHIP_HEDGE =
 const MISSION_LINE =
   "25% of AlmiIcelandic proceeds fund the Shamool Foundation's social mission.";
 const CTA_LINE =
-  "Reading and Listening practice is free; AI feedback on Writing and Speaking and the full timed mock unlock with a 48-hour free trial ($12/month after, cancel anytime).";
+  "Reading and Listening practice is free. Try Writing and Speaking free for 48 hours, no card, with one AI-scored answer of each; unlimited AI feedback and the full timed mock are $12/month after, cancel anytime.";
 
 function levelForSubject(subjectSlug: string): ExamMeta {
   // The CEFR ladder is the honest, general practice target for Icelandic-taught
