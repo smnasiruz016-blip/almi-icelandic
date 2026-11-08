@@ -75,7 +75,7 @@ const FAQ = [
   },
   {
     q: "How much does AlmiIcelandic cost?",
-    a: "Try free for 48 hours, then $12/month. Cancel anytime. Reading and Listening practice is free; AI feedback on Writing and Speaking and the full timed mock are part of the subscription.",
+    a: "Try free for 48 hours, no card. Then $12/month. Cancel anytime. Reading and Listening practice is free. In your first 48 hours you also get Writing and Speaking practice with one AI-scored answer of each; unlimited AI feedback and the full timed mock are part of the subscription.",
   },
 ] as const;
 
@@ -164,7 +164,7 @@ export default function Home() {
               </Link>
             </div>
             <p className="mt-4 text-sm text-almi-text-muted">
-              Try free for 48 hours, then $12/month · Cancel anytime · Reading &amp; Listening free · Original material, never copied
+              Try free for 48 hours, no card. Then $12/month · Cancel anytime · Reading &amp; Listening free · Original material, never copied
             </p>
           </div>
           <ReadinessMockup />
@@ -210,7 +210,7 @@ export default function Home() {
               href="/signup"
               className="inline-flex min-h-[48px] items-center justify-center rounded-full bg-almi-coral px-7 py-3 text-base font-semibold text-almi-ink hover:bg-almi-coral-deep"
             >
-              Practise Ríkisborgarapróf — free trial
+              Practise Ríkisborgarapróf — free for 48 hours
             </Link>
           </div>
         </div>
@@ -293,7 +293,7 @@ export default function Home() {
       <section className="border-t border-almi-bg-peach bg-almi-paper px-6 py-16">
         <div className="mx-auto max-w-3xl text-center">
           <h2 className="text-3xl font-semibold text-almi-ink">Simple, honest pricing</h2>
-          <p className="mt-3 text-xl font-semibold text-almi-ink">Try free for 48 hours, then $12/month. Cancel anytime.</p>
+          <p className="mt-3 text-xl font-semibold text-almi-ink">Try free for 48 hours, no card. Then $12/month. Cancel anytime.</p>
           <ul className="mx-auto mt-6 max-w-xl space-y-2 text-left text-sm text-almi-text">
             {PRICING_LINES.map((line) => (
               <li key={line} className="flex items-start gap-2">
@@ -339,7 +339,7 @@ export default function Home() {
           <h2 className="text-3xl font-semibold text-almi-ink">Practise honestly. Walk in ready.</h2>
           <p className="mt-3 text-base text-almi-text">
             All three Icelandic tracks at your level, honest readiness estimates, 100% original material. Try
-            free for 48 hours, then $12/month.
+            free for 48 hours, no card. Then $12/month.
           </p>
           <div className="mt-8">
             <Link href="/signup" className="inline-flex min-h-[48px] items-center justify-center rounded-full bg-almi-coral px-7 py-3 text-base font-semibold text-almi-ink hover:bg-almi-coral-deep">

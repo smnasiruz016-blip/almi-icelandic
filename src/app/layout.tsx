@@ -16,7 +16,7 @@ export const metadata: Metadata = {
     template: "%s · AlmiIcelandic",
   },
   description:
-    "Practise Icelandic for Ríkisborgarapróf (the A2 citizenship language test), the University of Iceland entrance exam, and the CEFR levels A1–C1 with honest per-skill readiness estimates and AI feedback. Try free for 48 hours, then $12/month. Original material, never copied from official exam papers. Part of the AlmiWorld family.",
+    "Practise Icelandic for Ríkisborgarapróf (the A2 citizenship language test), the University of Iceland entrance exam, and the CEFR levels A1–C1 with honest per-skill readiness estimates and AI feedback. Try free for 48 hours, no card. Then $12/month. Original material, never copied from official exam papers. Part of the AlmiWorld family.",
   applicationName: "AlmiIcelandic",
   authors: [{ name: "AlmiWorld" }],
   keywords: ["Ríkisborgarapróf", "Icelandic citizenship test", "learn Icelandic", "Icelandic exam practice", "University of Iceland Icelandic entrance", "CEFR Icelandic", "íslenskupróf", "AlmiIcelandic", "AlmiWorld"],
