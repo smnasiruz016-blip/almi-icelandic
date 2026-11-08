@@ -258,7 +258,6 @@ model IcelandicItem {
   active     Boolean         @default(true)
   createdAt  DateTime        @default(now())
   updatedAt  DateTime        @updatedAt
-  attempts   IcelandicAttempt[]
 
   @@index([track, exam, skill, active])
   @@index([exam, skill])
@@ -283,7 +282,8 @@ model IcelandicAttempt {
   submittedAt DateTime?
 
   user    User          @relation(fields: [userId], references: [id], onDelete: Cascade)
-  item    IcelandicItem     @relation(fields: [itemId], references: [id], onDelete: Cascade)
+  // RR-399 A1: itemId is a plain id (the bundle item's stable id), indexed, with NO foreign key: items are served from JSON bundles
+  // and the IcelandicItem table is never filled, so the old required FK made every attempt write fail.
   session IcelandicSession? @relation(fields: [sessionId], references: [id], onDelete: SetNull)
 
   @@index([userId, createdAt])
@@ -307,4 +307,16 @@ model IcelandicSession {
   attempts IcelandicAttempt[]
 
   @@index([userId, createdAt])
+}
+
+/// RR-399 A3: one free AI scoring per kind per account, reserved atomically BEFORE the AI call (unique userId + kind).
+/// No relation to User on purpose: adding this table changes nothing else in the schema.
+model FreeAiUse {
+  id        String   @id @default(cuid())
+  userId    String
+  kind      String
+  createdAt DateTime @default(now())
+
+  @@unique([userId, kind])
+  @@index([createdAt])
 }
